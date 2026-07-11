@@ -28,6 +28,33 @@ class BaseProcessor(ABC):
         """Process a single raw item into a Component dict. Returns None to skip."""
         return raw
 
+    def update_existing(self, category: str) -> list[dict] | None:
+        """Attempt to scrape live data. Returns merged data or None if nothing new.
+        
+        Used by daily_update — if scraping fails, returns None so the
+        existing JSON file is NOT overwritten.
+        """
+        logger.info("Attempting live scrape for category: %s", self.CATEGORY)
+        try:
+            raw_items = self.fetch_data()
+            if raw_items and len(raw_items) >= 3:
+                logger.info("Fetched %d live items for %s", len(raw_items), self.CATEGORY)
+                processed = []
+                for item in raw_items:
+                    try:
+                        result = self.process_item(item)
+                        if result is not None:
+                            processed.append(result)
+                    except Exception as e:
+                        logger.warning("Failed to process item %s: %s", item.get("name", "?"), e)
+                if processed:
+                    return processed
+            logger.warning("Live scrape returned insufficient data for %s — keeping existing", self.CATEGORY)
+            return None
+        except Exception as e:
+            logger.error("Live scrape failed for %s: %s — keeping existing", self.CATEGORY, e)
+            return None
+
     def process_all(self) -> list[dict]:
         """Fetch and process all items. Falls back to seed data on failure."""
         logger.info("Starting processing for category: %s", self.CATEGORY)

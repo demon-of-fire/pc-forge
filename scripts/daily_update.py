@@ -160,23 +160,32 @@ def run_update(
         data_file = DATA_DIR / f"{category}.json"
         existing = load_existing_data(data_file)
 
-        new_data = processor.process_all()
-        new_data = deduplicate_category(new_data, category)
+        scraped_data = processor.update_existing(category)
 
-        merged, category_changes = diff_categories(existing, new_data, category)
+        if scraped_data is None:
+            logger.info("No live data for %s — keeping %d existing items", category, len(existing))
+            merged = existing
+        else:
+            merged, _ = diff_categories(existing, scraped_data, category)
 
-        added_count = len(category_changes["added"])
-        updated_count = len(category_changes["updated"])
-        removed_count = len(category_changes["removed"])
+        added_count = len([i for i in merged if i not in existing]) if scraped_data else 0
+        updated_count = 0
+        removed_count = 0
+
+        if scraped_data:
+            _, category_changes = diff_categories(existing, merged, category)
+            added_count = len(category_changes["added"])
+            updated_count = len(category_changes["updated"])
+            removed_count = len(category_changes["removed"])
 
         logger.info(
             "%s: +%d added, ~%d updated, -%d removed",
             category, added_count, updated_count, removed_count,
         )
 
-        all_changes["added"][category] = category_changes["added"]
-        all_changes["removed"][category] = category_changes["removed"]
-        all_changes["updated"][category] = category_changes["updated"]
+        all_changes["added"][category] = []
+        all_changes["removed"][category] = []
+        all_changes["updated"][category] = []
 
         if not dry_run:
             DATA_DIR.mkdir(parents=True, exist_ok=True)

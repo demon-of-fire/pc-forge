@@ -47,8 +47,8 @@ export function checkCompatibility(build: PCBuild): CompatibilityResult[] {
   // 3. PSU Wattage
   if (components.psu) {
     let estimatedDraw = 0;
-    if (components.cpu) estimatedDraw += components.cpu.tdp;
-    if (components.gpu) estimatedDraw += components.gpu.powerConsumption;
+    if (components.cpu) estimatedDraw += components.cpu.tdp ?? 65;
+    if (components.gpu) estimatedDraw += components.gpu.powerConsumption ?? 150;
     estimatedDraw += 100; // Base system draw (Fans, SSDs, etc)
 
     const psuWattage = components.psu.wattage;

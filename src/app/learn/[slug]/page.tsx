@@ -13,8 +13,8 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function ArticlePage({ params }: { params: { slug: string } }) {
-  const { slug } = params;
+export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   const articleMeta = meta.find((m) => m.slug === slug);
 
   if (!articleMeta) notFound();

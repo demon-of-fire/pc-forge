@@ -35,8 +35,8 @@ export async function generateStaticParams() {
   return paths;
 }
 
-export default async function ComponentDetailPage({ params }: { params: { category: string; slug: string } }) {
-  const { category, slug } = params;
+export default async function ComponentDetailPage({ params }: { params: Promise<{ category: string; slug: string }> }) {
+  const { category, slug } = await params;
   const config = categoryMap[category];
 
   if (!config) notFound();

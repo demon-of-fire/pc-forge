@@ -22,8 +22,8 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function CategoryPage({ params }: { params: { category: string } }) {
-  const { category } = params;
+export default async function CategoryPage({ params }: { params: Promise<{ category: string }> }) {
+  const { category } = await params;
   const config = categoryMap[category];
 
   if (!config) {

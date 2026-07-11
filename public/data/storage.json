@@ -37,64 +37,6 @@
     "tbw": 1200
   },
   {
-    "id": "storage-wd-blue-sn580-1tb",
-    "slug": "wd-blue-sn580-1tb",
-    "name": "WD Blue SN580 1TB NVMe SSD",
-    "manufacturer": "Western Digital",
-    "image": "/images/storage/sn580.jpg",
-    "officialUrl": "https://www.wd.com/...",
-    "releaseDate": "2023-01-01",
-    "msrp": 89,
-    "description": "Affordable and reliable NVMe storage for everyday use.",
-    "prices": [
-      {
-        "retailer": "Amazon",
-        "price": 75,
-        "currency": "GBP",
-        "url": "https://amazon.co.uk/...",
-        "availability": "in-stock",
-        "lastChecked": "2026-07-10"
-      }
-    ],
-    "type": "storage",
-    "capacity": 1000,
-    "interface": "NVMe",
-    "readSpeed": 4150,
-    "writeSpeed": 4150,
-    "nandType": "TLC",
-    "formFactor": "M.2 2280",
-    "tbw": 600
-  },
-  {
-    "id": "storage-seagate-barracuda-4tb",
-    "slug": "seagate-barracuda-4tb-hdd",
-    "name": "Seagate BarraCuda 4TB HDD",
-    "manufacturer": "Seagate",
-    "image": "/images/storage/barracuda-4tb.jpg",
-    "officialUrl": "https://www.seagate.com/...",
-    "releaseDate": "2019-01-01",
-    "msrp": 109,
-    "description": "High-capacity storage for backups and media libraries.",
-    "prices": [
-      {
-        "retailer": "Amazon",
-        "price": 89,
-        "currency": "GBP",
-        "url": "https://amazon.co.uk/...",
-        "availability": "in-stock",
-        "lastChecked": "2026-07-10"
-      }
-    ],
-    "type": "storage",
-    "capacity": 4000,
-    "interface": "SATA",
-    "readSpeed": 180,
-    "writeSpeed": 180,
-    "nandType": "TLC",
-    "formFactor": "3.5 inch",
-    "tbw": null
-  },
-  {
     "name": "Crucial BX500",
     "url": "https://pcparts.uk/product/8861/crucial-bx500-1tb-25-sata-solid-state-drive-ct1000bx500ssd1",
     "price": 139.99,
@@ -264,7 +206,17 @@
     "image": "https://pcparts.uk/img.thumb.ec820df0a5da8973c9c64d94da791ee00ed6dfacb3089bf31953ceb7164ec0fc.jpg",
     "source": "pcparts.uk",
     "external_id": "24784",
-    "scraped_at": "2026-07-11T13:50:08.588337+00:00"
+    "scraped_at": "2026-07-11T13:50:08.588337+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 519.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24784/samsung-990-evo-plus-4tb-m2-2280-pci-e-40-nvme-sol-mz-v9s4t0bw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Samsung 9100 PRO",
@@ -409,7 +361,17 @@
     "image": "https://pcparts.uk/img.thumb.3a128111a55176495a56e87dbf113344b26d67e76e24bee97ed8972fc32f22e7.webp",
     "source": "pcparts.uk",
     "external_id": "25801",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1224.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25801/western-digital-black-sn8100-4tb-m2-2280-pci-e-50-wds400t1x0m-00cmt0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Western Digital Black SN850X",
@@ -505,7 +467,17 @@
     "image": "https://pcparts.uk/img.thumb.04570946d5e7df64c700b5b5d2e41ad11f9e9c58fdf8e87cbbfdd89d89c2f9ec.jpg",
     "source": "pcparts.uk",
     "external_id": "8546",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1169.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8546/samsung-870-evo-4tb-25-sata-solid-state-drive-mz-77e4t0beu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Western Digital Black SN850X",
@@ -697,7 +669,17 @@
     "image": "https://pcparts.uk/img.thumb.735ef6673a6d93c41a2235708e700da63a0435ad8cda9a1b41034fe759e8bebb.jpg",
     "source": "pcparts.uk",
     "external_id": "26644",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 367.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26644/kingston-nv3-snv3sm32t0-2tb-m2-2230-pci-e-40-nvme-snv3sm32t0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lexar NM620",
@@ -769,7 +751,17 @@
     "image": "https://pcparts.uk/img.thumb.ee9bf41f5ea39600b1861886e044361b7c8b0aabe6f5b2f8cc48037d86f6ab85.jpg",
     "source": "pcparts.uk",
     "external_id": "25177",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 114.49,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25177/adata-legend-710-1tb-m2-2280-nvme-solid-state-driv-aleg-710-1tcs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA LEGEND 860",
@@ -805,7 +797,17 @@
     "image": "https://pcparts.uk/img.thumb.b128e8d71fe6e48b0c2d9442a49922de9e8875502b76f3681d7a27da56d51ddc.jpg",
     "source": "pcparts.uk",
     "external_id": "25786",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 92.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25786/adata-legend-860-500gb-m2-2280-pci-e-40-nvme-solid-sleg-860-500gcs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA Ultimate SU630",
@@ -889,7 +891,17 @@
     "image": "https://pcparts.uk/img.thumb.cfd59a3f379105abe0f6b88cde18bb97a5c6cf775df702b8e71e8af70afe4b51.png",
     "source": "pcparts.uk",
     "external_id": "22742",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 203.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22740/crucial-t500-w-heatsink-1tb-m2-2280-pci-e-40-nvme-ct1000t500ssd5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial T700",
@@ -1021,7 +1033,17 @@
     "image": "https://pcparts.uk/img.thumb.d1079def2d0f882d6195fedb2b9b5487ea1f97b8b54508b71d04eac88cf5c6f6.jpg",
     "source": "pcparts.uk",
     "external_id": "22249",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 890.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22249/samsung-990-pro-w-heatsink-4tb-m2-2280-pci-e-40-nv-mz-v9p4t0gw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Western Digital Black SN770",
@@ -1081,7 +1103,17 @@
     "image": "https://pcparts.uk/img.thumb.f51d4d4a575e31d7ef531ef5bea4f129bc9009cda55ea1147f33af9f85523e4c.jpg",
     "source": "pcparts.uk",
     "external_id": "25791",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 319.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25790/adata-xpg-mars-980-blade-2tb-m2-2280-pci-e-50-nvme-smar-980b-2tcs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 CORE XT",
@@ -1117,7 +1149,17 @@
     "image": "https://pcparts.uk/img.thumb.f1018dc2f7be8cabb2e4f9d0f20e65813fdd012ef252b22a6df59d7298e4556d.webp",
     "source": "pcparts.uk",
     "external_id": "25787",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 144.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25787/crucial-e100-1tb-m2-2280-pci-e-40-nvme-solid-state-ct1000e100ssd8",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial T500",
@@ -1129,7 +1171,17 @@
     "image": "https://pcparts.uk/img.thumb.ce5f8b2002cd75f6d875fbb5405e8a76291a63124f5ac99005cfcb06ac5bc55b.png",
     "source": "pcparts.uk",
     "external_id": "22897",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 181.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22739/crucial-t500-1tb-m2-2280-pci-e-40-nvme-solid-state-ct1000t500ssd8",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial T700",
@@ -1141,7 +1193,17 @@
     "image": "https://pcparts.uk/img.thumb.6a643e3d141d19a9c5206c07ce940e86ee4f9187aebf382c6fb3841dd7a2e5ec.png",
     "source": "pcparts.uk",
     "external_id": "20713",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 299.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20715/crucial-t700-2tb-m2-2280-pci-e-50-nvme-solid-state-ct2000t700ssd3",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial T705",
@@ -1153,7 +1215,17 @@
     "image": "https://pcparts.uk/img.thumb.b3dcd9bd032c184c6c0392f00e7ed07be8b93cc5a91b5d6221e2449704fec4b8.png",
     "source": "pcparts.uk",
     "external_id": "23427",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 399.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23427/crucial-t705-2tb-m2-2280-pci-e-50-nvme-solid-state-ct2000t705ssd3",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial T705 - w/ Heatsink",
@@ -1225,7 +1297,17 @@
     "image": "https://pcparts.uk/img.thumb.cc11899db8a83085d08f363cab9731b1b6f1dab8a78f931b9bad6e99d8214d9c.jpg",
     "source": "pcparts.uk",
     "external_id": "12359",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 164.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12359/kingston-kc3000-512gb-m2-2280-pci-e-40-nvme-solid-skc3000s512g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston KC600",
@@ -1273,7 +1355,17 @@
     "image": "https://pcparts.uk/img.thumb.41e64240d52a8583c68a0a3c4bee8bbecaefec505d5a961deb6d8eae9cb1a1f1.jpg",
     "source": "pcparts.uk",
     "external_id": "9017",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 137.57,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/9017/kingston-kc600-512gb-25-sata-solid-state-drive-skc600512g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston KC600 mSATA",
@@ -1337,7 +1429,17 @@
     "image": "https://pcparts.uk/img.thumb.c0904a6efe8010eab4dd2d0e09bc59c1dc7fb2ef42a19d07456420bc416b2978.jpg",
     "source": "pcparts.uk",
     "external_id": "24118",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 99.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24118/kingston-nv3-500gb-m2-2280-pci-e-40-nvme-solid-sta-snv3s500g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lexar NM1090 PRO",
@@ -1373,7 +1475,17 @@
     "image": "https://pcparts.uk/img.thumb.19cb8c12a7460d98b896a1aef5e1aafdaa7a24e3f0da95c0d350aab0299789d7.webp",
     "source": "pcparts.uk",
     "external_id": "26641",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 519.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26641/lexar-nm1090-pro-4tb-m2-2280-pci-e-50-nvme-solid-s-lnm109p004t-rnnng",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lexar NM620",
@@ -1397,7 +1509,17 @@
     "image": "https://pcparts.uk/img.thumb.d42154eac478b70a78c20208e07fcf4835ea2fb3fea01fb9459cb7fc834e255c.png",
     "source": "pcparts.uk",
     "external_id": "20721",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 264.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20721/lexar-nm620-2tb-m2-2280-nvme-solid-state-drive-lnm620x002t-rnnng",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lexar NM790 - w/ Heatsink",
@@ -1445,7 +1567,17 @@
     "image": "https://pcparts.uk/img.thumb.8d2adbe7879c0ae526aebacba0e63ca544662c812f0a58a93808e0d944e30a44.jpg",
     "source": "pcparts.uk",
     "external_id": "26646",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1599.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26646/samsung-9100-pro-8tb-m2-2280-pci-e-50-nvme-solid-s-mz-vap8t0bw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Samsung 9100 PRO - w/ Heatsink",
@@ -1505,7 +1637,17 @@
     "image": "https://pcparts.uk/img.thumb.878cd1dc7d7227b6c6b869ee27fe215206bbdd17d6bd3b577573269491920a0d.jpg",
     "source": "pcparts.uk",
     "external_id": "16249",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 48.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/16249/team-group-gx1-240gb-25-solid-state-drive-t253x1240g0c101",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Transcend 110S",
@@ -1541,7 +1683,17 @@
     "image": "https://pcparts.uk/img.thumb.a9079adb39a4481dbad2a69d60047400fb047a627d8fd26a4a4fc96c80883e63.webp",
     "source": "pcparts.uk",
     "external_id": "16282",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 192.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/16278/western-digital-black-sn850x-1tb-m2-2280-pci-e-40-wds100t2x0e",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Western Digital Blue SA510",
@@ -1589,7 +1741,17 @@
     "image": "https://pcparts.uk/img.thumb.28f864b94a0298e40b7ba0e62a823aca37cc3320820ef806c20df75ae03d8f58.png",
     "source": "pcparts.uk",
     "external_id": "26640",
-    "scraped_at": "2026-07-11T13:50:21.322669+00:00"
+    "scraped_at": "2026-07-11T13:50:21.322669+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 299.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26640/western-digital-blue-sn5100-2tb-m2-2280-pci-e-40-n-wds200t5b0e-00cpe0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Western Digital Green SN3000",
@@ -1625,7 +1787,17 @@
     "image": "https://pcparts.uk/img.thumb.f5096115d67f04b0d709d296e559b616b1843ee9e29fc5564320d9e242734d9e.png",
     "source": "pcparts.uk",
     "external_id": "12311",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 399.56,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12311/western-digital-green-sn350-2tb-m2-2280-nvme-solid-wds200t3g0c",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA Legend 900",
@@ -1649,7 +1821,17 @@
     "image": "https://pcparts.uk/img.thumb.873d4236c95736c0329536e5ca2aa5825ca3f1914bff76bf0d752c0ce3fb4c4c.jpg",
     "source": "pcparts.uk",
     "external_id": "25176",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 279.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25176/adata-legend-900-2tb-m2-2280-pci-e-40-nvme-solid-s-sleg-900-2tcs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA Ultimate SU630",
@@ -1721,7 +1903,17 @@
     "image": "https://pcparts.uk/img.thumb.820314613bc23481667aa7db5fac08d349041aebdc195123351be477d772f90a.png",
     "source": "pcparts.uk",
     "external_id": "16041",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 109.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/16041/adata-xpg-gammix-s70-blade-512gb-m2-2280-pci-e-40-agammixs70b-512g-cs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Force MP700 Pro",
@@ -1829,7 +2021,17 @@
     "image": "https://pcparts.uk/img.thumb.64d2f1faf3fbc44aa242f706f7a3dd44fcdd68c3e114820b9bf65bdbb143b3bd.png",
     "source": "pcparts.uk",
     "external_id": "24106",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 257.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24106/crucial-p310-2tb-m2-2230-pci-e-40-nvme-solid-state-ct2000p310ssd2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial P5 Plus",
@@ -1953,7 +2155,17 @@
     "image": "https://pcparts.uk/img.thumb.7527e518a63e6efe2203d7dda034c42ccc33e317f03201d257673d65788a63a7.png",
     "source": "pcparts.uk",
     "external_id": "22607",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 273.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22607/lexar-nm610pro-2tb-m2-2280-solid-state-drive-lnm610p002t-rnnng",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lexar NM790",
@@ -1965,7 +2177,17 @@
     "image": "https://pcparts.uk/img.thumb.f5ea613a6a4a399599b2edf3fa963e0ac64b77e9c6b0f48cea9eef8c08504c15.png",
     "source": "pcparts.uk",
     "external_id": "21834",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 434.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21834/lexar-nm790-4tb-m2-2280-pci-e-40-nvme-solid-state-lnm790x004t-rnnng",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lexar NS100",
@@ -1989,7 +2211,17 @@
     "image": "https://pcparts.uk/img.thumb.489d31aea4ff77ce209f3fb41274ca96c95b086e361bad8cc6653e349a33b489.png",
     "source": "pcparts.uk",
     "external_id": "8892",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 133.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8892/lexar-ns100-1tb-25-sata-solid-state-drive-lns100-1trb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Micron 7400 MAX",
@@ -2085,7 +2317,17 @@
     "image": "https://pcparts.uk/img.thumb.69f35a18c8589a636eeee0e6428b6d3e56f7962acee160a8438b04c5d39a8414.png",
     "source": "pcparts.uk",
     "external_id": "16185",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 119.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/16185/pny-cs900-1tb-25-solid-state-drive-ssd7cs900-1tb-rb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Sabrent Rocket 2230 - Steam Deck Compatible",
@@ -2145,7 +2387,17 @@
     "image": "https://pcparts.uk/img.thumb.51807a3c08951a6d24505ca68c0ebb6e0bbfa3623c84cf9874953272572dac16.jpg",
     "source": "pcparts.uk",
     "external_id": "26766",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 793.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26766/samsung-9100-pro-w-heatsink-4tb-m2-2280-pci-e-50-n-mz-vap4t0cw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Samsung 980",
@@ -2157,7 +2409,17 @@
     "image": "https://pcparts.uk/img.thumb.6ea138df81d1b76be14d86e2e85b0a532a928ddc1c1e648eca8d797b26022546.jpg",
     "source": "pcparts.uk",
     "external_id": "8503",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 269.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8557/samsung-980-1tb-m2-2280-nvme-solid-state-drive-mz-v8v1t0bw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Samsung 990 EVO",
@@ -2217,7 +2479,17 @@
     "image": "https://pcparts.uk/img.thumb.f37fd813b3464f361694585ca5f9a88161d935e9a052274462ba8a5b9912b6d5.jpg",
     "source": "pcparts.uk",
     "external_id": "16254",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 82.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/16254/team-group-gx2-512gb-25-solid-state-drive-t253x2512g0c101",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group MP33",
@@ -2229,7 +2501,17 @@
     "image": "https://pcparts.uk/img.thumb.f305e2bd66c173b864fa4ada421f8954ff2f17a1a8320085e7f5ef158674df71.jpg",
     "source": "pcparts.uk",
     "external_id": "16255",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 129.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/16255/team-group-mp33-1tb-m2-2280-nvme-solid-state-drive-tm8fp6001t0c101",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group MP44",
@@ -2289,7 +2571,17 @@
     "image": "https://pcparts.uk/img.thumb.46e0c708da86654176a60be5c161feb9620fc5e6a5d7ee57f2075a37e52f5f36.jpg",
     "source": "pcparts.uk",
     "external_id": "24131",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 215.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24131/team-group-ms30-2tb-m2-2280-solid-state-drive-tm8ps7002t0c101",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group QX",
@@ -2301,7 +2593,17 @@
     "image": "https://pcparts.uk/img.thumb.5c55ed8194f25f2bfd3c10876a9c5017477e060a8be370408356742f16270178.jpg",
     "source": "pcparts.uk",
     "external_id": "24144",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 204.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24144/team-group-qx-2tb-25-sata-solid-state-drive-t253x7002t0c101",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Transcend 110S",
@@ -2337,7 +2639,17 @@
     "image": "https://pcparts.uk/img.thumb.c729aa227ffa2d75d0fe74058c03885279dedce2ece7a511e655b1fe5fb88c1b.jpg",
     "source": "pcparts.uk",
     "external_id": "8613",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8613/verbatim-vi560-s3-256gb-m2-2280-solid-state-drive-49362",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Western Digital Black SN7100",
@@ -2349,7 +2661,17 @@
     "image": "https://pcparts.uk/img.thumb.045af85e9093f28382751c8afdf14cbc057041cb69414ff6c95e9306aa439806.webp",
     "source": "pcparts.uk",
     "external_id": "25180",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 147.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25180/western-digital-black-sn7100-500gb-m2-2280-pci-e-4-wds500g4x0e-00cja0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Western Digital Blue SA510",
@@ -2397,7 +2719,17 @@
     "image": "https://pcparts.uk/img.thumb.00ae9d91761ff9b219eb3238adde8129eee28850e70e749a8438fe6f5dd84ea8.png",
     "source": "pcparts.uk",
     "external_id": "16287",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 410.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22255/western-digital-blue-sa510-2tb-25-sata-solid-state-wds200t3b0a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Western Digital Blue SN5000",
@@ -2409,7 +2741,17 @@
     "image": "https://pcparts.uk/img.thumb.7bf629deae52c6235b019c10a0640f91d182b0aeb4d16c4169fff1e9a9b48561.webp",
     "source": "pcparts.uk",
     "external_id": "24123",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 184.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24123/western-digital-blue-sn5000-1tb-m2-2280-pci-e-40-n-wdbs3f0010bnc-wrsn",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Western Digital Blue SN580",
@@ -2433,7 +2775,17 @@
     "image": "https://pcparts.uk/img.thumb.fae89fbbcb1bd192ffd9a1e05fc4b22781039dcafa4fba6ab5aa480206822ac7.webp",
     "source": "pcparts.uk",
     "external_id": "25191",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 219.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25192/western-digital-green-sn3000-2tb-m2-2280-pci-e-40-wds200t4g0e",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "2-Power",
@@ -2613,7 +2965,17 @@
     "image": "https://pcparts.uk/img.thumb.4ab0b431844e6aea51e1bbad322e968f065ee9dce9bd8353007dff809807b825.jpg",
     "source": "pcparts.uk",
     "external_id": "17795",
-    "scraped_at": "2026-07-11T13:50:25.725039+00:00"
+    "scraped_at": "2026-07-11T13:50:25.725039+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 65.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8839/adata-ultimate-su630-480gb-25-sata-solid-state-dri-asu630ss-480gq-r",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA Ultimate SU650",
@@ -3299,7 +3661,17 @@
     "image": "https://pcparts.uk/img.thumb.c8a19150b82f8f77cf1b852d1b4ac26e033e3b6a000221085ad1ee764980924a.webp",
     "source": "pcparts.uk",
     "external_id": "25195",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 314.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25197/corsair-force-mp700-elite-1tb-m2-2280-pci-e-50-nvm-cssd-f1000gbmp700enh",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Force MP700 Elite - w/ Heatsink",
@@ -3323,7 +3695,17 @@
     "image": "https://pcparts.uk/img.thumb.77fd67c85f432c388be5825953b6014a0e7e9897e3de46c28bc35a27387679a2.webp",
     "source": "pcparts.uk",
     "external_id": "25194",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 494.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25194/corsair-force-mp700-elite-w-heatsink-2tb-m2-2280-p-cssd-f2000gbmp700ehs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Force MP700 Pro",
@@ -3335,7 +3717,17 @@
     "image": "https://pcparts.uk/img.thumb.140d9d2e90a9aeba129d906a8a2760da719ff0c007f5bab0aac85074212729ae.png",
     "source": "pcparts.uk",
     "external_id": "22893",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 324.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22893/corsair-force-mp700-pro-1tb-m2-2280-pci-e-50-nvme-cssd-f1000gbmp700pnh",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP400",
@@ -3503,7 +3895,17 @@
     "image": "https://pcparts.uk/img.thumb.c41a4e960f7658fa706746bcd9e3e372cd0861dc6ad73fb14151a627ad36402a.png",
     "source": "pcparts.uk",
     "external_id": "20309",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 674.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20309/corsair-mp600-core-xt-4tb-m2-2280-pci-e-40-nvme-so-cssd-f4000gbmp600cxt",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 ELITE",
@@ -3539,7 +3941,17 @@
     "image": "https://pcparts.uk/img.thumb.94bdd326c88c8b1c78c70b1fc37af2340897017feb42ac66338ea962e4d8e456.webp",
     "source": "pcparts.uk",
     "external_id": "26655",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 869.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26655/corsair-mp600-elite-4tb-m2-2280-pci-e-40-nvme-soli-cssd-f4000gbmp600enh",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 ELITE - w/ Heatsink",
@@ -3575,7 +3987,17 @@
     "image": "https://pcparts.uk/img.thumb.67579d3e0c014f8fb3cbb6ecdef6c06881e4cb58b667a9bf5c2af0e662ddc818.webp",
     "source": "pcparts.uk",
     "external_id": "26654",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1044.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26654/corsair-mp600-elite-w-heatsink-4tb-m2-2280-pci-e-4-cssd-f4000gbmp600ehs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 ELITE - w/ Heatsink - White",
@@ -3587,7 +4009,17 @@
     "image": "https://pcparts.uk/img.thumb.eb18753890907ae4ce8061efebadf9513b2a96705cd7c75f630ac3436c3fe54f.webp",
     "source": "pcparts.uk",
     "external_id": "26656",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1044.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26656/corsair-mp600-elite-w-heatsink-4tb-m2-2280-pci-e-4-cssd-f4000gbmp600ecs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 ELITE - w/ Heatsink, PS5 Edition",
@@ -3599,7 +4031,17 @@
     "image": "https://pcparts.uk/img.thumb.1271751f78ebd4415c290fabfbea45936e3d2bca06a620570c512debf9e39559.webp",
     "source": "pcparts.uk",
     "external_id": "23420",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 449.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23420/corsair-mp600-elite-w-heatsink-ps5-edition-2tb-m2-cssd-f2000gbmp600ecs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 GS",
@@ -3635,7 +4077,17 @@
     "image": "https://pcparts.uk/img.thumb.3ecf9e19bf3499b74920530b97270fc29a2f556f008e759912784a6831c5ac27.png",
     "source": "pcparts.uk",
     "external_id": "18631",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 289.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18631/corsair-mp600-gs-500gb-m2-2280-pci-e-40-nvme-solid-cssd-f0500gbmp600gs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 MICRO",
@@ -3659,7 +4111,17 @@
     "image": "https://pcparts.uk/img.thumb.7d83aa2f54afdb8bfc7c1151a0c1c6163382ddc08285b3acdb6059120ed2aaa7.webp",
     "source": "pcparts.uk",
     "external_id": "26652",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 534.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26652/corsair-mp600-micro-1tb-m2-2242-pci-e-40-solid-sta-cssd-f1000gbmp600mcr2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 MINI",
@@ -3671,7 +4133,17 @@
     "image": "https://pcparts.uk/img.thumb.aa6fb74021ccaf67917c2f8e45f59caf87aa8d4d6b19f27812d95be304d15e59.webp",
     "source": "pcparts.uk",
     "external_id": "24149",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 929.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24149/corsair-mp600-mini-2tb-m2-2230-pci-e-40-nvme-solid-cssd-f2000gbmp600mnr2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 MINI - Compatible w/ Steam Deck",
@@ -3791,7 +4263,17 @@
     "image": "https://pcparts.uk/img.thumb.aa7bc6937c69e45969a968eef79e87c69c731ff2cd703b9bb4063bc20fec3f20.png",
     "source": "pcparts.uk",
     "external_id": "22614",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1449.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22614/corsair-mp600-pro-lpx-8tb-m2-2280-pci-e-40-nvme-so-cssd-f8000gbmp600plp",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 PRO LPX - PS5 Compatible",
@@ -3827,7 +4309,17 @@
     "image": "https://pcparts.uk/img.thumb.f4d9e7825f4fa97cc204456a6051a6e22859bcf829688164ecf652d66ee4d4a8.png",
     "source": "pcparts.uk",
     "external_id": "20233",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1069.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20233/corsair-mp600-pro-lpx-ps5-compatible-4tb-m2-2280-p-cssd-f4000gbmp600plpw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 PRO NH",
@@ -3851,7 +4343,17 @@
     "image": "https://pcparts.uk/img.thumb.70803c8712ae5ef2fb49db1c99f3dd22aca1fe2a89dfa65084378915b7672d1f.png",
     "source": "pcparts.uk",
     "external_id": "18634",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 579.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18888/corsair-mp600-pro-nh-2tb-m2-2280-pci-e-40-nvme-sol-cssd-f2000gbmp600pnh",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 PRO XT",
@@ -3899,7 +4401,17 @@
     "image": "https://pcparts.uk/img.thumb.f0727ed387343f890a35acab03676c46c9f958962861be834441a8ea3b94def6.png",
     "source": "pcparts.uk",
     "external_id": "18483",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1509.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18483/corsair-mp600-pro-xt-8tb-m2-2280-pci-e-40-nvme-sol-cssd-f8000gbmp600pxt",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 PRO XT Hydro X",
@@ -3935,7 +4447,17 @@
     "image": "https://pcparts.uk/img.thumb.c81ffeffc2b2d5a3f0823460532b7bff40c45ee2aea1d698be0e3677a6b98117.png",
     "source": "pcparts.uk",
     "external_id": "12337",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 734.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12337/corsair-mp600-pro-xt-hydro-x-4tb-m2-2280-pci-e-40-cssd-f4000gbmp600phxt",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP600 R2",
@@ -3983,7 +4505,17 @@
     "image": "https://pcparts.uk/img.thumb.c8a19150b82f8f77cf1b852d1b4ac26e033e3b6a000221085ad1ee764980924a.webp",
     "source": "pcparts.uk",
     "external_id": "26650",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 834.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26650/corsair-mp700-elite-4tb-m2-2280-pci-e-50-nvme-soli-cssd-f4000gbmp700enh",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP700 ELITE - w/ Heatsink",
@@ -3995,7 +4527,17 @@
     "image": "https://pcparts.uk/img.thumb.77fd67c85f432c388be5825953b6014a0e7e9897e3de46c28bc35a27387679a2.webp",
     "source": "pcparts.uk",
     "external_id": "26651",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 844.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26651/corsair-mp700-elite-w-heatsink-4tb-m2-2280-pci-e-5-cssd-f4000gbmp700ehs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP700 MICRO",
@@ -4019,7 +4561,17 @@
     "image": "https://pcparts.uk/img.thumb.1ae0d35c30e9e9ecb15142c769d6fd688d3f5273a814dc75f1c6ac2360ab8793.webp",
     "source": "pcparts.uk",
     "external_id": "24102",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 849.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24102/corsair-mp700-pro-4tb-m2-2280-pci-e-50-nvme-solid-cssd-f4000gbmp700pnh",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP700 PRO - w/ Air Cooler",
@@ -4055,7 +4607,17 @@
     "image": "https://pcparts.uk/img.thumb.2931bfa4bb316860a33937b749d2b7be65e14657faa60e893f959773062d992d.webp",
     "source": "pcparts.uk",
     "external_id": "24153",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 854.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24153/corsair-mp700-pro-w-air-cooler-4tb-m2-2280-pci-e-5-cssd-f4000gbmp700pro",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP700 PRO - w/ Water Block",
@@ -4067,7 +4629,17 @@
     "image": "https://pcparts.uk/img.thumb.df48a071662c1c9d72ced2e89dc34d2a6632644f8b9dc1b02cfbdf720a97f5e7.png",
     "source": "pcparts.uk",
     "external_id": "23151",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 489.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23151/corsair-mp700-pro-w-water-block-2tb-m2-2280-pci-e-cssd-f2000gbmp700phx",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP700 PRO Hydro X",
@@ -4079,7 +4651,17 @@
     "image": "https://pcparts.uk/img.thumb.d8e509303ef41172faeb1122dcc1ce77a0965c86eb9d595dccf88f0202a9807c.webp",
     "source": "pcparts.uk",
     "external_id": "24152",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 859.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24152/corsair-mp700-pro-hydro-x-4tb-m2-2280-pci-e-50-nvm-cssd-f4000gbmp700phx",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP700 PRO SE",
@@ -4091,7 +4673,17 @@
     "image": "https://pcparts.uk/img.thumb.8b4f744cf65d49d2cea3107e866d9f0a57b6f222f3aaada8c8491c06df920215.webp",
     "source": "pcparts.uk",
     "external_id": "24129",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 764.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24129/corsair-mp700-pro-se-4tb-m2-2280-pci-e-50-nvme-sol-cssd-f4000gbmp700pnhs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP700 PRO SE - w/ Air Cooler",
@@ -4115,7 +4707,17 @@
     "image": "https://pcparts.uk/img.thumb.1781783ba088397ded30ff3a9afc7ae188685468927aa90ed1253974f15548fd.webp",
     "source": "pcparts.uk",
     "external_id": "24148",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 854.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24148/corsair-mp700-pro-se-w-air-cooler-4tb-m2-2280-pci--cssd-f4000gbmp700pros",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair MP700 PRO SE Hydro X",
@@ -4139,7 +4741,17 @@
     "image": "https://pcparts.uk/img.thumb.9f450ed4093d63b1824a65268e2a23da1c32a95bade26fb153a53a3626175cb9.webp",
     "source": "pcparts.uk",
     "external_id": "24151",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 859.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24151/corsair-mp700-pro-se-hydro-x-4tb-m2-2280-pci-e-50-cssd-f4000gbmp700phxs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Neutron NX500",
@@ -4211,7 +4823,17 @@
     "image": "https://pcparts.uk/img.thumb.abd713138bfe9b2571bd624162f533d262c776c44ca18db3d7732f29f5df61de.jpg",
     "source": "pcparts.uk",
     "external_id": "8864",
-    "scraped_at": "2026-07-11T13:50:30.059305+00:00"
+    "scraped_at": "2026-07-11T13:50:30.059305+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 89.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18636/crucial-bx500-500gb-25-sata-solid-state-drive-ct500bx500ssd1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial MX500",
@@ -4547,7 +5169,17 @@
     "image": "https://pcparts.uk/img.thumb.08fc4d58179a943badd3af0f45cae8273bb0b089bfbd4c672329fcd1e530a740.png",
     "source": "pcparts.uk",
     "external_id": "20718",
-    "scraped_at": "2026-07-11T13:50:34.397122+00:00"
+    "scraped_at": "2026-07-11T13:50:34.397122+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 184.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20714/crucial-t700-w-heatsink-1tb-m2-2280-pci-e-50-nvme-ct1000t700ssd5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial T705 - w/ Heatsink",
@@ -4571,7 +5203,17 @@
     "image": "https://pcparts.uk/img.thumb.67f5050b9e9460c9e1546703c52e7fccdd938361496111bad935536b251e5693.png",
     "source": "pcparts.uk",
     "external_id": "23430",
-    "scraped_at": "2026-07-11T13:50:34.397122+00:00"
+    "scraped_at": "2026-07-11T13:50:34.397122+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 226.29,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23425/crucial-t705-w-heatsink-1tb-m2-2280-pci-e-50-nvme-ct1000t705ssd5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Exascend SC3",
@@ -6283,7 +6925,17 @@
     "image": "https://pcparts.uk/img.thumb.faa9234bd5ca6e5a94dcdce12d04a107c687f12e09d50ba1a90ae2cf7fa5066f.jpg",
     "source": "pcparts.uk",
     "external_id": "8993",
-    "scraped_at": "2026-07-11T13:50:38.708066+00:00"
+    "scraped_at": "2026-07-11T13:50:38.708066+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 701.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8992/intel-dc-p4500-2tb-25-nvme-solid-state-drive-ssdpe2kx020t701",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel DC P4510",
@@ -6847,7 +7499,17 @@
     "image": "https://pcparts.uk/img.thumb.dfdd00d645e0ba6e4f7d01b4ca22d264af200acb85238616151586aa59d97960.jpg",
     "source": "pcparts.uk",
     "external_id": "9006",
-    "scraped_at": "2026-07-11T13:50:38.708066+00:00"
+    "scraped_at": "2026-07-11T13:50:38.708066+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 61.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8981/kingston-a400-240gb-25-sata-solid-state-drive-sa400s37240g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston Data Center DC1000B",
@@ -7135,7 +7797,17 @@
     "image": "https://pcparts.uk/img.thumb.dcb64fd396f68f6b049ba7d4ae0d8275ce1b7cb4b1ae9a65b65d0eee2fc1e4cb.jpg",
     "source": "pcparts.uk",
     "external_id": "18893",
-    "scraped_at": "2026-07-11T13:50:38.708066+00:00"
+    "scraped_at": "2026-07-11T13:50:38.708066+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 969.65,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18892/kingston-fury-renegade-w-heatsink-4tb-m2-2280-pci--sfyrdk4000g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston FURY Renegade G5",
@@ -7147,7 +7819,17 @@
     "image": "https://pcparts.uk/img.thumb.7e0952ad81dcd3f24c6b89510de551db438cdd2602190addf952932fac5e7b67.jpg",
     "source": "pcparts.uk",
     "external_id": "26658",
-    "scraped_at": "2026-07-11T13:50:38.708066+00:00"
+    "scraped_at": "2026-07-11T13:50:38.708066+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 2261.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26658/kingston-fury-renegade-g5-8tb-m2-2280-pci-e-50-nvm-sfyr2d8t1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston KC2000",
@@ -7390,5 +8072,63 @@
     "source": "pcparts.uk",
     "external_id": "17806",
     "scraped_at": "2026-07-11T13:50:38.708066+00:00"
+  },
+  {
+    "id": "storage-wd-blue-sn580-1tb",
+    "slug": "wd-blue-sn580-1tb",
+    "name": "WD Blue SN580 1TB NVMe SSD",
+    "manufacturer": "Western Digital",
+    "image": "/images/storage/sn580.jpg",
+    "officialUrl": "https://www.wd.com/...",
+    "releaseDate": "2023-01-01",
+    "msrp": 89,
+    "description": "Affordable and reliable NVMe storage for everyday use.",
+    "prices": [
+      {
+        "retailer": "Amazon",
+        "price": 75,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
+    ],
+    "type": "storage",
+    "capacity": 1000,
+    "interface": "NVMe",
+    "readSpeed": 4150,
+    "writeSpeed": 4150,
+    "nandType": "TLC",
+    "formFactor": "M.2 2280",
+    "tbw": 600
+  },
+  {
+    "id": "storage-seagate-barracuda-4tb",
+    "slug": "seagate-barracuda-4tb-hdd",
+    "name": "Seagate BarraCuda 4TB HDD",
+    "manufacturer": "Seagate",
+    "image": "/images/storage/barracuda-4tb.jpg",
+    "officialUrl": "https://www.seagate.com/...",
+    "releaseDate": "2019-01-01",
+    "msrp": 109,
+    "description": "High-capacity storage for backups and media libraries.",
+    "prices": [
+      {
+        "retailer": "Amazon",
+        "price": 89,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
+    ],
+    "type": "storage",
+    "capacity": 4000,
+    "interface": "SATA",
+    "readSpeed": 180,
+    "writeSpeed": 180,
+    "nandType": "TLC",
+    "formFactor": "3.5 inch",
+    "tbw": null
   }
 ]

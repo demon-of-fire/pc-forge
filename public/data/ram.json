@@ -221,7 +221,17 @@
     "image": "https://pcparts.uk/img.thumb.c3a1be3421c601ba0f6a4dedb89240a03a92c2f6e57a55223bcdbd8c9ef85135.png",
     "source": "pcparts.uk",
     "external_id": "24096",
-    "scraped_at": "2026-07-11T13:48:56.004448+00:00"
+    "scraped_at": "2026-07-11T13:48:56.004448+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 379.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24096/crucial-pro-overclocking-32gb-2-x-16gb-ddr5-6000-c-cp2k16g60c36u5b",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial Pro Overclocking - White",
@@ -248,7 +258,17 @@
     "image": "https://pcparts.uk/img.thumb.b29a97a8c4c51a019f34ef0a8fd6463b824dd7eeced735cebe7c05116694623b.png",
     "source": "pcparts.uk",
     "external_id": "24098",
-    "scraped_at": "2026-07-11T13:49:00.255906+00:00"
+    "scraped_at": "2026-07-11T13:49:00.255906+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 374.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24098/crucial-pro-overclocking-32gb-2-x-16gb-ddr5-6000-c-cp2k16g60c36u5w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 NEO - AMD EXPO",
@@ -388,7 +408,17 @@
     "image": "https://pcparts.uk/img.thumb.09811396bf472832d79d76b32de4104cef096ed842b4eba51f4264db55ebd129.webp",
     "source": "pcparts.uk",
     "external_id": "18431",
-    "scraped_at": "2026-07-11T13:49:17.259267+00:00"
+    "scraped_at": "2026-07-11T13:49:17.259267+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 488.33,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18431/gskill-trident-z5-neo-32gb-2-x-16gb-ddr5-6000-c30-f5-6000j3038f16gx2-tz5n",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 NEO RGB - AMD EXPO",
@@ -448,7 +478,17 @@
     "image": "https://pcparts.uk/img.thumb.eedc132f10b873df3308bfcb1680413954f90ba420da2242530c6e1c055f8cae.jpg",
     "source": "pcparts.uk",
     "external_id": "18052",
-    "scraped_at": "2026-07-11T13:49:17.259267+00:00"
+    "scraped_at": "2026-07-11T13:49:17.259267+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 445.62,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18052/kingston-fury-beast-amd-optimized-32gb-2-x-16gb-dd-kf556c36bbek2-32",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance - Black",
@@ -496,7 +536,17 @@
     "image": "https://pcparts.uk/img.thumb.643e70319a10cad3de48bb47c96ebd9ec98cb6b6e3e6062d7855a7bdddb4af96.webp",
     "source": "pcparts.uk",
     "external_id": "21188",
-    "scraped_at": "2026-07-11T13:49:17.259267+00:00"
+    "scraped_at": "2026-07-11T13:49:17.259267+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1111.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21188/corsair-vengeance-amd-expo-64gb-2-x-32gb-ddr5-6000-cmk64gx5m2b6000z30",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance LPX - Black",
@@ -556,7 +606,17 @@
     "image": "https://pcparts.uk/img.thumb.b44cf527904ee8fef10b34ace11885ef844e7be5fe8222b17b01dc2c16bd83b8.webp",
     "source": "pcparts.uk",
     "external_id": "23197",
-    "scraped_at": "2026-07-11T13:49:17.259267+00:00"
+    "scraped_at": "2026-07-11T13:49:17.259267+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 464.37,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23197/gskill-flare-x5-32gb-2-x-16gb-ddr5-6000-c30-memory-f5-6000j3038f16gx2-fx5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Royal RGB XMP - Silver",
@@ -580,7 +640,17 @@
     "image": "https://pcparts.uk/img.thumb.8338f72e08f714e4ce9c40256b30f5f0e1d2a9207b202b7ca84bbc1d2210a652.png",
     "source": "pcparts.uk",
     "external_id": "14195",
-    "scraped_at": "2026-07-11T13:49:17.259267+00:00"
+    "scraped_at": "2026-07-11T13:49:17.259267+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 799.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14195/gskill-trident-z-64gb-2-x-32gb-ddr5-6000-c30-memor-f5-6000j3040g32gx2-tz5rs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 - Black",
@@ -868,7 +938,17 @@
     "image": "https://pcparts.uk/img.thumb.2ef27d864eb87fd4bd8cd301a15d555824bae0dfee01846854150f187f2921b7.jpg",
     "source": "pcparts.uk",
     "external_id": "23383",
-    "scraped_at": "2026-07-11T13:49:17.259267+00:00"
+    "scraped_at": "2026-07-11T13:49:17.259267+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 419.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23383/kingston-fury-beast-white-rgb-32gb-2-x-16gb-ddr5-5-kf556c36bweak2-32",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA Premier",
@@ -1084,7 +1164,17 @@
     "image": "https://pcparts.uk/img.thumb.bbbda1ac254f3fe9071b7591ce9c6b1cb2dd23f7eb8d4ebb32e28cd1094a6d69.png",
     "source": "pcparts.uk",
     "external_id": "22436",
-    "scraped_at": "2026-07-11T13:49:17.261269+00:00"
+    "scraped_at": "2026-07-11T13:49:17.261269+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 374.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22436/crucial-pro-64gb-2-x-32gb-ddr4-3200-c22-memory-cp2k32g4dfra32a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial Pro OC - Black",
@@ -1384,7 +1474,17 @@
     "image": "https://pcparts.uk/img.thumb.ccf3d66ef2727047b4c98048e2b930536d7793fc8a083daf2c947be73d288104.jpg",
     "source": "pcparts.uk",
     "external_id": "4945",
-    "scraped_at": "2026-07-11T13:49:17.261269+00:00"
+    "scraped_at": "2026-07-11T13:49:17.261269+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 92.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4945/kingston-fury-impact-8gb-1-x-8gb-ddr4-3200-c20-mem-kf432s20ib8",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston Fury Renegade",
@@ -1432,7 +1532,17 @@
     "image": "https://pcparts.uk/img.thumb.79825ab213f378ac571b3bb9d14f950a568f5a850f143314761fd34ecfe9cf7e.jpg",
     "source": "pcparts.uk",
     "external_id": "21224",
-    "scraped_at": "2026-07-11T13:49:21.628837+00:00"
+    "scraped_at": "2026-07-11T13:49:21.628837+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 389.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21224/team-group-t-force-delta-rgb-32gb-2-x-16gb-ddr5-60-ff3d532g6000hc30dc01",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group T-Force Delta RGB - White",
@@ -1492,7 +1602,17 @@
     "image": "https://pcparts.uk/img.thumb.47183d4e08b892a87c9fc9351d5a1c4d96c2830221846312035f6d8ef46738a2.png",
     "source": "pcparts.uk",
     "external_id": "23028",
-    "scraped_at": "2026-07-11T13:49:21.628837+00:00"
+    "scraped_at": "2026-07-11T13:49:21.628837+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 607.14,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23028/adata-xpg-lancer-blade-rgb-32gb-2-x-16gb-ddr5-6000-ax5u6000c3016g-dtlabrbk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance - Black",
@@ -1540,7 +1660,17 @@
     "image": "https://pcparts.uk/img.thumb.643e70319a10cad3de48bb47c96ebd9ec98cb6b6e3e6062d7855a7bdddb4af96.webp",
     "source": "pcparts.uk",
     "external_id": "24369",
-    "scraped_at": "2026-07-11T13:49:21.628837+00:00"
+    "scraped_at": "2026-07-11T13:49:21.628837+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 528.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24369/corsair-vengeance-amd-expo-32gb-2-x-16gb-ddr5-6000-cmk32gx5m2b6000z30",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB - White",
@@ -1564,7 +1694,17 @@
     "image": "https://pcparts.uk/img.thumb.42b3ab7354a913eb8b7df531e0290a968509c7d9dc2e39cf6584359f97e36e7e.png",
     "source": "pcparts.uk",
     "external_id": "22059",
-    "scraped_at": "2026-07-11T13:49:21.628837+00:00"
+    "scraped_at": "2026-07-11T13:49:21.628837+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 833.28,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22059/crucial-pro-udimm-64gb-2-x-32gb-ddr5-5600-c46-memo-cp2k32g56c46u5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Aegis",
@@ -1600,7 +1740,17 @@
     "image": "https://pcparts.uk/img.thumb.75f93f88171f4871839176f0b65cc8830d9e2cdc0512ba5523069bacf856a50b.png",
     "source": "pcparts.uk",
     "external_id": "24370",
-    "scraped_at": "2026-07-11T13:49:21.628837+00:00"
+    "scraped_at": "2026-07-11T13:49:21.628837+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 619.58,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24371/gskill-royal-rgb-xmp-32gb-2-x-16gb-ddr5-7600-c36-m-f5-7600j3646g16gx2-tr5s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 - Silver",
@@ -1720,7 +1870,17 @@
     "image": "https://pcparts.uk/img.thumb.217520130a34ef4f4ea60249c6efcf4cd6091783c7f4304dee2bbd49af6f77e8.png",
     "source": "pcparts.uk",
     "external_id": "24357",
-    "scraped_at": "2026-07-11T13:49:21.628837+00:00"
+    "scraped_at": "2026-07-11T13:49:21.628837+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 474.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24357/team-group-delta-rgb-32gb-2-x-16gb-ddr5-8000-c38-m-ff3d532g8000hc38ddc01",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group T-Force Xtreem",
@@ -1768,7 +1928,17 @@
     "image": "https://pcparts.uk/img.thumb.fc87106a6e4526d672bb0f9dbf74364b269952549290d3695755470d64140509.png",
     "source": "pcparts.uk",
     "external_id": "21606",
-    "scraped_at": "2026-07-11T13:49:21.628837+00:00"
+    "scraped_at": "2026-07-11T13:49:21.628837+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 424.11,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21606/adata-xpg-lancer-blade-32gb-2-x-16gb-ddr5-6000-c30-ax5u6000c3016g-dtlabbk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Dominator Platinum RGB - Ryzen Optimized - Black",
@@ -1780,7 +1950,17 @@
     "image": "https://pcparts.uk/img.thumb.99df47c49adc23ddcd3f65e429b08d54669a5b065a1c1910f2305b8c369fc493.webp",
     "source": "pcparts.uk",
     "external_id": "5442",
-    "scraped_at": "2026-07-11T13:49:21.628837+00:00"
+    "scraped_at": "2026-07-11T13:49:21.628837+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 195.84,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5442/corsair-dominator-platinum-rgb-16gb-2-x-8gb-ddr4-3-cmt16gx4m2z3200c16",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Dominator Platinum RGB - White",
@@ -1840,7 +2020,17 @@
     "image": "https://pcparts.uk/img.thumb.c770ae33499e33b715a67c3fcc7541875662a47ac7381d8470cd384115404ce3.png",
     "source": "pcparts.uk",
     "external_id": "14064",
-    "scraped_at": "2026-07-11T13:49:21.628837+00:00"
+    "scraped_at": "2026-07-11T13:49:21.628837+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 957.34,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14064/corsair-dominator-platinum-rgb-64gb-2-x-32gb-ddr5--cmt64gx5m2b5600c40w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Dominator Platinum RGB - Black",
@@ -2464,7 +2654,17 @@
     "image": "https://pcparts.uk/img.thumb.0e467719bfa50b18df1b230a5754edfa0becceac2aa32e83c7f87b4c4c9663db.png",
     "source": "pcparts.uk",
     "external_id": "18560",
-    "scraped_at": "2026-07-11T13:49:21.630839+00:00"
+    "scraped_at": "2026-07-11T13:49:21.630839+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 889.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18560/corsair-vengeance-rgb-amd-optimized-64gb-2-x-32gb-cmh64gx5m2b5600z40k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB PRO - Black",
@@ -2740,7 +2940,17 @@
     "image": "https://pcparts.uk/img.thumb.c98e6c210c3b35ed72b99c2996718140a4432db4340d4e5795fa41c7d7957c72.png",
     "source": "pcparts.uk",
     "external_id": "5741",
-    "scraped_at": "2026-07-11T13:49:21.630839+00:00"
+    "scraped_at": "2026-07-11T13:49:21.630839+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 227.19,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5741/gskill-ares-32gb-4-x-8gb-ddr3-2133-c11-memory-red-f3-2133c11q-32gar",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Ares - Orange",
@@ -2752,7 +2962,17 @@
     "image": "https://pcparts.uk/img.thumb.92cc4dadfd8d778f08694a47a857a01ea81c4537948991c6aa551b676a638d10.png",
     "source": "pcparts.uk",
     "external_id": "4081",
-    "scraped_at": "2026-07-11T13:49:21.630839+00:00"
+    "scraped_at": "2026-07-11T13:49:21.630839+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 56.26,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4081/gskill-ares-8gb-2-x-4gb-ddr3-1600-c9-memory-orange-f3-1600c9d-8gao",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Ares - Blue",
@@ -3160,7 +3380,17 @@
     "image": "https://pcparts.uk/img.thumb.6359122d59ea53e640c14d69c62a7d686517057e7085f00194bba54031358282.png",
     "source": "pcparts.uk",
     "external_id": "5744",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 233.63,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5744/gskill-ripjawsz-32gb-4-x-8gb-ddr3-2133-c9-memory-b-f3-17000cl9q2-32gbzh",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill RipjawsZ - Blue",
@@ -3172,7 +3402,17 @@
     "image": "https://pcparts.uk/img.thumb.901e52ba90eb2aed6e332be79d29c2504be0ac781975caf63e777e2e3f37e350.png",
     "source": "pcparts.uk",
     "external_id": "5735",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 231.47,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5735/gskill-ripjawsz-32gb-4-x-8gb-ddr3-2400-c11-memory-f3-2400c11q-32gzm",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Sniper",
@@ -3268,7 +3508,17 @@
     "image": "https://pcparts.uk/img.thumb.db7c693e6e7bf2cdc4030aa74a79a3bd2693adecbf98147b8a435f78706b7f63.png",
     "source": "pcparts.uk",
     "external_id": "5842",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 138.25,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5842/gskill-sniper-x-16gb-2-x-8gb-ddr4-3200-c16-memory-f4-3200c16d-16gsxwb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Sniper X - Grey",
@@ -3292,7 +3542,17 @@
     "image": "https://pcparts.uk/img.thumb.6d17c68b5a7708ce21bb65040cc3303894f38d1085a482d540d6437118052cb2.png",
     "source": "pcparts.uk",
     "external_id": "14171",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 213.26,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14171/gskill-sniper-x-32gb-4-x-8gb-ddr4-2400-c17-memory-f4-2400c17q-32gsxw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z",
@@ -3388,7 +3648,17 @@
     "image": "https://pcparts.uk/img.thumb.c65666d223756a00a05d03d62fefb5c51bf5b6b429c104cc223e9045841d2b83.png",
     "source": "pcparts.uk",
     "external_id": "5860",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 148.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5860/gskill-trident-z-rgb-16gb-2-x-8gb-ddr4-3200-c16-ry-f4-3200c16d-16gtzrx",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z Royal - Silver",
@@ -3508,7 +3778,17 @@
     "image": "https://pcparts.uk/img.thumb.5708ea6d1fd27f986ef8bbb8941c3445a73c2f660d500dcc3451dc3b29050527.png",
     "source": "pcparts.uk",
     "external_id": "4056",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 80.07,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4056/gskill-tridentx-8gb-2-x-4gb-ddr3-2400-c10-memory-f3-2400c10d-8gtx",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Value",
@@ -3796,7 +4076,17 @@
     "image": "https://pcparts.uk/img.thumb.75ca45f37bd745fc287da3f0319db6a213724496d45a9ae80d942477b5e80b23.jpg",
     "source": "pcparts.uk",
     "external_id": "25916",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1165.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25916/kingston-fury-beast-64gb-2-x-32gb-ddr5-6000-c36-me-kf560c36bbe2k2-64",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston FURY Beast - White",
@@ -3808,7 +4098,17 @@
     "image": "https://pcparts.uk/img.thumb.da72a20d1f1fb72c9b08f7e788fd2c66f535072d0f96921af502008ecabda15f.jpg",
     "source": "pcparts.uk",
     "external_id": "24054",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 819.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24054/kingston-fury-beast-64gb-2-x-32gb-ddr5-6000-c36-me-kf560c36bwek2-64",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston Fury Beast - AMD EXPO",
@@ -3820,7 +4120,17 @@
     "image": "https://pcparts.uk/img.thumb.eedc132f10b873df3308bfcb1680413954f90ba420da2242530c6e1c055f8cae.jpg",
     "source": "pcparts.uk",
     "external_id": "20014",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 271.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20014/kingston-fury-beast-amd-expo-16gb-2-x-8gb-ddr5-600-kf560c36bbek2-16",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston Fury Beast - AMD Expo - Black",
@@ -3844,7 +4154,17 @@
     "image": "https://pcparts.uk/img.thumb.eedc132f10b873df3308bfcb1680413954f90ba420da2242530c6e1c055f8cae.jpg",
     "source": "pcparts.uk",
     "external_id": "20608",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 866.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20608/kingston-fury-beast-amd-expo-64gb-2-x-32gb-ddr5-60-kf560c36bbek2-64",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston FURY Beast RGB - Black",
@@ -3856,7 +4176,17 @@
     "image": "https://pcparts.uk/img.thumb.3f3bf282c23eae6d740f5f00a37aedebcb14dcae11200aa847c321fdb487e884.jpg",
     "source": "pcparts.uk",
     "external_id": "24348",
-    "scraped_at": "2026-07-11T13:49:25.949665+00:00"
+    "scraped_at": "2026-07-11T13:49:25.949665+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 252.81,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24559/kingston-fury-beast-rgb-16gb-1-x-16gb-ddr5-6000-c3-kf560c36bbe2a-16",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston FURY Beast RGB - White",
@@ -3892,7 +4222,17 @@
     "image": "https://pcparts.uk/img.thumb.43b8c16913dc7c3373b9e1a353822a4c23f53b443c1ebe27d75fe72c04283347.jpg",
     "source": "pcparts.uk",
     "external_id": "20040",
-    "scraped_at": "2026-07-11T13:49:25.951409+00:00"
+    "scraped_at": "2026-07-11T13:49:25.951409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 899.09,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20040/kingston-fury-beast-rgb-amd-expo-64gb-2-x-32gb-ddr-kf556c36bbeak2-64",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston FURY Beast RGB - AMD Expo - Black",
@@ -3916,7 +4256,17 @@
     "image": "https://pcparts.uk/img.thumb.f5a8579b768d9b25d370e9351b9dff8d9b04497f48133212f887d075e3fc61c4.jpg",
     "source": "pcparts.uk",
     "external_id": "18054",
-    "scraped_at": "2026-07-11T13:49:25.951409+00:00"
+    "scraped_at": "2026-07-11T13:49:25.951409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 239.41,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18054/kingston-fury-beast-rgb-amd-optimized-16gb-1-x-16g-kf556c36bbea-16",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston Fury Renegade",
@@ -3928,7 +4278,17 @@
     "image": "https://pcparts.uk/img.thumb.7c6869cb9ac652f0d2352fa50d22fb792eccf5a71f4c6545c9c73a01b92deb52.jpg",
     "source": "pcparts.uk",
     "external_id": "14366",
-    "scraped_at": "2026-07-11T13:49:25.951409+00:00"
+    "scraped_at": "2026-07-11T13:49:25.951409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 509.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14366/kingston-fury-renegade-32gb-2-x-16gb-ddr5-6400-c32-kf564c32rsk2-32",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston FURY Renegade RGB - Silver",
@@ -3952,7 +4312,17 @@
     "image": "https://pcparts.uk/img.thumb.355ae8258bbf450d78554cc0351e36eec3b92f3399973d412bdcc69d48c50b70.jpg",
     "source": "pcparts.uk",
     "external_id": "14365",
-    "scraped_at": "2026-07-11T13:49:25.951409+00:00"
+    "scraped_at": "2026-07-11T13:49:25.951409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 499.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14365/kingston-fury-renegade-rgb-32gb-2-x-16gb-ddr5-6400-kf564c32rsak2-32",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston Server",
@@ -3976,7 +4346,17 @@
     "image": "https://pcparts.uk/img.thumb.95964d472adac7237cf63f6a89d15b7f17f3bae9c082bb83c7276962e463f9a3.jpg",
     "source": "pcparts.uk",
     "external_id": "14376",
-    "scraped_at": "2026-07-11T13:49:25.951409+00:00"
+    "scraped_at": "2026-07-11T13:49:25.951409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 416.51,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14376/kingston-server-premier-16gb-1-x-16gb-ddr4-3200-c2-ksm32rs416hdr",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Kingston ValueRAM",
@@ -4048,7 +4428,17 @@
     "image": "https://pcparts.uk/img.thumb.696f85d396c4dff8d14e209bb98a1f1218b48729b40f3af0ff1e3cd9b7a5b2f7.jpg",
     "source": "pcparts.uk",
     "external_id": "14388",
-    "scraped_at": "2026-07-11T13:49:25.951409+00:00"
+    "scraped_at": "2026-07-11T13:49:25.951409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 81.17,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14388/kingston-valueram-8gb-1-x-8gb-ddr4-3200-c22-memory-kvr32n22s68",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Patriot Viper Steel - Grey",
@@ -4084,7 +4474,17 @@
     "image": "https://pcparts.uk/img.thumb.5051c28fcde8725daf412e2a38858c6043080869e3f660718430bcb5c1e5fc6b.jpg",
     "source": "pcparts.uk",
     "external_id": "4369",
-    "scraped_at": "2026-07-11T13:49:25.951409+00:00"
+    "scraped_at": "2026-07-11T13:49:25.951409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 462.57,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4369/patriot-viper-steel-64gb-2-x-32gb-ddr4-3200-c16-me-pvs464g320c6k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group Elite - Black",
@@ -4108,7 +4508,17 @@
     "image": "https://pcparts.uk/img.thumb.dd7a9b8036c30cb91ded6536e346a3411d931e84fbff454e852a118ea9edb79b.jpg",
     "source": "pcparts.uk",
     "external_id": "14510",
-    "scraped_at": "2026-07-11T13:49:25.951409+00:00"
+    "scraped_at": "2026-07-11T13:49:25.951409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 114.05,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14510/team-group-elite-16gb-1-x-16gb-ddr4-3200-c22-memor-ted416g3200c2201",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group Elite - Black",
@@ -4132,7 +4542,17 @@
     "image": "https://pcparts.uk/img.thumb.dd7a9b8036c30cb91ded6536e346a3411d931e84fbff454e852a118ea9edb79b.jpg",
     "source": "pcparts.uk",
     "external_id": "4516",
-    "scraped_at": "2026-07-11T13:49:25.951409+00:00"
+    "scraped_at": "2026-07-11T13:49:25.951409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 63.04,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4516/team-group-elite-8gb-1-x-8gb-ddr4-3200-c22-memory-ted48g3200c2201",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group T-Force Delta RGB - Black",
@@ -4180,7 +4600,17 @@
     "image": "https://pcparts.uk/img.thumb.5cfd5cb8d52d87414dfcae740230f384f1d72a3dfe559fb716cfd66e47c407a8.png",
     "source": "pcparts.uk",
     "external_id": "4492",
-    "scraped_at": "2026-07-11T13:49:30.229246+00:00"
+    "scraped_at": "2026-07-11T13:49:30.229246+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 389.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21225/team-group-t-force-delta-rgb-32gb-2-x-16gb-ddr5-60-ff4d532g6000hc30dc01",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group T-Force Delta RGB - Black",
@@ -4192,7 +4622,17 @@
     "image": "https://pcparts.uk/img.thumb.0aea2a590a8bd5597a1ec34971c770464df96e97bd6d2451b95fdf2d96699adc.png",
     "source": "pcparts.uk",
     "external_id": "4495",
-    "scraped_at": "2026-07-11T13:49:30.229246+00:00"
+    "scraped_at": "2026-07-11T13:49:30.229246+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 132.22,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4545/team-group-t-force-delta-rgb-16gb-2-x-8gb-ddr4-360-tf3d416g3600hc18jdc01",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Team Group T-Force Vulcan Z - Grey",
@@ -4216,7 +4656,17 @@
     "image": "https://pcparts.uk/img.thumb.8a590cf1c09804013bb170be30be034bda3236f52c970615b78157637e5b2c3a.jpg",
     "source": "pcparts.uk",
     "external_id": "4520",
-    "scraped_at": "2026-07-11T13:49:30.229246+00:00"
+    "scraped_at": "2026-07-11T13:49:30.229246+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 71.87,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4520/team-group-t-force-vulcan-z-8gb-1-x-8gb-ddr4-3200-tlzgd48g3200hc16c01",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA Premier",
@@ -4276,7 +4726,17 @@
     "image": "https://pcparts.uk/img.thumb.e9354c00b07b01ac199294cdabbf1a7e1a8798a23f153e821d6ea2cac00483fd.png",
     "source": "pcparts.uk",
     "external_id": "14023",
-    "scraped_at": "2026-07-11T13:49:30.229246+00:00"
+    "scraped_at": "2026-07-11T13:49:30.229246+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 74.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5362/adata-premier-8gb-1-x-8gb-ddr4-3200-c22-memory-ad4u32008g22-sgn",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA XPG Gammix D10 - Black",
@@ -4336,7 +4796,17 @@
     "image": "https://pcparts.uk/img.thumb.7c93b3007594ad958961a61673eaab3bfccf741955ff7db5c0e25663febe806e.jpg",
     "source": "pcparts.uk",
     "external_id": "25908",
-    "scraped_at": "2026-07-11T13:49:30.229246+00:00"
+    "scraped_at": "2026-07-11T13:49:30.229246+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 545.49,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25908/adata-xpg-lancer-neon-rgb-32gb-2-x-16gb-ddr5-7200-ax5u7200c3416g-dclanrsg",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA XPG Lancer RGB",
@@ -4372,7 +4842,17 @@
     "image": "https://pcparts.uk/img.thumb.8b3709645ecfa9cb92b82be9a069ab8836e9b6c4e8b683165fa88a4e00a74ee2.png",
     "source": "pcparts.uk",
     "external_id": "21608",
-    "scraped_at": "2026-07-11T13:49:30.229246+00:00"
+    "scraped_at": "2026-07-11T13:49:30.229246+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 612.42,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21608/adata-xpg-lancer-rgb-32gb-2-x-16gb-ddr5-6400-c32-m-ax5u6400c3216g-dclarbk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ADATA XPG Lancer RGB - White",
@@ -4384,7 +4864,17 @@
     "image": "https://pcparts.uk/img.thumb.50465126422868622dd29ea613125984faf5069e0926e1f9da57e483eec15f5c.png",
     "source": "pcparts.uk",
     "external_id": "20571",
-    "scraped_at": "2026-07-11T13:49:30.229246+00:00"
+    "scraped_at": "2026-07-11T13:49:30.229246+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 579.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20571/adata-xpg-lancer-rgb-32gb-2-x-16gb-ddr5-6400-c32-m-ax5u6400c3216g-dclarwh",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Dominator Platinum RGB - Black",
@@ -4408,7 +4898,17 @@
     "image": "https://pcparts.uk/img.thumb.2d9caec7a5bcc35009f0b0d38cecae0099f37029dcd2ccc3d69014db901359bb.png",
     "source": "pcparts.uk",
     "external_id": "21179",
-    "scraped_at": "2026-07-11T13:49:30.229246+00:00"
+    "scraped_at": "2026-07-11T13:49:30.229246+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1195.07,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20914/corsair-dominator-platinum-rgb-64gb-2-x-32gb-ddr5--cmt64gx5m2b6400c32",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Dominator Platinum RGB - AMD EXPO - Grey",
@@ -4420,7 +4920,17 @@
     "image": "https://pcparts.uk/img.thumb.b6f5e63a00becb7c6e6ae29b145ca3984de32d2bfa838c043350110e83f8218f.png",
     "source": "pcparts.uk",
     "external_id": "21177",
-    "scraped_at": "2026-07-11T13:49:30.229246+00:00"
+    "scraped_at": "2026-07-11T13:49:30.229246+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1198.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21177/corsair-dominator-platinum-rgb-amd-expo-64gb-2-x-3-cmt64gx5m2b6000z30",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Dominator Titanium",
@@ -4540,7 +5050,17 @@
     "image": "https://pcparts.uk/img.thumb.0af48535a6b183921eb740bf43358a9ffeafae36d4cc5fc765ecb1f37371c323.png",
     "source": "pcparts.uk",
     "external_id": "22854",
-    "scraped_at": "2026-07-11T13:49:30.235295+00:00"
+    "scraped_at": "2026-07-11T13:49:30.235295+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1214.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23049/corsair-dominator-titanium-rgb-64gb-2-x-32gb-ddr5--cmp64gx5m2b6400c32w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair DOMINATOR Titanium RGB - Black",
@@ -4576,7 +5096,17 @@
     "image": "https://pcparts.uk/img.thumb.265cec5e8a347d5bc468be5a86d90d71aeda36354e220f19d706a17856903ac5.png",
     "source": "pcparts.uk",
     "external_id": "21998",
-    "scraped_at": "2026-07-11T13:49:30.235295+00:00"
+    "scraped_at": "2026-07-11T13:49:30.235295+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1216.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23048/corsair-dominator-titanium-rgb-64gb-4-x-16gb-ddr5--cmp64gx5m4b6000c36",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair DOMINATOR Titanium RGB - AMD EXPO - Grey",
@@ -4588,7 +5118,17 @@
     "image": "https://pcparts.uk/img.thumb.a69f886035ae364a29cbfaaca25fc7faa40dea12a12c894510ee18cb96bff34c.png",
     "source": "pcparts.uk",
     "external_id": "22853",
-    "scraped_at": "2026-07-11T13:49:30.235295+00:00"
+    "scraped_at": "2026-07-11T13:49:30.235295+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 610.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22849/corsair-dominator-titanium-rgb-amd-expo-32gb-2-x-1-cmp32gx5m2b6000z30",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance - Black",
@@ -4672,7 +5212,17 @@
     "image": "https://pcparts.uk/img.thumb.1471b92b018887da3583f091aaf88aead1b10d355f4ada1300eee850b317e683.webp",
     "source": "pcparts.uk",
     "external_id": "21190",
-    "scraped_at": "2026-07-11T13:49:30.235295+00:00"
+    "scraped_at": "2026-07-11T13:49:30.235295+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 882.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21187/corsair-vengeance-64gb-2-x-32gb-ddr5-5600-c40-memo-cmk64gx5m2b5600c40w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance - Black",
@@ -4732,7 +5282,17 @@
     "image": "https://pcparts.uk/img.thumb.a7581ad03e2e751affb8ae1c9266640eae23978d144ff535e214cce5c62e9394.webp",
     "source": "pcparts.uk",
     "external_id": "24082",
-    "scraped_at": "2026-07-11T13:49:30.235295+00:00"
+    "scraped_at": "2026-07-11T13:49:30.235295+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1259.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20001/corsair-vengeance-96gb-2-x-48gb-ddr5-5200-c38-memo-cmk96gx5m2b5200c38",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance - AMD Expo - Grey",
@@ -4744,7 +5304,17 @@
     "image": "https://pcparts.uk/img.thumb.cc90e5384194b7357a017d75425a34d34c0e7d094736e5ececde59a52a8f46b5.png",
     "source": "pcparts.uk",
     "external_id": "23042",
-    "scraped_at": "2026-07-11T13:49:30.235295+00:00"
+    "scraped_at": "2026-07-11T13:49:30.235295+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 452.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23042/corsair-vengeance-amd-expo-32gb-2-x-16gb-ddr5-5600-cmk32gx5m2b5600z40",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance - AMD Optimized",
@@ -4768,7 +5338,17 @@
     "image": "https://pcparts.uk/img.thumb.75cf7692fd2950a0c4fe715c39ac2d8dd43c77145cf76dc55233e7d6f63bc5a2.png",
     "source": "pcparts.uk",
     "external_id": "18021",
-    "scraped_at": "2026-07-11T13:49:30.235295+00:00"
+    "scraped_at": "2026-07-11T13:49:30.235295+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 456.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18021/corsair-vengeance-amd-optimized-32gb-2-x-16gb-ddr5-cmk32gx5m2b5600z36",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance LPX - Black",
@@ -4804,7 +5384,17 @@
     "image": "https://pcparts.uk/img.thumb.b3b1849706b22958fbf82df99ff322aac4d9a48f25310abab5b6efda35c27adf.jpg",
     "source": "pcparts.uk",
     "external_id": "4986",
-    "scraped_at": "2026-07-11T13:49:30.235295+00:00"
+    "scraped_at": "2026-07-11T13:49:30.235295+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 152.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4986/corsair-vengeance-lpx-16gb-2-x-8gb-ddr4-3200-c18-m-cmk16gx4m2e3200c16w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance LPX - Black",
@@ -4852,7 +5442,17 @@
     "image": "https://pcparts.uk/img.thumb.0a3319374f7413cb77bf1d96db9425bbc657392a69df222acba8beb5d85430c9.webp",
     "source": "pcparts.uk",
     "external_id": "5212",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 588.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5212/corsair-vengeance-lpx-64gb-4-x-16gb-ddr4-2666-c16-cmk64gx4m4a2666c16",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB - Black",
@@ -5032,7 +5632,17 @@
     "image": "https://pcparts.uk/img.thumb.665b5895d518fde8cf53816c5530e00399d2c35d735da33da4ce49f26d9cdd95.webp",
     "source": "pcparts.uk",
     "external_id": "24077",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1178.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24077/corsair-vengeance-rgb-64gb-2-x-32gb-ddr5-6400-c32-cmh64gx5m2b6400c32w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB",
@@ -5044,7 +5654,17 @@
     "image": "https://pcparts.uk/img.thumb.f01f5db4c4b276364b97d52ae10597a998fe26abbb0d7ce49281435267331735.png",
     "source": "pcparts.uk",
     "external_id": "20010",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1187.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20010/corsair-vengeance-rgb-64gb-4-x-16gb-ddr5-6400-c32-cmh64gx5m4b6400c32",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB - Black",
@@ -5068,7 +5688,17 @@
     "image": "https://pcparts.uk/img.thumb.8dd3c54f992865d039dec7e01e010c14e6e8b2bb53e88e31f6458bccbfa1baba.png",
     "source": "pcparts.uk",
     "external_id": "23054",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 889.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23040/corsair-vengeance-rgb-64gb-2-x-32gb-ddr5-5600-c40-cmh64gx5m2b5600c40",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB - AMD EXPO",
@@ -5080,7 +5710,17 @@
     "image": "https://pcparts.uk/img.thumb.6985ece174c5d931496b243478bfb44d276a6b395bab501ce5a6d15a2b13c4a4.webp",
     "source": "pcparts.uk",
     "external_id": "22847",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 463.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22847/corsair-vengeance-rgb-amd-expo-32gb-2-x-16gb-ddr5--cmh32gx5m2b5600z40",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB PRO - Black",
@@ -5128,7 +5768,17 @@
     "image": "https://pcparts.uk/img.thumb.5a322054a199ed19a0871420a8212fbb02f16931c9882b52f5310e3bba09b30a.png",
     "source": "pcparts.uk",
     "external_id": "5118",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 188.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5239/corsair-vengeance-rgb-pro-16gb-2-x-8gb-ddr4-3600-c-cmw16gx4m2d3600c18",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB PRO - TUF Gaming - Black",
@@ -5164,7 +5814,17 @@
     "image": "https://pcparts.uk/img.thumb.caddc81fca786ec345efb1aa11c248807cf2568fb558baa20b3fa3cfcbe3a788.png",
     "source": "pcparts.uk",
     "external_id": "5179",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 163.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5179/corsair-vengeance-rgb-pro-sl-16gb-2-x-8gb-ddr4-320-cmh16gx4m2z3200c16",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB PRO SL - White",
@@ -5176,7 +5836,17 @@
     "image": "https://pcparts.uk/img.thumb.0219e8dd73cf4f30c74f9c0df4c82dc2dd092ca43cdb6d215b652795e26e12f7.png",
     "source": "pcparts.uk",
     "external_id": "5149",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 294.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5149/corsair-vengeance-rgb-pro-sl-32gb-2-x-16gb-ddr4-32-cmh32gx4m2e3200c16w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB PRO SL - Black",
@@ -5188,7 +5858,17 @@
     "image": "https://pcparts.uk/img.thumb.2c087d0c203a6825ceff6098bbf655664aa971634a4e76e55b2ff80953b4401b.png",
     "source": "pcparts.uk",
     "external_id": "5158",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 588.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5158/corsair-vengeance-rgb-pro-sl-64gb-4-x-16gb-ddr4-32-cmh64gx4m4e3200c16",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair Vengeance RGB RS - Black",
@@ -5200,7 +5880,17 @@
     "image": "https://pcparts.uk/img.thumb.0e30affc4c2a15832906c9b87dfec534884b9163967e517a420719e1a176d716.png",
     "source": "pcparts.uk",
     "external_id": "14118",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 170.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14118/corsair-vengeance-rgb-rs-16gb-1-x-16gb-ddr4-3600-c-cmg16gx4m1d3600c18",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial",
@@ -5248,7 +5938,17 @@
     "image": "https://pcparts.uk/images/placeholders/soon.png",
     "source": "pcparts.uk",
     "external_id": "14157",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 288.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/6125/crucial-32gb-2-x-16gb-ddr4-3200-c22-memory-ct2k16g4dfra32a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Crucial Pro - White",
@@ -5296,7 +5996,17 @@
     "image": "https://pcparts.uk/img.thumb.8d42f1eb8cce93b2a118c11734089d688f65ebc1a310189511ef6ec8e8551fa1.png",
     "source": "pcparts.uk",
     "external_id": "24354",
-    "scraped_at": "2026-07-11T13:49:30.236187+00:00"
+    "scraped_at": "2026-07-11T13:49:30.236187+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 218.1,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24354/crucial-pro-overclocking-16gb-1-x-16gb-ddr5-6000-c-cp16g60c36u5b",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Aegis",
@@ -5344,7 +6054,17 @@
     "image": "https://pcparts.uk/img.thumb.d450b300f39cf6f388eec90dca3ccf879de68334be14cbc8d5f06e28cf351006.png",
     "source": "pcparts.uk",
     "external_id": "4061",
-    "scraped_at": "2026-07-11T13:49:30.237224+00:00"
+    "scraped_at": "2026-07-11T13:49:30.237224+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 145.75,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5829/gskill-aegis-16gb-2-x-8gb-ddr4-3000-c16-memory-f4-3000c16d-16gisb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Ares - Blue",
@@ -5356,7 +6076,17 @@
     "image": "https://pcparts.uk/img.thumb.0044262ae97b5d9f5842f5b6dd1109c668187477ca7dc64cf85979bfb1d50647.png",
     "source": "pcparts.uk",
     "external_id": "5745",
-    "scraped_at": "2026-07-11T13:49:30.237224+00:00"
+    "scraped_at": "2026-07-11T13:49:30.237224+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 225.05,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5745/gskill-ares-32gb-4-x-8gb-ddr3-2400-c11-memory-blue-f3-2400c11q-32gab",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Flare X - Black",
@@ -5380,7 +6110,17 @@
     "image": "https://pcparts.uk/img.thumb.0fa9f967308493e09822c590faa06e66ed6592b991d2f09aa4ccfeff25567b6e.png",
     "source": "pcparts.uk",
     "external_id": "4129",
-    "scraped_at": "2026-07-11T13:49:30.237224+00:00"
+    "scraped_at": "2026-07-11T13:49:30.237224+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 351.5,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4151/gskill-flare-x-32gb-4-x-8gb-ddr4-3200-c16-memory-b-f4-3200c16q-32gfx",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Flare X5 EXPO - Black",
@@ -5416,7 +6156,17 @@
     "image": "https://pcparts.uk/img.thumb.b44cf527904ee8fef10b34ace11885ef844e7be5fe8222b17b01dc2c16bd83b8.webp",
     "source": "pcparts.uk",
     "external_id": "18042",
-    "scraped_at": "2026-07-11T13:49:30.237224+00:00"
+    "scraped_at": "2026-07-11T13:49:30.237224+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 460.8,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18042/gskill-flare-x5-expo-32gb-2-x-16gb-ddr5-6000-c36-m-f5-6000j3636f16gx2-fx5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Ripjaws",
@@ -5428,7 +6178,17 @@
     "image": "https://pcparts.uk/img.thumb.07d9ea48188e3e471e6e79c06deee947b33d22e2c9e3db57346cff0a10284dc4.png",
     "source": "pcparts.uk",
     "external_id": "4139",
-    "scraped_at": "2026-07-11T13:49:30.237224+00:00"
+    "scraped_at": "2026-07-11T13:49:30.237224+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 24.51,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4139/gskill-ripjaws-4gb-1-x-4gb-ddr3-1600-c9-memory-f3-12800cl9s-4gbrl",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Ripjaws 4 - Red",
@@ -5512,7 +6272,17 @@
     "image": "https://pcparts.uk/img.thumb.aba2344baf256253dc1d565e694f89f4a178f1f325abfa1a0e078d102f4bf3e7.png",
     "source": "pcparts.uk",
     "external_id": "20590",
-    "scraped_at": "2026-07-11T13:49:30.237224+00:00"
+    "scraped_at": "2026-07-11T13:49:30.237224+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1033.04,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14193/gskill-ripjaws-s5-64gb-2-x-32gb-ddr5-6000-c30-memo-f5-6000j3040g32ga2-rs5k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Ripjaws V - Black",
@@ -5560,7 +6330,17 @@
     "image": "https://pcparts.uk/img.thumb.89cc0b04a90b43c91b24cd215bdfb4203b58d05a79cc98b1b2b23c8713c12d5a.png",
     "source": "pcparts.uk",
     "external_id": "5823",
-    "scraped_at": "2026-07-11T13:49:30.237224+00:00"
+    "scraped_at": "2026-07-11T13:49:30.237224+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 244.34,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5793/gskill-ripjaws-v-32gb-4-x-8gb-ddr4-2666-c19-memory-f4-2666c19q-32gvr",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Ripjaws V - Black",
@@ -5596,7 +6376,17 @@
     "image": "https://pcparts.uk/img.thumb.ff76f485cb927479dc0e77ff4ef3f9b654927a5ddec52b800d9ccbc71869e25b.png",
     "source": "pcparts.uk",
     "external_id": "14170",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 245.41,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14173/gskill-ripjaws-v-32gb-2-x-16gb-ddr4-2666-c19-memor-f4-2666c19d-32gvr",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Ripjaws V - Black",
@@ -5716,7 +6506,17 @@
     "image": "https://pcparts.uk/img.thumb.a31be7c386fdc2a75e75e3540c6735675271ab3ab044e96de9d6b3dc8ec51053.png",
     "source": "pcparts.uk",
     "external_id": "14190",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 259.34,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5797/gskill-ripjaws-v-32gb-2-x-16gb-ddr4-3600-c16-memor-f4-3600c16d-32gvkc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill RipjawsX - Red",
@@ -5764,7 +6564,17 @@
     "image": "https://pcparts.uk/img.thumb.540c681e78c00ab797c223620e0cf41b7dcc1f540c13f0eefc806cbd7455be2e.png",
     "source": "pcparts.uk",
     "external_id": "4087",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 49.09,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4087/gskill-ripjawsx-8gb-1-x-8gb-ddr3-1600-c10-memory-r-f3-12800cl10s-8gbxl",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill RipjawsX - Blue",
@@ -5776,7 +6586,17 @@
     "image": "https://pcparts.uk/img.thumb.ea11e30426fc298bf5aeb8f51e98ab8b61657b2d6d22be785861bb028ea0245d.png",
     "source": "pcparts.uk",
     "external_id": "4085",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 52.39,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4085/gskill-ripjawsx-8gb-1-x-8gb-ddr3-1600-c9-memory-bl-f3-1600c9s-8gxm",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill RipjawsZ - Red",
@@ -5788,7 +6608,17 @@
     "image": "https://pcparts.uk/img.thumb.fc3beeb75f5781dfd6bb932b2cdfce6437e20f7335a657aab9c03d4a5db57f22.png",
     "source": "pcparts.uk",
     "external_id": "5737",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 213.26,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5739/gskill-ripjawsz-32gb-4-x-8gb-ddr3-1866-c10-memory-f3-14900cl10q-32gbzl",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Sniper",
@@ -5800,7 +6630,17 @@
     "image": "https://pcparts.uk/img.thumb.9ce3f1c88359533178c0129d9bccf4e3d77be63014a04dd29028e42329923525.png",
     "source": "pcparts.uk",
     "external_id": "5743",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 220.76,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5743/gskill-sniper-32gb-4-x-8gb-ddr3-2133-c10-memory-f3-2133c10q-32gsr",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z - White/Grey",
@@ -5920,7 +6760,17 @@
     "image": "https://pcparts.uk/img.thumb.e5de57a854b72dd5094e68f1d4afe51495abafbaec60e2b2dfa212f1c98bf807.png",
     "source": "pcparts.uk",
     "external_id": "4037",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 371.86,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5790/gskill-trident-z-32gb-4-x-8gb-ddr4-3200-c16-memory-f4-3200c16q-32gtzb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z - Black",
@@ -5932,7 +6782,17 @@
     "image": "https://pcparts.uk/img.thumb.e552d93c68926badf7862c1ad5c8c353f01d0593f8fb0f61e31a7db1b0c02182.png",
     "source": "pcparts.uk",
     "external_id": "4036",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1050.19,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14194/gskill-trident-z-64gb-2-x-32gb-ddr5-6000-c30-memor-f5-6000j3040g32ga2-tz5k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z Neo - Black",
@@ -6112,7 +6972,17 @@
     "image": "https://pcparts.uk/img.thumb.baee3c4f012dfb67f5ea60ca1db35b2720c23840eafa569aa085344e36d12c85.png",
     "source": "pcparts.uk",
     "external_id": "4027",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 641.9,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4027/gskill-trident-z-neo-64gb-4-x-16gb-ddr4-3600-c16-m-f4-3600c16q-64gtznc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z Neo",
@@ -6124,7 +6994,17 @@
     "image": "https://pcparts.uk/img.thumb.baee3c4f012dfb67f5ea60ca1db35b2720c23840eafa569aa085344e36d12c85.png",
     "source": "pcparts.uk",
     "external_id": "14197",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 164.71,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4169/gskill-trident-z-neo-16gb-2-x-8gb-ddr4-3200-c16-me-f4-3200c16d-16gtzn",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z RGB - Ryzen Optimized",
@@ -6136,7 +7016,17 @@
     "image": "https://pcparts.uk/img.thumb.c65666d223756a00a05d03d62fefb5c51bf5b6b429c104cc223e9045841d2b83.png",
     "source": "pcparts.uk",
     "external_id": "4092",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 270.06,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4092/gskill-trident-z-rgb-32gb-2-x-16gb-ddr4-3200-c16-r-f4-3200c16d-32gtzrx",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z RGB - Black",
@@ -6184,7 +7074,17 @@
     "image": "https://pcparts.uk/img.thumb.d5bb53d692b9e58b16f4d6dbf51387c91b23268f331252fa5b414de73cdb9288.png",
     "source": "pcparts.uk",
     "external_id": "14192",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 131.82,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/5868/gskill-trident-z-rgb-16gb-2-x-8gb-ddr4-3200-c16-me-f4-3200c16d-16gtzr",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z Royal - Gold",
@@ -6292,7 +7192,17 @@
     "image": "https://pcparts.uk/img.thumb.35d3fab4b36b147562ba1b9e197aab63b78bb06859f401a081fdfbcfde01a381.png",
     "source": "pcparts.uk",
     "external_id": "4047",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 374.32,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4112/gskill-trident-z-royal-32gb-2-x-16gb-ddr4-3200-c16-f4-3200c16d-32gtrs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z Royal Elite - Silver",
@@ -6376,7 +7286,17 @@
     "image": "https://pcparts.uk/img.thumb.bd3efddc39b2396119ee7b5f573bf6b4a68e82571bb521f6fab27e20e1fd6f29.png",
     "source": "pcparts.uk",
     "external_id": "14182",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 507.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14180/gskill-trident-z5-32gb-2-x-16gb-ddr5-5600-c40-memo-f5-5600j4040c16gx2-tz5k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 - Silver",
@@ -6388,7 +7308,17 @@
     "image": "https://pcparts.uk/img.thumb.600f0eb506dd09edfaaf6a4ba729cb45986f4236feb9b63b41a25b23d5825b7a.png",
     "source": "pcparts.uk",
     "external_id": "20585",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 435.09,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/14179/gskill-trident-z5-32gb-2-x-16gb-ddr5-5600-c36-memo-f5-5600j3636c16ga2-tz5s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 NEO - AMD EXPO",
@@ -6412,7 +7342,17 @@
     "image": "https://pcparts.uk/img.thumb.09811396bf472832d79d76b32de4104cef096ed842b4eba51f4264db55ebd129.webp",
     "source": "pcparts.uk",
     "external_id": "18567",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 510.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18569/gskill-trident-z5-neo-amd-expo-32gb-2-x-16gb-ddr5--f5-6000j3636f16gx2-tz5n",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 Neo RGB - Black",
@@ -6424,7 +7364,17 @@
     "image": "https://pcparts.uk/img.thumb.8789d0bf22564b7a94f933c1bb47dcddf6ad3b6054ac00678954c431a4ba3ec4.webp",
     "source": "pcparts.uk",
     "external_id": "18561",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 512.24,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18561/gskill-trident-z5-neo-rgb-32gb-2-x-16gb-ddr5-6000-f5-6000j3636f16gx2-tz5nr",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 NEO RGB - AMD EXPO",
@@ -6460,7 +7410,17 @@
     "image": "https://pcparts.uk/img.thumb.8789d0bf22564b7a94f933c1bb47dcddf6ad3b6054ac00678954c431a4ba3ec4.webp",
     "source": "pcparts.uk",
     "external_id": "23541",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 481.92,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18575/gskill-trident-z5-neo-rgb-amd-expo-32gb-2-x-16gb-d-f5-6000j3238f16gx2-tz5nr",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 RGB - Black",
@@ -6556,7 +7516,17 @@
     "image": "https://pcparts.uk/img.thumb.39ac7086868d0021f3d2c696169be8b2e3ddab03020e98e9e54ff742d1c68044.webp",
     "source": "pcparts.uk",
     "external_id": "20593",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 584.04,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18432/gskill-trident-z5-rgb-32gb-2-x-16gb-ddr5-6000-c32-f5-6000j3238f16ga2-tz5rk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Trident Z5 RGB - Silver",
@@ -6568,7 +7538,17 @@
     "image": "https://pcparts.uk/img.thumb.390d3a80f182210f0a339f280d06866b40804b9328a3b1002ee463775df00c25.png",
     "source": "pcparts.uk",
     "external_id": "20594",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 533.78,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18580/gskill-trident-z5-rgb-32gb-2-x-16gb-ddr5-7600-c36-f5-7600j3646g16gx2-tz5rs",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "G.Skill Value",
@@ -6592,7 +7572,17 @@
     "image": "https://pcparts.uk/img.thumb.b7214ffe75dfb2f2171c36a6484aad58d787d6f405b81cf41d01e0340b3196c1.png",
     "source": "pcparts.uk",
     "external_id": "4083",
-    "scraped_at": "2026-07-11T13:49:34.606314+00:00"
+    "scraped_at": "2026-07-11T13:49:34.606314+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 34.03,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/4083/gskill-value-8gb-1-x-8gb-ddr3-1600-c11-memory-f3-1600c11s-8gnt",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GeIL EVO X II RGB - Black",

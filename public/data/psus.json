@@ -32,70 +32,6 @@
     "atxVersion": "3.0"
   },
   {
-    "id": "psu-seasonic-focus-750",
-    "slug": "seasonic-focus-gx-750",
-    "name": "Seasonic Focus GX-750 Gold",
-    "manufacturer": "Seasonic",
-    "image": "/images/psus/focus-750.jpg",
-    "officialUrl": "https://seasonic.com/...",
-    "releaseDate": "2021-01-01",
-    "msrp": 129,
-    "description": "Legendary reliability and performance in a compact size.",
-    "prices": [
-      {
-        "retailer": "Amazon",
-        "price": 109,
-        "currency": "GBP",
-        "url": "https://amazon.co.uk/...",
-        "availability": "in-stock",
-        "lastChecked": "2026-07-10"
-      }
-    ],
-    "type": "psu",
-    "wattage": 750,
-    "efficiencyRating": "80+ Gold",
-    "modularType": "Full",
-    "fanSize": 120,
-    "length": 140,
-    "cpuConnectors": 2,
-    "gpuConnectors": 3,
-    "sataConnectors": 6,
-    "molexConnectors": 2,
-    "atxVersion": "2.4"
-  },
-  {
-    "id": "psu-evga-600w-bronze",
-    "slug": "evga-600w-bronze",
-    "name": "EVGA 600W 80+ Bronze",
-    "manufacturer": "EVGA",
-    "image": "/images/psus/600w-bronze.jpg",
-    "officialUrl": "https://www.evga.com/...",
-    "releaseDate": "2019-01-01",
-    "msrp": 69,
-    "description": "Budget-friendly power supply for basic gaming PCs.",
-    "prices": [
-      {
-        "retailer": "Amazon",
-        "price": 59,
-        "currency": "GBP",
-        "url": "https://amazon.co.uk/...",
-        "availability": "in-stock",
-        "lastChecked": "2026-07-10"
-      }
-    ],
-    "type": "psu",
-    "wattage": 600,
-    "efficiencyRating": "80+ Bronze",
-    "modularType": "Non-Modular",
-    "fanSize": 120,
-    "length": 140,
-    "cpuConnectors": 1,
-    "gpuConnectors": 2,
-    "sataConnectors": 4,
-    "molexConnectors": 2,
-    "atxVersion": "2.3"
-  },
-  {
     "name": "Gigabyte GP-UD850GM PG5 ATX 3.0",
     "url": "https://pcparts.uk/product/20709/gigabyte-gp-ud850gm-pg5-atx-30-850w-full-modular-8-gp-ud850gm-pg5-v2",
     "price": 89.49,
@@ -128,7 +64,17 @@
     "image": "https://pcparts.uk/img.thumb.3a2f2b4626cec56523da576b1fe03f091aec927a58a43723fe97bfa5f7314e9e.jpg",
     "source": "pcparts.uk",
     "external_id": "20709",
-    "scraped_at": "2026-07-11T13:50:47.277606+00:00"
+    "scraped_at": "2026-07-11T13:50:47.277606+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 89.49,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20709/gigabyte-gp-ud850gm-pg5-atx-30-850w-full-modular-8-gp-ud850gm-pg5-v2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM750e - ATX 3.1",
@@ -159,7 +105,17 @@
     "image": "https://pcparts.uk/img.thumb.216f58b35c8826cd6533970045c8ba8613b4d6bb8a19ef300c2fc455ffbff866.webp",
     "source": "pcparts.uk",
     "external_id": "26721",
-    "scraped_at": "2026-07-11T13:50:51.508760+00:00"
+    "scraped_at": "2026-07-11T13:50:51.508760+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 79.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26721/corsair-rm750e-750w-atx-31-full-modular-cybenetics-cp-9020295-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM750x - ATX 3.1 - Black",
@@ -191,7 +147,17 @@
     "image": "https://pcparts.uk/img.thumb.ec522332751155c9869de4de12f7d8624d5aeba75c7470495f602a340ea47821.webp",
     "source": "pcparts.uk",
     "external_id": "26734",
-    "scraped_at": "2026-07-11T13:50:55.754919+00:00"
+    "scraped_at": "2026-07-11T13:50:55.754919+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 84.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26734/corsair-rm750x-750w-atx-31-full-modular-cybenetics-cp-9020285-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM850e - ATX 3.1",
@@ -222,7 +188,17 @@
     "image": "https://pcparts.uk/img.thumb.283e32e18b887c25c64e77b672f5bfd55d8c64e10921f349a9f03ebbd0696b4a.webp",
     "source": "pcparts.uk",
     "external_id": "26715",
-    "scraped_at": "2026-07-11T13:51:00.042276+00:00"
+    "scraped_at": "2026-07-11T13:51:00.042276+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 85.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26715/corsair-rm850e-850w-atx-31-full-modular-cybenetics-cp-9020296-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte UD1000GM V2 ATX 3.0",
@@ -251,7 +227,17 @@
     "image": "https://pcparts.uk/img.thumb.b7d04a21a33cd2f4d6eaf49c24497233b23b06eb246f7dc95a08dddb964db57d.png",
     "source": "pcparts.uk",
     "external_id": "22587",
-    "scraped_at": "2026-07-11T13:51:04.261117+00:00"
+    "scraped_at": "2026-07-11T13:51:04.261117+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 114.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22587/gigabyte-ud1000gm-v2-atx-30-1000w-full-modular-80-gp-ud1000gm-pg5-v2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG A750GL PCIE5",
@@ -281,7 +267,17 @@
     "image": "https://pcparts.uk/img.thumb.0b653d8a9b8f485ee0cf04bf887bcb222334dcd222f704cfe118130e849b0930.png",
     "source": "pcparts.uk",
     "external_id": "21028",
-    "scraped_at": "2026-07-11T13:51:08.495284+00:00"
+    "scraped_at": "2026-07-11T13:51:08.495284+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 74.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21028/msi-mag-a750gl-pcie5-750w-full-modular-80-gold-atx-mag-a750gl-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG A850GL PCIE5",
@@ -311,7 +307,17 @@
     "image": "https://pcparts.uk/img.thumb.c3186a1504921997c9cc3dc5f0c110a5e8fd1a930a514e9934ccfc9c1701fe2a.png",
     "source": "pcparts.uk",
     "external_id": "21029",
-    "scraped_at": "2026-07-11T13:51:12.722363+00:00"
+    "scraped_at": "2026-07-11T13:51:12.722363+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 79.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21029/msi-mag-a850gl-pcie5-850w-full-modular-80-gold-atx-mag-a850gl-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MPG A1000GS PCIE5",
@@ -383,7 +389,17 @@
     "image": "https://pcparts.uk/img.thumb.4a2389f5c244780373dfc060c6449297fdcb7c0a5e214bc33a8f8f6068b852df.jpg",
     "source": "pcparts.uk",
     "external_id": "26717",
-    "scraped_at": "2026-07-11T13:51:21.204685+00:00"
+    "scraped_at": "2026-07-11T13:51:21.204685+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 99.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26717/msi-mpg-a850gs-pcie5-850w-full-modular-80-gold-atx-mpg-a850gs-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS TUF Gaming Gold 1000",
@@ -413,7 +429,17 @@
     "image": "https://pcparts.uk/img.thumb.0d4c9f3a4ed71fa9becb2d233630af0ee22a13ddc0a86cdb03f786a3e908c6cb.png",
     "source": "pcparts.uk",
     "external_id": "17846",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 126.96,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17846/asus-tuf-gaming-gold-1000w-full-modular-80-gold-at-90ye00s1-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM1000e - ATX 3.1",
@@ -427,7 +453,17 @@
     "image": "https://pcparts.uk/img.thumb.ffe2179b7d715c7e8ae52a6320ba99aff3c301281345e40315c94ecfcbd3c52c.webp",
     "source": "pcparts.uk",
     "external_id": "26723",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 99.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26723/corsair-rm1000e-1000w-atx-31-full-modular-cybeneti-cp-9020297-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM1000x - ATX 3.1",
@@ -441,7 +477,17 @@
     "image": "https://pcparts.uk/img.thumb.57e63923efac6759f04262f984a006330b64bfb6eb55d8ec359add5cf019167a.webp",
     "source": "pcparts.uk",
     "external_id": "25174",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 124.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25174/corsair-rm1000x-1000w-atx-31-full-modular-80-gold-cp-9020271-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair SF1000 (2024)",
@@ -455,7 +501,17 @@
     "image": "https://pcparts.uk/img.thumb.a2b1f1f359b623357ab93a8af10a0d9dee0ff054398d615c7aee9f099a6762d5.webp",
     "source": "pcparts.uk",
     "external_id": "24112",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 149.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24112/corsair-sf1000-2024-1000w-full-modular-80-platinum-cp-9020257-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MEG Ai1300P PCIE5",
@@ -469,7 +525,17 @@
     "image": "https://pcparts.uk/img.thumb.3ffb65a51ea6410092da58a75557c5696cf455da067177e7170cb6f58a8b6cbe.jpg",
     "source": "pcparts.uk",
     "external_id": "17859",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 249.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17859/msi-meg-ai1300p-pcie5-1300w-full-modular-80-platin-meg-ai1300p-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG LOKI 850",
@@ -483,7 +549,17 @@
     "image": "https://pcparts.uk/img.thumb.97355cfdb0832f12c9e588a737d231e1879ead687a72d8403dff276c821ffb8b.png",
     "source": "pcparts.uk",
     "external_id": "17845",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 184.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17845/asus-rog-loki-850w-full-modular-80-platinum-sfx-l-90ye00n3-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair SF850 (2024)",
@@ -497,7 +573,17 @@
     "image": "https://pcparts.uk/img.thumb.fcc486974ef7b68ed369400c9e6f753605f0040fad90174254d58c6548901711.webp",
     "source": "pcparts.uk",
     "external_id": "24111",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 129.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24111/corsair-sf850-2024-850w-full-modular-80-platinum-s-cp-9020256-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS TUF Gaming Gold 750",
@@ -512,7 +598,17 @@
     "image": "https://pcparts.uk/img.thumb.0b549410a3eb1a035d723aaa2b73a553c6c4ca5b79970ff89499d67d9f90abd5.png",
     "source": "pcparts.uk",
     "external_id": "17847",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 101.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17847/asus-tuf-gaming-gold-750w-full-modular-80-gold-atx-90ye00s3-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS TUF Gaming Gold 850",
@@ -527,7 +623,17 @@
     "image": "https://pcparts.uk/img.thumb.a9aa1820bcbe4ac0340696d0ec596651757eeb9e37632153a876259a328eeaf1.png",
     "source": "pcparts.uk",
     "external_id": "17848",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 111.96,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17848/asus-tuf-gaming-gold-850w-full-modular-80-gold-atx-90ye00s2-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Dark Power 13 1300",
@@ -541,7 +647,17 @@
     "image": "https://pcparts.uk/img.thumb.54711b47161918bd625df1f17c27a9e3e79122b0c779ad5a791036e9d64d4c8a.jpg",
     "source": "pcparts.uk",
     "external_id": "21024",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 293.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21024/be-quiet-dark-power-13-1300w-full-modular-80-titan-bn331",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 12 - ATX 3.1 1000",
@@ -555,7 +671,17 @@
     "image": "https://pcparts.uk/img.thumb.fd662302542d282002cd8b9b139200d235b39e0c560a862efbc16038ec2eddaf.jpg",
     "source": "pcparts.uk",
     "external_id": "25169",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 101.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25169/be-quiet-pure-power-12-1000w-atx-31-80-gold-atx-po-bp005eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 12 - ATX 3.1 850",
@@ -569,7 +695,17 @@
     "image": "https://pcparts.uk/img.thumb.5435a67010835b7aa3da0d08c1b608658befae14201e5ab8ea81a3a434d71356.jpg",
     "source": "pcparts.uk",
     "external_id": "25170",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 89.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25170/be-quiet-pure-power-12-850w-atx-31-80-gold-atx-pow-bp004eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! TFX Power 3 Gold 300",
@@ -599,7 +735,17 @@
     "image": "https://pcparts.uk/img.thumb.45b06c23717367ef652fad8525d627c780703aac19e55a8115444b7a17c46fb0.webp",
     "source": "pcparts.uk",
     "external_id": "26702",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 60.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26702/cooler-master-mwe-gold-v3-550w-atx-31-80-gold-atx-mpe-5502-acaag-3buk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Cooler Master MWE Gold V3 - ATX 3.1 650 - Black",
@@ -629,7 +775,17 @@
     "image": "https://pcparts.uk/img.thumb.0384c74f6478c13cbf516fa953c69918a3eeee119c7dbeaf129db60217d8d31c.webp",
     "source": "pcparts.uk",
     "external_id": "26704",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 73.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26704/cooler-master-mwe-gold-v3-750w-atx-31-80-gold-atx-mpe-7506-acag-buk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair CX550 (2023)",
@@ -643,7 +799,17 @@
     "image": "https://pcparts.uk/img.thumb.4915525d8b1692d83d3dc405a047e2f113f6b20fc1e8128c3be948690d941223.png",
     "source": "pcparts.uk",
     "external_id": "22890",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 47.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22890/corsair-cx550-2023-550w-80-bronze-atx-power-supply-cp-9020277-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM650e ATX 3.1",
@@ -657,7 +823,17 @@
     "image": "https://pcparts.uk/img.thumb.b48e2dd93e8f45e718fbbbb534688f65b1bacea6da79d2eae7c1af9f1061936d.webp",
     "source": "pcparts.uk",
     "external_id": "26672",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 70.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26672/corsair-rm650e-atx-31-650w-full-modular-cybenetics-cp-9020302-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM850x - ATX 3.1",
@@ -671,7 +847,17 @@
     "image": "https://pcparts.uk/img.thumb.6f653694081294d1f99a3bd7ffd68f43d1498cf15ba3649e41594547703e66b5.webp",
     "source": "pcparts.uk",
     "external_id": "25175",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 109.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25175/corsair-rm850x-850w-atx-31-full-modular-80-gold-at-cp-9020270-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax GX750W",
@@ -700,7 +886,17 @@
     "image": "https://pcparts.uk/img.thumb.030c40cda778eb6aa27109a4c08311065dfaee59b50775ca376babac28fe5c08.jpg",
     "source": "pcparts.uk",
     "external_id": "26720",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 144.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26720/gigabyte-aorus-elite-ae1000pm-pg5-ice-1000w-full-m-gp-ae1000pm-pg5-ice",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GP-UD1000GM PG5 ICE",
@@ -714,7 +910,17 @@
     "image": "https://pcparts.uk/img.thumb.3244f00ca1a2fbd13df304fb4c9688b02efdd9bcd4b1178b8ebadc385c9d7c6b.jpg",
     "source": "pcparts.uk",
     "external_id": "26662",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 110.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26662/gigabyte-gp-ud1000gm-pg5-ice-1000w-full-modular-80-gp-ud1000gm-pg5-ice",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte UD1300GM PG5 ATX 3.0",
@@ -728,7 +934,17 @@
     "image": "https://pcparts.uk/img.thumb.3f0b911bc96c9a1243279deefea1fefa476982f7a1412ffb002b7ee58ce7a1c4.png",
     "source": "pcparts.uk",
     "external_id": "20708",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 203.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20708/gigabyte-ud1300gm-pg5-atx-30-1300w-full-modular-80-gp-ud1300gmpg5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG A750BN PCIE5",
@@ -742,7 +958,17 @@
     "image": "https://pcparts.uk/img.thumb.9f6fafcdfbcfa9fc1ab53b6ac6498504fb8b9326575aba6d668aa7a8b6d0e7e9.jpg",
     "source": "pcparts.uk",
     "external_id": "24117",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 66.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24117/msi-mag-a750bn-pcie5-750w-80-bronze-atx-power-supp-mag-a750bn-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MPG A1250GS PCIE5",
@@ -756,7 +982,17 @@
     "image": "https://pcparts.uk/img.thumb.4a2389f5c244780373dfc060c6449297fdcb7c0a5e214bc33a8f8f6068b852df.jpg",
     "source": "pcparts.uk",
     "external_id": "26718",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 139.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26718/msi-mpg-a1250gs-pcie5-1250w-full-modular-80-gold-a-mpg-a1250gs-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MPG A850G PCIe5",
@@ -770,7 +1006,17 @@
     "image": "https://pcparts.uk/img.thumb.c448a4967ff17abd4d6112cbaefd4893ac8067ab03e690afd928796d3dd157cc.jpg",
     "source": "pcparts.uk",
     "external_id": "19316",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 89.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19316/msi-mpg-a850g-pcie5-850w-full-modular-80-gold-atx-mpg-a850g-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG LOKI 1000",
@@ -784,7 +1030,17 @@
     "image": "https://pcparts.uk/img.thumb.3f3155a6a3a78bab043bd48813d144db0afb9fa5153b845d9f93c6a45d3ce7c9.png",
     "source": "pcparts.uk",
     "external_id": "17843",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 189.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17843/asus-rog-loki-1000w-full-modular-80-platinum-sfx-l-90ye00n1-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG LOKI 750",
@@ -798,7 +1054,17 @@
     "image": "https://pcparts.uk/img.thumb.9db4cf2b82f5d4222800245917bfb3c9745f4abb2a109e3a5d9d6ec3fe703679.png",
     "source": "pcparts.uk",
     "external_id": "17844",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 152.49,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17844/asus-rog-loki-750w-full-modular-80-platinum-sfx-l-90ye00n4-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG LOKI 850 - White",
@@ -812,7 +1078,17 @@
     "image": "https://pcparts.uk/img.thumb.c06bf011670b684f325e5e6be1fca69b3347c939e239fa1cbf9bff152128b11c.png",
     "source": "pcparts.uk",
     "external_id": "19807",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 184.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19807/asus-rog-loki-850w-full-modular-80-platinum-sfx-l-rog-loki-850w-platinum-white-edition",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG STRIX - ATX 3.1 1000",
@@ -826,7 +1102,17 @@
     "image": "https://pcparts.uk/img.thumb.ba6a8b50e5ea45fa7316dfa750606093624380e829e6d659a23ce0a9f897842e.jpg",
     "source": "pcparts.uk",
     "external_id": "25165",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 169.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25165/asus-rog-strix-1000w-atx-31-full-modular-80-platin-90ye00w1-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG STRIX - ATX 3.1 1200",
@@ -840,7 +1126,17 @@
     "image": "https://pcparts.uk/img.thumb.9e7210a61ede6733a15f1bead8d9c054cfadebbdf567d3ff81dc9fff959854fe.jpg",
     "source": "pcparts.uk",
     "external_id": "25164",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 239.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25164/asus-rog-strix-1200w-atx-31-full-modular-80-platin-90ye00w0-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG STRIX - ATX 3.1 850",
@@ -854,7 +1150,17 @@
     "image": "https://pcparts.uk/img.thumb.0a298b383795f5fc3190a953dfcf734776c6c0d7abbccf76208a8519a62522c8.jpg",
     "source": "pcparts.uk",
     "external_id": "25166",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 159.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25166/asus-rog-strix-850w-atx-31-full-modular-80-platinu-90ye00w2-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS TUF Gaming ATX 3.0 1200",
@@ -868,7 +1174,17 @@
     "image": "https://pcparts.uk/img.thumb.6b356b1b7e45523ce7c1fb17a86415d36d3dcf7e23fdc3c799bf5779f2d2a0ae.jpg",
     "source": "pcparts.uk",
     "external_id": "21023",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 175.49,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21023/asus-tuf-gaming-atx-30-1200w-full-modular-80-gold-90ye00s0-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 12 550",
@@ -882,7 +1198,17 @@
     "image": "https://pcparts.uk/img.thumb.7c397950bc3221e5e3c6d2490527d10c0fd8c1bfca2161c6a162d6a829d99f32.jpg",
     "source": "pcparts.uk",
     "external_id": "25173",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 65.53,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25173/be-quiet-pure-power-12-550w-80-gold-atx-power-supp-bp001eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 13 M 650",
@@ -896,7 +1222,17 @@
     "image": "https://pcparts.uk/img.thumb.5450ca71e5273a7a9b3b1996fce7b480a3ed4921756da15eaaafee900ed95304.jpg",
     "source": "pcparts.uk",
     "external_id": "26670",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 82.05,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26670/be-quiet-pure-power-13-m-650w-full-modular-80-gold-bp025eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Straight Power 12 ATX 3.0 1200",
@@ -910,7 +1246,17 @@
     "image": "https://pcparts.uk/img.thumb.4943fc05d538b5c138a01b209ed483a0f30666b0930379d8ab8751ab365c96c2.jpg",
     "source": "pcparts.uk",
     "external_id": "21275",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 239.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21275/be-quiet-straight-power-12-atx-30-1200w-full-modul-bn339",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax GT300",
@@ -924,7 +1270,17 @@
     "image": "https://pcparts.uk/img.thumb.5ed7a7a345d752d235d4432c23679e35633c8d851894fbb9a7ee1953513120c1.png",
     "source": "pcparts.uk",
     "external_id": "7994",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 31.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/7994/gamemax-gt300-300w-80-bronze-tfx-power-supply-gt300",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax GX850W",
@@ -939,7 +1295,17 @@
     "image": "https://pcparts.uk/img.thumb.481e132e7d76ce6119b32a2974363d4f7d4823d9b787b385f8dbdbdfdea2c566.png",
     "source": "pcparts.uk",
     "external_id": "21793",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 63.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21793/gamemax-gx850w-full-modular-80-gold-atx-power-supp-psugmxgx850",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GP-UD750GM PG5",
@@ -953,7 +1319,17 @@
     "image": "https://pcparts.uk/img.thumb.38a0c8a197990e7a42ee9f04527103b8feafb22884c591c663e1eef17f122bac.jpg",
     "source": "pcparts.uk",
     "external_id": "23232",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 76.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23232/gigabyte-gp-ud750gm-pg5-750w-full-modular-80-gold-gp-ud750gm-pg5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GP-UD750GM PG5 V2",
@@ -967,7 +1343,17 @@
     "image": "https://pcparts.uk/img.thumb.367c308b637f790c0ed0d244ce6bbc8da5250b046b3eba41eba3ba208d113ed6.jpg",
     "source": "pcparts.uk",
     "external_id": "26659",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 80.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26659/gigabyte-gp-ud750gm-pg5-v2-750w-full-modular-80-go-gp-ud750gm-pg5-v2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MEG A1000G",
@@ -981,7 +1367,17 @@
     "image": "https://pcparts.uk/img.thumb.b6362e733af0e2b7324169b62c73199cae3a6f2f124f81df82e3beffee8a269e.png",
     "source": "pcparts.uk",
     "external_id": "17858",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 96.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17858/msi-meg-a1000g-1000w-full-modular-80-gold-atx-powe-mpg-a1000g-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT C850 Gold - ATX 3.1",
@@ -996,7 +1392,17 @@
     "image": "https://pcparts.uk/img.thumb.68c4ef0374bf54c94b1c6a0437241583b73a5f64c2169505fca125c0a43e01e8.webp",
     "source": "pcparts.uk",
     "external_id": "26754",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 118.87,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26754/nzxt-c850-gold-850w-atx-31-full-modular-80-gold-at-pa-8g2bb-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair HX1000i ATX 3.0",
@@ -1010,7 +1416,17 @@
     "image": "https://pcparts.uk/img.thumb.4f6bafcbcedfec8b3aaeaa7e8a03dd2ce92a904a9c41fd1f590559c4a08191ab.png",
     "source": "pcparts.uk",
     "external_id": "20701",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 169.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20701/corsair-hx1000i-atx-30-1000w-full-modular-80-plati-cp-9020259-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG A650GL",
@@ -1039,7 +1455,17 @@
     "image": "https://pcparts.uk/img.thumb.07c4f50a3487451223273b4cfae5162aae6500f1e7a7515c4b037eacd5f84793.png",
     "source": "pcparts.uk",
     "external_id": "26730",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 399.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26730/asus-rog-thor-platinum-iii-atx-31-1200w-full-modul-90ye00v2-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Dark Power 13 1600",
@@ -1053,7 +1479,17 @@
     "image": "https://pcparts.uk/img.thumb.54711b47161918bd625df1f17c27a9e3e79122b0c779ad5a791036e9d64d4c8a.jpg",
     "source": "pcparts.uk",
     "external_id": "21025",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 332.19,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21025/be-quiet-dark-power-13-1600w-full-modular-80-titan-bn332",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Power Zone 2 1000",
@@ -1067,7 +1503,17 @@
     "image": "https://pcparts.uk/img.thumb.75da35f5b533757a28471a5e46c299eac0b54f314bdbd55527ab1881c7117dd0.jpg",
     "source": "pcparts.uk",
     "external_id": "26677",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 125.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26677/be-quiet-power-zone-2-1000w-full-modular-80-platin-bp008",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Power Zone 2 750",
@@ -1081,7 +1527,17 @@
     "image": "https://pcparts.uk/img.thumb.dc0254dc612a1a3bc9d887e5571a4abfd6bb05612c19c2169b34fd7316611780.jpg",
     "source": "pcparts.uk",
     "external_id": "26676",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 109.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26676/be-quiet-power-zone-2-750w-full-modular-80-platinu-bp006",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 12 - ATX 3.1 750",
@@ -1095,7 +1551,17 @@
     "image": "https://pcparts.uk/img.thumb.f12d0699f2f7bdb1adc89a08777de9b68cc19c0ee2471546c4b4d8af046798ed.jpg",
     "source": "pcparts.uk",
     "external_id": "25171",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 77.63,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25171/be-quiet-pure-power-12-750w-atx-31-80-gold-atx-pow-bp003eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 12 M ATX 3.0 1200",
@@ -1123,7 +1589,17 @@
     "image": "https://pcparts.uk/img.thumb.6bd319b1e2fbeaa97125a6988225ed6b57d84414b9e2426c175dbcb5a246d1ed.jpg",
     "source": "pcparts.uk",
     "external_id": "26665",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 137.32,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26665/be-quiet-pure-power-13-m-1000w-full-modular-80-gol-bp028eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 13 M 750",
@@ -1137,7 +1613,17 @@
     "image": "https://pcparts.uk/img.thumb.d604c744b11aa85bc9f96e300971edad97e31429183c17e7c77ba6efd1de1c77.jpg",
     "source": "pcparts.uk",
     "external_id": "26669",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 89.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26669/be-quiet-pure-power-13-m-750w-full-modular-80-gold-bp026eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 13 M 850",
@@ -1151,7 +1637,17 @@
     "image": "https://pcparts.uk/img.thumb.59b09b348d7678a6cf15dedde4742031f7842c98feff1e903ebb44093f0cf76f.jpg",
     "source": "pcparts.uk",
     "external_id": "26671",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 99.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26671/be-quiet-pure-power-13-m-850w-full-modular-80-gold-bp027eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Straight Power 12 ATX 3.0 750",
@@ -1179,7 +1675,17 @@
     "image": "https://pcparts.uk/img.thumb.0f3e0fbe2038e54ceb849260f9c12adfea0fea913949bd20a3ad38c489cf5837.jpg",
     "source": "pcparts.uk",
     "external_id": "26739",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 43.28,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26739/be-quiet-system-power-11-550w-atx-31-80-bronze-atx-bp010eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! System Power 11 650",
@@ -1193,7 +1699,17 @@
     "image": "https://pcparts.uk/img.thumb.a971f0e04e0a62518d9d96d176552b2564e85ebc6a8f5bfc884544c6d651ad68.jpg",
     "source": "pcparts.uk",
     "external_id": "26144",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 46.34,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26144/be-quiet-system-power-11-650w-80-bronze-atx-power-bp011eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Cooler Master MWE Gold V3 - ATX 3.1 550 - White",
@@ -1222,7 +1738,17 @@
     "image": "https://pcparts.uk/img.thumb.95bf84b1e522b4d66c8ab68e0d37dde17ce35bdb36dfbf6b1d0d575c88ecd70f.png",
     "source": "pcparts.uk",
     "external_id": "22891",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 48.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22891/corsair-cx650-2023-650w-80-bronze-atx-power-supply-cp-9020278-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair CX750 (2023)",
@@ -1236,7 +1762,17 @@
     "image": "https://pcparts.uk/img.thumb.76cd3262d9e3f3d138ce83c0253a15ac129dabb9a92871b0226f962ace4c3660.png",
     "source": "pcparts.uk",
     "external_id": "22892",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 57.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22892/corsair-cx750-2023-750w-80-bronze-atx-power-supply-cp-9020279-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RMe ATX 3.1 1000 - White",
@@ -1250,7 +1786,17 @@
     "image": "https://pcparts.uk/img.thumb.45c95301ab16474ff93d61ee76b330a94c3ab73e20316d25d609989d2e45d9dc.webp",
     "source": "pcparts.uk",
     "external_id": "26673",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 147.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26673/corsair-rme-atx-31-1000w-full-modular-cybenetics-g-cp-9020294-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RMe ATX 3.1 750",
@@ -1264,7 +1810,17 @@
     "image": "https://pcparts.uk/img.thumb.eede1c854eab62d3ed389c2166bdc36be1a23abbfc73bde555a0db77309ac07d.webp",
     "source": "pcparts.uk",
     "external_id": "26668",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 109.9,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26668/corsair-rme-atx-31-750w-full-modular-cybenetics-go-cp-9020292-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RMx SHIFT RM750x",
@@ -1278,7 +1834,17 @@
     "image": "https://pcparts.uk/img.thumb.0959900b557ae838d366f8a679110d7056731bd8a2d5003e5d3c106e5cd87b8f.png",
     "source": "pcparts.uk",
     "external_id": "19722",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 134.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19722/corsair-rmx-shift-rm750x-750w-full-modular-80-gold-cp-9020251-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair SF750 (2024)",
@@ -1292,7 +1858,17 @@
     "image": "https://pcparts.uk/img.thumb.bd975f96dd59eb721bdd2036c798bc0a8fe0de7b44de81a4a92a8dda0700708f.webp",
     "source": "pcparts.uk",
     "external_id": "24110",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 114.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24110/corsair-sf750-2024-750w-full-modular-80-platinum-s-cp-9020284-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool PF600",
@@ -1306,7 +1882,17 @@
     "image": "https://pcparts.uk/img.thumb.b35c80cc2244ed503b919cb87df5b0f4fa1a9845f424d3ebe42e3c79493d2de8.jpg",
     "source": "pcparts.uk",
     "external_id": "17851",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 32.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17851/deepcool-pf600-600w-80-white-atx-power-supply-r-pf600d-ha0b-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool PL650D - ATX 3.1",
@@ -1320,7 +1906,17 @@
     "image": "https://pcparts.uk/img.thumb.418ac6356a8ca308e029db68c79beaf0367e54e5eaeb84509ccbc52c109b01e3.jpg",
     "source": "pcparts.uk",
     "external_id": "26725",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 43.47,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26725/deepcool-pl650d-650w-atx-31-80-bronze-atx-power-su-r-pl650d-fc0b-uk-v2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool PL750D - ATX 3.1",
@@ -1334,7 +1930,17 @@
     "image": "https://pcparts.uk/img.thumb.418ac6356a8ca308e029db68c79beaf0367e54e5eaeb84509ccbc52c109b01e3.jpg",
     "source": "pcparts.uk",
     "external_id": "26726",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 44.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26726/deepcool-pl750d-750w-atx-31-80-bronze-atx-power-su-r-pl750d-fc0b-uk-v2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax 850W Pro",
@@ -1349,7 +1955,17 @@
     "image": "https://pcparts.uk/img.thumb.e8fff0127f41fc4509a2a1b8a6318b59cacda6bc0a97a0c9e3f96fb9e3072b31.png",
     "source": "pcparts.uk",
     "external_id": "21790",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 79.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21790/gamemax-850w-pro-full-modular-80-gold-atx-power-su-gmx-gx850prob",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax 850W Pro - White",
@@ -1364,7 +1980,17 @@
     "image": "https://pcparts.uk/img.thumb.42a6c417d1c681ba94033bbd69a9c2011fb25d02c61bae77f7d9093010b8e00a.png",
     "source": "pcparts.uk",
     "external_id": "21791",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 77.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21791/gamemax-850w-pro-full-modular-80-gold-atx-power-su-gmx-gx850prow",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax GP400A",
@@ -1378,7 +2004,17 @@
     "image": "https://pcparts.uk/img.thumb.943cbe0f8eebbea2209557d9149bad886610af9650bf0e7ab91984406d839f21.png",
     "source": "pcparts.uk",
     "external_id": "8005",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 24.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8005/gamemax-gp400a-400w-80-bronze-atx-power-supply-gp400a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax GS300",
@@ -1392,7 +2028,17 @@
     "image": "https://pcparts.uk/img.thumb.910d74c8ada08c008bc15f11988ab2213a254b4303c7ee8ba708ff939cae9185.png",
     "source": "pcparts.uk",
     "external_id": "17856",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 36.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17856/gamemax-gs300-300w-80-bronze-sfx-power-supply-gs-300",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax GS450",
@@ -1406,7 +2052,17 @@
     "image": "https://pcparts.uk/img.thumb.a98084e9741e6e0b5f53835befc62fe1bb2fb78b8bf6fb0f101ef5cf8a23a560.png",
     "source": "pcparts.uk",
     "external_id": "17857",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 37.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17857/gamemax-gs450-450w-80-bronze-sfx-power-supply-gs-450",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax RGB-1300 (ATX3.0 PCIe5.0)",
@@ -1420,7 +2076,17 @@
     "image": "https://pcparts.uk/img.thumb.e1a809730ca1ed91fa9a77ffb31ce4cd3e692f8b22b3057605a19b48530a95bd.png",
     "source": "pcparts.uk",
     "external_id": "19806",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 119.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19806/gamemax-rgb-1300-atx30-pcie50-1300w-full-modular-8-6931858766180",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax RPG Rampage 500",
@@ -1434,7 +2100,17 @@
     "image": "https://pcparts.uk/img.thumb.86bb0ccf239fd97c784f8cffeb4d7f0597f032bb882151e9d0e9f91e6bbbada8.png",
     "source": "pcparts.uk",
     "external_id": "7990",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 28.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/7990/gamemax-rpg-rampage-500w-80-bronze-atx-power-suppl-gmxrpg500",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax RPG Rampage 600",
@@ -1448,7 +2124,17 @@
     "image": "https://pcparts.uk/img.thumb.047246daf8284b5b0033e77e91e672872a8db239bac4422c567558a5ea56cf0b.png",
     "source": "pcparts.uk",
     "external_id": "7989",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 31.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/7989/gamemax-rpg-rampage-600w-80-bronze-atx-power-suppl-gmxrpg600",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax RPG Rampage 700",
@@ -1462,7 +2148,17 @@
     "image": "https://pcparts.uk/img.thumb.2065e8200a989d297c71a091f848cc26a339d4edb5d2839f5c1a2aae6f4fe962.png",
     "source": "pcparts.uk",
     "external_id": "7988",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 37.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/7988/gamemax-rpg-rampage-700w-80-bronze-atx-power-suppl-gmxrpg700",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax RPG Rampage 800",
@@ -1476,7 +2172,17 @@
     "image": "https://pcparts.uk/img.thumb.5226b49df31f4a37a07276f96ad0584441c9970dbbbf672ef8e486c543e1821b.png",
     "source": "pcparts.uk",
     "external_id": "7986",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 46.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/7986/gamemax-rpg-rampage-800w-80-bronze-atx-power-suppl-gmxrpg800",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS ELITE AE850PM PG5 ICE",
@@ -1490,7 +2196,17 @@
     "image": "https://pcparts.uk/img.thumb.bd4f925cae7ec56cbf38508cd7881914d02984819fa5046e669c8542d6255939.jpg",
     "source": "pcparts.uk",
     "external_id": "26716",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 117.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26716/gigabyte-aorus-elite-ae850pm-pg5-ice-850w-full-mod-gp-ae850pm-pg5-ice",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GP-P650G PG5",
@@ -1504,7 +2220,17 @@
     "image": "https://pcparts.uk/img.thumb.76de6f6302f299d33b9845c50377e5b1b5d33d09a2bfaa0f532d2087e62af7ec.jpg",
     "source": "pcparts.uk",
     "external_id": "26661",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 50.06,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26661/gigabyte-gp-p650g-pg5-650w-80-gold-atx-power-suppl-gp-p650g-pg5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte P750BS",
@@ -1518,7 +2244,17 @@
     "image": "https://pcparts.uk/img.thumb.0698c488b812006f0efb336c8ccd6debb9c158e0007fb44aab729f65b5ddd803.jpg",
     "source": "pcparts.uk",
     "external_id": "26712",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 45.09,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26712/gigabyte-p750bs-750w-80-bronze-atx-power-supply-gp-p750bs-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG A550BN",
@@ -1532,7 +2268,17 @@
     "image": "https://pcparts.uk/img.thumb.426af330f63a67258c37c4e9931b4f27a9cbb3a5778aef127b31716527da78b0.png",
     "source": "pcparts.uk",
     "external_id": "12266",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 37.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12266/msi-mag-a550bn-550w-80-bronze-atx-power-supply-306-7zp2a18-ce0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG A650BN",
@@ -1546,7 +2292,17 @@
     "image": "https://pcparts.uk/img.thumb.426af330f63a67258c37c4e9931b4f27a9cbb3a5778aef127b31716527da78b0.png",
     "source": "pcparts.uk",
     "external_id": "12265",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 39.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12265/msi-mag-a650bn-650w-80-bronze-atx-power-supply-306-7zp2b18-ce0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG A850GL PCIE5 - White",
@@ -1574,7 +2330,17 @@
     "image": "https://pcparts.uk/img.thumb.e25997edea6ba04b68358b9709e34aeb98ea8a2bfa420407d32cb489f6aba29c.jpg",
     "source": "pcparts.uk",
     "external_id": "26171",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 549.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26171/msi-meg-ai1600t-pcie5-1600w-full-modular-80-titani-meg-ai1600t-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT C1000 ATX 3.1 - Black",
@@ -1588,7 +2354,17 @@
     "image": "https://pcparts.uk/img.thumb.84de4e802d2edaea8791ec267ba72866f5aa7d8014f484edd182eeb54c286414.webp",
     "source": "pcparts.uk",
     "external_id": "26727",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 144.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26727/nzxt-c1000-atx-31-1000w-full-modular-80-gold-atx-p-pa-0g2bb-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Phanteks AMP GH 850 - Black",
@@ -1602,7 +2378,17 @@
     "image": "https://pcparts.uk/img.thumb.c62488dab41459bf6b6531d4123403176d19251e19ce4b672d1c0b4bd0b291d8.webp",
     "source": "pcparts.uk",
     "external_id": "26679",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 104.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26679/phanteks-amp-gh-850w-full-modular-80-gold-atx-powe-ph-p850ghbk01uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seagate CORE GX ATX 3.1 850",
@@ -1616,7 +2402,17 @@
     "image": "https://pcparts.uk/img.thumb.3d55dfdb2cdb1ec14c8f1eb158fa0e72411a8c5dd17199c232cb1267fb1d4a8b.webp",
     "source": "pcparts.uk",
     "external_id": "26705",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 124.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26705/seagate-core-gx-atx-31-850w-full-modular-80-gold-a-core-gx-850-v2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seasonic FOCUS GX ATX 3.1 750",
@@ -1630,7 +2426,17 @@
     "image": "https://pcparts.uk/img.thumb.5f1579bd8346b4b8d161981ce93c26ad6c547b1896de523136a3576df231716a.webp",
     "source": "pcparts.uk",
     "external_id": "26706",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 117.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26706/seasonic-focus-gx-atx-31-750w-full-modular-80-gold-focus-gx-750-v4",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seasonic FOCUS GX ATX 3.1 850",
@@ -1644,7 +2450,17 @@
     "image": "https://pcparts.uk/img.thumb.9c464ce9c97a5dd71da4f60882b21deb5b49d94c57b9be7a1d733b8d352d25d2.webp",
     "source": "pcparts.uk",
     "external_id": "26667",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 131.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26667/seasonic-focus-gx-atx-31-850w-full-modular-80-gold-focus-gx-850-v4",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seasonic Prime PX ATX 3.0 1600",
@@ -1658,7 +2474,17 @@
     "image": "https://pcparts.uk/img.thumb.ccdd631525abb6afa8d50760d272e8dffe47b74b4e2b30e2a0f05deac565b074.png",
     "source": "pcparts.uk",
     "external_id": "21282",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 379.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21282/seasonic-prime-px-atx-30-1600w-full-modular-80-pla-prime-px-1600-atx30",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seasonic PRIME-TX ATX 3.0 1600",
@@ -1672,7 +2498,17 @@
     "image": "https://pcparts.uk/img.thumb.6758ee7041a0c223544e75e7c4d147f1a7bb54d5609f442a881c3b173d7bfa03.png",
     "source": "pcparts.uk",
     "external_id": "22592",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 439.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22592/seasonic-prime-tx-atx-30-1600w-full-modular-80-tit-prime-tx-1600-atx30",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Phantom Gaming 1000G",
@@ -1686,7 +2522,17 @@
     "image": "https://pcparts.uk/img.thumb.de058c6b76f16bab364c8c750257e148418362b04dcf3a164cf4b0bf2cd67598.png",
     "source": "pcparts.uk",
     "external_id": "26690",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 144.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26690/asrock-phantom-gaming-1000g-1000w-full-modular-80-pg-1000g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Strix White Edition - ATX 3.1 1000",
@@ -1700,7 +2546,17 @@
     "image": "https://pcparts.uk/img.thumb.0e9e211b796240b83028fde2f2bbfbb42bce9f24f25bfdac7138fa33115ccc15.jpg",
     "source": "pcparts.uk",
     "external_id": "26675",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 219.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26675/asus-rog-strix-white-edition-1000w-atx-31-full-mod-90ye00w4-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS TUF Gaming 750",
@@ -1742,7 +2598,17 @@
     "image": "https://pcparts.uk/img.thumb.87fbacf19f356f7f57694f4061d2be71eaccfbe283d11065f34925220718683d.jpg",
     "source": "pcparts.uk",
     "external_id": "8155",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 95.96,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8155/be-quiet-sfx-l-power-600w-full-modular-80-gold-sfx-bn239",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte UD750GM PG5 ICE",
@@ -1756,7 +2622,17 @@
     "image": "https://pcparts.uk/img.thumb.8337a079d0a05fd36586013867c37e65d8ef100b78434eea6be5bbb534f4e210.jpg",
     "source": "pcparts.uk",
     "external_id": "26729",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 82.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26729/gigabyte-ud750gm-pg5-ice-750w-full-modular-80-gold-gp-ud750gm-pg5-ice",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seagate CORE GX ATX 3.1 650",
@@ -1770,7 +2646,17 @@
     "image": "https://pcparts.uk/img.thumb.970b24dcf35a65eb4909b5b68ae35b9bbb47a8ff7b2595eed96108734c10e777.webp",
     "source": "pcparts.uk",
     "external_id": "26664",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 77.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26664/seagate-core-gx-atx-31-650w-full-modular-80-gold-a-core-gx-650-v2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seasonic FOCUS GX ATX 3.1 1000",
@@ -1784,7 +2670,17 @@
     "image": "https://pcparts.uk/img.thumb.4a293390a21855a7dd217dd01d4f2c227b4d79480ac05bc2ae942e222b67a3a2.webp",
     "source": "pcparts.uk",
     "external_id": "26707",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 164.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26707/seasonic-focus-gx-atx-31-1000w-full-modular-80-gol-focus-gx-1000-v4",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AeroCool Integrator 500",
@@ -1812,7 +2708,17 @@
     "image": "https://pcparts.uk/img.thumb.3e0437109eb4450c3d25b862b57fb5ea2e3e4fa774be87c3e07a725366a6e2de.jpg",
     "source": "pcparts.uk",
     "external_id": "8231",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 39.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8231/aerocool-integrator-600w-80-bronze-power-supply-acpb-it60akc12",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AeroCool Integrator 700",
@@ -1826,7 +2732,17 @@
     "image": "https://pcparts.uk/img.thumb.58f7bcce838de22850c02d5335e8fe7e53197a5af6d4a623d6d1b8b585bb796c.jpg",
     "source": "pcparts.uk",
     "external_id": "8230",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 56.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8230/aerocool-integrator-700w-80-white-atx-power-supply-acpb-it70akc12",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AeroCool Integrator 850",
@@ -1840,7 +2756,17 @@
     "image": "https://pcparts.uk/img.thumb.8da1828de9df9fe59ff328af50a359cfcb93c86134d08708416550a998725374.jpg",
     "source": "pcparts.uk",
     "external_id": "8229",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8229/aerocool-integrator-850w-80-bronze-atx-power-suppl-acpb-it85akc12",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Antec Cuprum Strike CSK550",
@@ -1868,7 +2794,17 @@
     "image": "https://pcparts.uk/img.thumb.dc888fca14c51c889537f135f0f193f2f00fceb327f676d3fa5812611e4441dd.jpg",
     "source": "pcparts.uk",
     "external_id": "20108",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 70.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20108/antec-cuprum-strike-csk750h-750w-semi-modular-80-b-0-761345-11769-2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Challenger 850G",
@@ -1882,7 +2818,17 @@
     "image": "https://pcparts.uk/img.thumb.7d9ccae67958e64c43f28da6b4dfccd07f8eb015e46d04f474d7f0ba7f0df35d.png",
     "source": "pcparts.uk",
     "external_id": "26691",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 82.68,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26691/asrock-challenger-850g-850w-80-gold-atx-power-supp-cl-850g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Phantom Gaming 1300G",
@@ -1910,7 +2856,17 @@
     "image": "https://pcparts.uk/img.thumb.e6812ebca6edde09fc688a44522a120cb6682ea2be5fe2d74f1417f45c6e9c56.png",
     "source": "pcparts.uk",
     "external_id": "26698",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 124.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26698/asrock-steel-legend-850gw-850w-full-modular-80-gol-sl-850gw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Prime - ATX 3.1 750",
@@ -1924,7 +2880,17 @@
     "image": "https://pcparts.uk/img.thumb.f7579ef409f895fff16d8c465158feb298e6722ab9a972706286078484b66f62.jpg",
     "source": "pcparts.uk",
     "external_id": "26674",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 92.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26674/asus-prime-750w-atx-31-full-modular-80-gold-atx-po-90ye00u1-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS PRIME AP-850G",
@@ -1938,7 +2904,17 @@
     "image": "https://pcparts.uk/img.thumb.76a47540e9586933717324a6eb1a0e4a63dbe76dad9120fd4afe85be60545536.jpg",
     "source": "pcparts.uk",
     "external_id": "26749",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 97.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26749/asus-prime-ap-850g-850w-full-modular-80-gold-atx-p-90ye00u0-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG LOKI 1200",
@@ -1952,7 +2928,17 @@
     "image": "https://pcparts.uk/img.thumb.eb912aa1a7b3537e6490db5c87e41e7e9d1f1c9b02e2191e2d8402ff3eaae342.jpg",
     "source": "pcparts.uk",
     "external_id": "25163",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 366.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25163/asus-rog-loki-1200w-full-modular-80-platinum-sfx-l-90ye00n0-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS TUF Gaming 1000 - White",
@@ -1966,7 +2952,17 @@
     "image": "https://pcparts.uk/img.thumb.7422c616b77c9b9aa08529d72b862ce90ff1342fccaed6eee536ba0ad7ef206e.jpg",
     "source": "pcparts.uk",
     "external_id": "26750",
-    "scraped_at": "2026-07-11T13:51:25.430309+00:00"
+    "scraped_at": "2026-07-11T13:51:25.430309+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 134.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26750/asus-tuf-gaming-1000w-full-modular-80-gold-atx-pow-90ye00s5-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! System Power 11 - ATX 3.1 750",
@@ -1980,7 +2976,17 @@
     "image": "https://pcparts.uk/img.thumb.a971f0e04e0a62518d9d96d176552b2564e85ebc6a8f5bfc884544c6d651ad68.jpg",
     "source": "pcparts.uk",
     "external_id": "26738",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 59.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26738/be-quiet-system-power-11-750w-atx-31-80-bronze-atx-bp012eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CiT ATV Pro 500",
@@ -2008,7 +3014,17 @@
     "image": "https://pcparts.uk/img.thumb.f02a47c8286ccf458bf121ba80b61cc4fd228de48ecfbebe4c0fa0fa2f087092.jpg",
     "source": "pcparts.uk",
     "external_id": "8188",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 22.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8188/cit-fx-pro-400w-80-bronze-atx-power-supply-cit-400w-fx-pro",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CiT FX Pro 600",
@@ -2050,7 +3066,17 @@
     "image": "https://pcparts.uk/img.thumb.0f1566508cae9caa960bd237f53202687ad6bb5a1830f9cf0e42a7ff1db58334.jpg",
     "source": "pcparts.uk",
     "external_id": "8186",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 39.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8186/cit-fx-pro-800w-80-bronze-atx-power-supply-cit-800w-fx-pro",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CiT Micro 400",
@@ -2064,7 +3090,17 @@
     "image": "https://pcparts.uk/img.thumb.15b81c4395fb8554c342189ea85863f08922025ea2c7628862871555911751b1.jpg",
     "source": "pcparts.uk",
     "external_id": "19314",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 18.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19314/cit-micro-400w-sfx-power-supply-psucit400micro",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Cooler Master MWE Gold 850 V3 ATX 3.1",
@@ -2137,7 +3173,17 @@
     "image": "https://pcparts.uk/img.thumb.450dab9d9c48c877626faf6341c7f6ec2d604f2f4372fe5be672abc9f8b8e07e.webp",
     "source": "pcparts.uk",
     "external_id": "26752",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 199.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26752/corsair-hx1500i-1500w-atx-31-full-modular-cybeneti-cp-9020309-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM850e - ATX 3.1 - White",
@@ -2151,7 +3197,17 @@
     "image": "https://pcparts.uk/img.thumb.8aca9cf523afdbd378333b1a63bc55c8557de261e17ed3333f4f58af99b2589a.webp",
     "source": "pcparts.uk",
     "external_id": "26731",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 114.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26731/corsair-rm850e-850w-atx-31-full-modular-cybenetics-cp-9020293-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RMx SHIFT RM1000x",
@@ -2165,7 +3221,17 @@
     "image": "https://pcparts.uk/img.thumb.53408673788ca5375d7d6c12cdd2049687f2a5ddb4030d0854c4bf1b967d6ff2.png",
     "source": "pcparts.uk",
     "external_id": "19720",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 179.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19720/corsair-rmx-shift-rm1000x-1000w-full-modular-80-go-cp-9020253-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RMx SHIFT RM850x",
@@ -2193,7 +3259,17 @@
     "image": "https://pcparts.uk/img.thumb.80e8d3ba8a06cb11f7d6b3a71cbf2342059fdb2eb75d6712867db91942ced9a9.jpg",
     "source": "pcparts.uk",
     "external_id": "15966",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 43.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/15966/cwt-csb-750w-semi-modular-80-bronze-atx-power-supp-csb750s-am",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CWT GPM 600",
@@ -2207,7 +3283,17 @@
     "image": "https://pcparts.uk/img.thumb.cd1e956910d7fa6c112832b26a452ae866a7553d66ba3e3a9466fc19d65ed6d2.jpg",
     "source": "pcparts.uk",
     "external_id": "15964",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 43.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/15964/cwt-gpm-600w-full-modular-80-bronze-atx-power-supp-gpm600s-ba",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CWT GPM 700",
@@ -2235,7 +3321,17 @@
     "image": "https://pcparts.uk/img.thumb.768594640bbc63c9bc3f334b9ac0077ea3d919cf4f803abdff1127a1ed288f2f.jpg",
     "source": "pcparts.uk",
     "external_id": "15963",
-    "scraped_at": "2026-07-11T13:51:29.779142+00:00"
+    "scraped_at": "2026-07-11T13:51:29.779142+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 30.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/15963/cwt-gpt-500w-full-modular-80-atx-power-supply-gpt500sb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CWT GPX 850",
@@ -2249,7 +3345,17 @@
     "image": "https://pcparts.uk/images/placeholders/soon.png",
     "source": "pcparts.uk",
     "external_id": "15967",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 77.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/15967/cwt-gpx-850w-full-modular-80-gold-atx-power-supply-gpx850s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool PF500",
@@ -2263,7 +3369,17 @@
     "image": "https://pcparts.uk/img.thumb.d896d478386a24bad597e0d6888fa98f6f20209f7f0c1761b9e72191be7139cd.jpg",
     "source": "pcparts.uk",
     "external_id": "17850",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 28.96,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17850/deepcool-pf500-500w-80-white-atx-power-supply-r-pf500d-ha0b-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax 750W Pro",
@@ -2278,7 +3394,17 @@
     "image": "https://pcparts.uk/img.thumb.284bf0858671d93cb64a11f4465894926ea6c6f45cf93978d446f4ed2fb12a4e.png",
     "source": "pcparts.uk",
     "external_id": "21789",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 56.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21789/gamemax-750w-pro-full-modular-80-gold-atx-power-su-rgb-750pro",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax GM1050 RGB",
@@ -2320,7 +3446,17 @@
     "image": "https://pcparts.uk/img.thumb.cd99f1dbc76e3914360bccbe05b269be5c7b93cb78a51fe45d5cdfa32f818a14.png",
     "source": "pcparts.uk",
     "external_id": "7992",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 43.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/7992/gamemax-gm550-rgb-550w-full-modular-80-gold-atx-po-rgb550",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax GP500",
@@ -2348,7 +3484,17 @@
     "image": "https://pcparts.uk/img.thumb.99284117b3fce64e2e411d04aba0ca47befc460a8f033068c6375e3268aebc01.jpg",
     "source": "pcparts.uk",
     "external_id": "26711",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 114.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26711/gigabyte-aorus-elite-ae850pm-pg5-850w-full-modular-gp-ae850pm-pg5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte P650SS",
@@ -2362,7 +3508,17 @@
     "image": "https://pcparts.uk/img.thumb.0243d3143ca87362adbf4a48f6be763c581493b029a5879ad5d62b4ef3c88c4c.jpg",
     "source": "pcparts.uk",
     "external_id": "26724",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 39.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26724/gigabyte-p650ss-650w-80-silver-atx-power-supply-gp-p650ss-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte P650SS ICE",
@@ -2376,7 +3532,17 @@
     "image": "https://pcparts.uk/img.thumb.b88ee61c35528e4312a2eade974aac6b3ec6d2d4a87c6997ec6cd7b8b57ff707.jpg",
     "source": "pcparts.uk",
     "external_id": "26722",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 44.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26722/gigabyte-p650ss-ice-650w-80-silver-atx-power-suppl-gp-p650ss-ice-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte UD1600PM PG5 AI TOP",
@@ -2390,7 +3556,17 @@
     "image": "https://pcparts.uk/img.thumb.376c848a18ab6a6b98635cfebabaf81604eef5c18c741cc10a6aee4dc0c093db.jpg",
     "source": "pcparts.uk",
     "external_id": "26710",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 289.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26710/gigabyte-ud1600pm-pg5-ai-top-1600w-full-modular-80-gp-ud1600pm-pg5-ai-top",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte UD850GM PG5 ICE",
@@ -2404,7 +3580,17 @@
     "image": "https://pcparts.uk/img.thumb.9288ba4e1d4b891d3cf8453dbadc906116d30a7d604311ab831f0c333ea77b02.jpg",
     "source": "pcparts.uk",
     "external_id": "26728",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 84.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26728/gigabyte-ud850gm-pg5-ice-850w-full-modular-80-gold-gp-ud850gm-pg5-ice",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Edge EG1300 - Black",
@@ -2446,7 +3632,17 @@
     "image": "https://pcparts.uk/img.thumb.9e26a89df28781aa213c46552aa5ab01f5dd4f694d2da965b83dfe2d59f5565e.webp",
     "source": "pcparts.uk",
     "external_id": "26680",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 118.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26680/phanteks-amp-gh-850w-full-modular-80-gold-atx-powe-ph-p850ghwt01uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seasonic FOCUS GX White ATX 3.1 750",
@@ -2460,7 +3656,17 @@
     "image": "https://pcparts.uk/img.thumb.ee21a2d233c9bae02ca449d1de31f1e8c591fefc5dd35e9f67b500c4581f13e5.webp",
     "source": "pcparts.uk",
     "external_id": "26666",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 119.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26666/seasonic-focus-gx-white-atx-31-750w-full-modular-8-focus-gx-750-v4-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seasonic FOCUS GX White ATX 3.1 850",
@@ -2474,7 +3680,17 @@
     "image": "https://pcparts.uk/img.thumb.2e1e8eb45346784c611cbabcfc756fbc3873c7fd0dc965fa9d2f861904c2bea8.webp",
     "source": "pcparts.uk",
     "external_id": "26663",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 156.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26663/seasonic-focus-gx-white-atx-31-850w-full-modular-8-focus-gx-850-v4-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Seasonic Vertex PX ATX 3.0 1000",
@@ -2530,7 +3746,17 @@
     "image": "https://pcparts.uk/img.thumb.6b59260ee8932ae1b6335a3acd6fc7ab6cfd2d5be88d1bf9beebd3df2df4cd43.jpg",
     "source": "pcparts.uk",
     "external_id": "26733",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 84.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26733/thermaltake-toughpower-gt-750w-atx-31-full-modular-ps-tpt-0750fnfagk-3",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Challenger 550B",
@@ -2586,7 +3812,17 @@
     "image": "https://pcparts.uk/img.thumb.d62e5aad1f8f8a4cb49c8d61abd8bdb8bccf231f66fb2b1886d1c5ad068f46ec.png",
     "source": "pcparts.uk",
     "external_id": "26697",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 76.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26697/asrock-challenger-750g-750w-80-gold-atx-power-supp-cl-750g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Phantom Gaming 750G",
@@ -2600,7 +3836,17 @@
     "image": "https://pcparts.uk/img.thumb.8dbb3f8233941cf3f264b73f6d59dc46b851105c8af7ca5ecea8124aaecee45c.png",
     "source": "pcparts.uk",
     "external_id": "26686",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 117.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26686/asrock-phantom-gaming-750g-750w-full-modular-80-go-pg-750g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Phantom Gaming 850G",
@@ -2614,7 +3860,17 @@
     "image": "https://pcparts.uk/img.thumb.167d5a0d2b05f05e9bbb86edacec4ff4ac49eff731f743710c439758f2a649d5.png",
     "source": "pcparts.uk",
     "external_id": "26687",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 132.03,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26687/asrock-phantom-gaming-850g-850w-full-modular-80-go-pg-850g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Steel Legend 1000GW - ATX 3.1 - White",
@@ -2642,7 +3898,17 @@
     "image": "https://pcparts.uk/img.thumb.dc3693c865e247c701ac9139b3dd157cf4f1216c271887d2cc7f5770ef3e7c8a.png",
     "source": "pcparts.uk",
     "external_id": "26693",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 111.76,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26693/asrock-steel-legend-850g-850w-full-modular-80-gold-sl-850g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Taichi TC-1300T",
@@ -2656,7 +3922,17 @@
     "image": "https://pcparts.uk/img.thumb.8f49e4b0168ec71f829d3bdd1a256d2d443b34cd5ebfee834e002af9b29ccb26.png",
     "source": "pcparts.uk",
     "external_id": "26683",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 289.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26683/asrock-taichi-tc-1300t-1300w-full-modular-80-titan-90-uxt130-tfgaab",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Taichi TC-1650T",
@@ -2670,7 +3946,17 @@
     "image": "https://pcparts.uk/img.thumb.4a7f15d345a7365bf82d450b7d2aebb42d9a9ae30aece50eeeb5516ab04ef650.png",
     "source": "pcparts.uk",
     "external_id": "26682",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 341.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26682/asrock-taichi-tc-1650t-1650w-full-modular-80-titan-90-uxt165-tfgaab",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Strix Aura Edition 850",
@@ -2699,7 +3985,17 @@
     "image": "https://pcparts.uk/img.thumb.0505cb99b9c332eaabb7551edfee83fa24268e087de674b47252cfe10cf43f89.png",
     "source": "pcparts.uk",
     "external_id": "26748",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 339.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26748/asus-rog-thor-titanium-iii-1000w-atx-31-full-modul-90ye00v3-b0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG THOR Titanium III - ATX 3.1 1600",
@@ -2728,7 +4024,17 @@
     "image": "https://pcparts.uk/img.thumb.0a948ea73a8432e3d157ec813980a1f6b9b40c0487b2a67b7322f050866cee22.jpg",
     "source": "pcparts.uk",
     "external_id": "26744",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 199.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26744/be-quiet-dark-power-14-1000w-full-modular-80-titan-bp020eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Dark Power 14 1200",
@@ -2742,7 +4048,17 @@
     "image": "https://pcparts.uk/img.thumb.d639412f370f526b70128e5d31fdb557822f4f9c3fad5ab573ec49812c6467f0.jpg",
     "source": "pcparts.uk",
     "external_id": "26743",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 219.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26743/be-quiet-dark-power-14-1200w-full-modular-80-titan-bp021eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Dark Power 14 850",
@@ -2756,7 +4072,17 @@
     "image": "https://pcparts.uk/img.thumb.b2614638368fc5261f3d25b7fb370b44eadb49997fd04dffcadafeee738a530f.jpg",
     "source": "pcparts.uk",
     "external_id": "26745",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 171.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26745/be-quiet-dark-power-14-850w-full-modular-80-titani-bp019eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 12 - ATX 3.1 650",
@@ -2770,7 +4096,17 @@
     "image": "https://pcparts.uk/img.thumb.411d265494593f10dd9949dd766704514fcf79f5012997ff9bdc69e611cd12ca.jpg",
     "source": "pcparts.uk",
     "external_id": "25172",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 68.06,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25172/be-quiet-pure-power-12-650w-atx-31-80-gold-atx-pow-bp002eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Power 12 M 850",
@@ -2798,7 +4134,17 @@
     "image": "https://pcparts.uk/img.thumb.1d61a81916ae755473eba7aaea7bc361a7561a462512de59490511d20aacf997.jpg",
     "source": "pcparts.uk",
     "external_id": "26741",
-    "scraped_at": "2026-07-11T13:51:29.780149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.780149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 79.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26741/be-quiet-pure-power-13-m-550w-full-modular-80-gold-bp024eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! System Power 11 - ATX 3.1 450",
@@ -2870,7 +4216,17 @@
     "image": "https://pcparts.uk/img.thumb.6157eb00cd55c0a8303366f5bc6fc2c7840bf150391c46552de07609815d2b6e.jpg",
     "source": "pcparts.uk",
     "external_id": "26762",
-    "scraped_at": "2026-07-11T13:51:29.781149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.781149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 79.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26762/msi-mag-a750gn-pcie5-750w-80-gold-atx-power-supply-mag-a750gn-pcie5",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT C1200 Gold - ATX 3.1",
@@ -2885,7 +4241,17 @@
     "image": "https://pcparts.uk/img.thumb.f69377da29df5c7bb23826caac6803149a60386702bc90c5bb36b2fd2b4f959e.webp",
     "source": "pcparts.uk",
     "external_id": "26753",
-    "scraped_at": "2026-07-11T13:51:29.781149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.781149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 159.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26753/nzxt-c1200-gold-1200w-atx-31-full-modular-80-gold-pa-2g2bb-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Phanteks AMP GH 1000 - Black",
@@ -3155,7 +4521,17 @@
     "image": "https://pcparts.uk/images/placeholders/soon.png",
     "source": "pcparts.uk",
     "external_id": "8227",
-    "scraped_at": "2026-07-11T13:51:29.781149+00:00"
+    "scraped_at": "2026-07-11T13:51:29.781149+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 43.49,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8235/aerocool-integrator-500w-80-bronze-atx-power-suppl-acpb-it50axb12",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AeroCool Integrator MX 600",
@@ -3635,7 +5011,17 @@
     "image": "https://pcparts.uk/img.thumb.38d3bda5d15f62c40de6173e937f94fb5cc8b3b23b7b5b3e9b7130df0fe82b53.png",
     "source": "pcparts.uk",
     "external_id": "26695",
-    "scraped_at": "2026-07-11T13:51:29.782148+00:00"
+    "scraped_at": "2026-07-11T13:51:29.782148+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 67.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26695/asrock-challenger-750b-750w-80-bronze-atx-power-su-cl-750b",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Phantom Gaming 1600G",
@@ -3649,7 +5035,17 @@
     "image": "https://pcparts.uk/img.thumb.4a3ebaac52b93f9782a777959bd91b77220e5da11fc17a62f686ccf103d8cddf.png",
     "source": "pcparts.uk",
     "external_id": "26688",
-    "scraped_at": "2026-07-11T13:51:29.782148+00:00"
+    "scraped_at": "2026-07-11T13:51:29.782148+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 279.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26688/asrock-phantom-gaming-1600g-1600w-full-modular-80-pg-1600g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Steel Legend 1000G",
@@ -3663,7 +5059,17 @@
     "image": "https://pcparts.uk/img.thumb.9811fbae1d38f1c2de8833cbe112ca7dc21e1c5ac235b4208631d4b74d92d8ad.png",
     "source": "pcparts.uk",
     "external_id": "26684",
-    "scraped_at": "2026-07-11T13:51:29.782148+00:00"
+    "scraped_at": "2026-07-11T13:51:29.782148+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 139.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26684/asrock-steel-legend-1000g-1000w-full-modular-80-go-90-uxs100-gfgaaa",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Steel Legend 650G",
@@ -3677,7 +5083,17 @@
     "image": "https://pcparts.uk/img.thumb.45e02eed8a7a8df42d86a1bd371e89cdd179c0d226e5bae9dc501741d3845d4e.png",
     "source": "pcparts.uk",
     "external_id": "26692",
-    "scraped_at": "2026-07-11T13:51:34.114950+00:00"
+    "scraped_at": "2026-07-11T13:51:34.114950+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 90.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26692/asrock-steel-legend-650g-650w-full-modular-80-gold-sl-650g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Steel Legend 750G",
@@ -3691,7 +5107,17 @@
     "image": "https://pcparts.uk/img.thumb.dc600c0a63c1d2398a6aee538c15b24cfdd6b0a85c26e162b366f748856a8c4f.png",
     "source": "pcparts.uk",
     "external_id": "26696",
-    "scraped_at": "2026-07-11T13:51:34.114950+00:00"
+    "scraped_at": "2026-07-11T13:51:34.114950+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 100.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26696/asrock-steel-legend-750g-750w-full-modular-80-gold-sl-750g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Prime - ATX3.0 750",
@@ -3719,7 +5145,17 @@
     "image": "https://pcparts.uk/img.thumb.464fad1999062bcc6f7a33ef475c6438af8f20f6a84e0c81ed31a5cb34bb6060.jpg",
     "source": "pcparts.uk",
     "external_id": "25167",
-    "scraped_at": "2026-07-11T13:51:34.115556+00:00"
+    "scraped_at": "2026-07-11T13:51:34.115556+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 94.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25167/asus-prime-850w-atx30-full-modular-80-gold-atx-pow-90ye00u0-b0nb00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Strix 1000 - Black",
@@ -4815,7 +6251,17 @@
     "image": "https://pcparts.uk/img.thumb.6c7bfb255a8af11f0a71d57039a2449a29c0fe0c7c9721ff8484ea8b80ca6e76.jpg",
     "source": "pcparts.uk",
     "external_id": "21278",
-    "scraped_at": "2026-07-11T13:51:34.116829+00:00"
+    "scraped_at": "2026-07-11T13:51:34.116829+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 145.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21278/be-quiet-straight-power-12-atx-30-850w-full-modula-bn337",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! System Power 10 450",
@@ -6535,7 +7981,17 @@
     "image": "https://pcparts.uk/img.thumb.da498000ccc42e16a10005b4af105424549c2e522b10b295c7dd2d976efcdef8.webp",
     "source": "pcparts.uk",
     "external_id": "24115",
-    "scraped_at": "2026-07-11T13:51:38.498158+00:00"
+    "scraped_at": "2026-07-11T13:51:38.498158+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 179.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24115/corsair-rm1000x-shift-1000w-atx-30-full-modular-80-cp-9020275-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM1200x Shift - ATX 3.0 - White",
@@ -6549,7 +8005,17 @@
     "image": "https://pcparts.uk/img.thumb.e35b5e77565e36711f3057ea8fe7bebda32d7890341d42364cb325c402be0495.webp",
     "source": "pcparts.uk",
     "external_id": "24116",
-    "scraped_at": "2026-07-11T13:51:38.498158+00:00"
+    "scraped_at": "2026-07-11T13:51:38.498158+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 219.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24116/corsair-rm1200x-shift-1200w-atx-30-full-modular-80-cp-9020276-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM550x (2018)",
@@ -6801,7 +8267,17 @@
     "image": "https://pcparts.uk/img.thumb.5fe76f82e87d252042fdc5210d316d1e600e7df17abbb06aad9e7fa62491d37e.webp",
     "source": "pcparts.uk",
     "external_id": "24113",
-    "scraped_at": "2026-07-11T13:51:38.498158+00:00"
+    "scraped_at": "2026-07-11T13:51:38.498158+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 134.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24113/corsair-rm750x-shift-750w-atx-30-full-modular-80-g-cp-9020273-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM850 (2019)",
@@ -6843,7 +8319,17 @@
     "image": "https://pcparts.uk/img.thumb.f7c24aa87f28c569a95bdb838024f6f4d539b1e2afc0dec7974a9920c5a8370b.png",
     "source": "pcparts.uk",
     "external_id": "8403",
-    "scraped_at": "2026-07-11T13:51:38.498158+00:00"
+    "scraped_at": "2026-07-11T13:51:38.498158+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 130.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/8403/corsair-rm850-2021-850w-full-modular-80-gold-atx-p-cp-9020232-uk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair RM850e ATX 3.0",
@@ -8744,5 +10230,69 @@
     "source": "pcparts.uk",
     "external_id": "7951",
     "scraped_at": "2026-07-11T13:51:42.917715+00:00"
+  },
+  {
+    "id": "psu-seasonic-focus-750",
+    "slug": "seasonic-focus-gx-750",
+    "name": "Seasonic Focus GX-750 Gold",
+    "manufacturer": "Seasonic",
+    "image": "/images/psus/focus-750.jpg",
+    "officialUrl": "https://seasonic.com/...",
+    "releaseDate": "2021-01-01",
+    "msrp": 129,
+    "description": "Legendary reliability and performance in a compact size.",
+    "prices": [
+      {
+        "retailer": "Amazon",
+        "price": 109,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
+    ],
+    "type": "psu",
+    "wattage": 750,
+    "efficiencyRating": "80+ Gold",
+    "modularType": "Full",
+    "fanSize": 120,
+    "length": 140,
+    "cpuConnectors": 2,
+    "gpuConnectors": 3,
+    "sataConnectors": 6,
+    "molexConnectors": 2,
+    "atxVersion": "2.4"
+  },
+  {
+    "id": "psu-evga-600w-bronze",
+    "slug": "evga-600w-bronze",
+    "name": "EVGA 600W 80+ Bronze",
+    "manufacturer": "EVGA",
+    "image": "/images/psus/600w-bronze.jpg",
+    "officialUrl": "https://www.evga.com/...",
+    "releaseDate": "2019-01-01",
+    "msrp": 69,
+    "description": "Budget-friendly power supply for basic gaming PCs.",
+    "prices": [
+      {
+        "retailer": "Amazon",
+        "price": 59,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
+    ],
+    "type": "psu",
+    "wattage": 600,
+    "efficiencyRating": "80+ Bronze",
+    "modularType": "Non-Modular",
+    "fanSize": 120,
+    "length": 140,
+    "cpuConnectors": 1,
+    "gpuConnectors": 2,
+    "sataConnectors": 4,
+    "molexConnectors": 2,
+    "atxVersion": "2.3"
   }
 ]

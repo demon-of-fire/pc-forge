@@ -328,7 +328,17 @@
     "image": "https://pcparts.uk/img.thumb.10a88dba8bc8ce01dfb12c65a910139aa991ed674ad331bb7747f807fbeb5652.webp",
     "source": "pcparts.uk",
     "external_id": "22633",
-    "scraped_at": "2026-07-11T13:45:34.860655+00:00"
+    "scraped_at": "2026-07-11T13:45:34.860655+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 224.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22633/intel-core-i5-14600kf-14-core-20-thread-up-to-53gh-bx8071514600kf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i7-14700KF",
@@ -367,7 +377,17 @@
     "image": "https://pcparts.uk/img.thumb.d026ddccd97338623847595940584ec86f40a872fdd1455b4905c02544bc7f8a.webp",
     "source": "pcparts.uk",
     "external_id": "22631",
-    "scraped_at": "2026-07-11T13:45:43.302301+00:00"
+    "scraped_at": "2026-07-11T13:45:43.302301+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 339.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22631/intel-core-i7-14700kf-20-core-28-thread-up-to-56gh-bx8071514700kf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-14900KF",
@@ -402,7 +422,17 @@
     "image": "https://pcparts.uk/img.thumb.5cb73b0400cdaaaceb91f61bc5041235718285289119e1975a90ffb96d5ceb63.webp",
     "source": "pcparts.uk",
     "external_id": "22629",
-    "scraped_at": "2026-07-11T13:45:47.542582+00:00"
+    "scraped_at": "2026-07-11T13:45:47.542582+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 419.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22629/intel-core-i9-14900kf-24-core-32-thread-up-to-6ghz-bx8071514900kf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core Ultra 9 285",
@@ -439,7 +469,17 @@
     "image": "https://pcparts.uk/img.thumb.009a684a7cbd86d7cd3791f4dbac25932ba6953d21393dcd391791ec961ced0e.png",
     "source": "pcparts.uk",
     "external_id": "25216",
-    "scraped_at": "2026-07-11T13:45:51.792387+00:00"
+    "scraped_at": "2026-07-11T13:45:51.792387+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 579.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25216/intel-core-ultra-9-285-24-core-up-to-56ghz-retail-bx80768285",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core Ultra 5 225F",
@@ -475,7 +515,17 @@
     "image": "https://pcparts.uk/img.thumb.8ac0d93d74d823f98c5ad07abeb77d1adb8d52567bb0dafcb809d19c25179b2f.png",
     "source": "pcparts.uk",
     "external_id": "25219",
-    "scraped_at": "2026-07-11T13:46:00.279259+00:00"
+    "scraped_at": "2026-07-11T13:46:00.279259+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 137.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25219/intel-core-ultra-5-225f-10-core-up-to-49ghz-retail-bx80768225f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core Ultra 7 265",
@@ -511,7 +561,17 @@
     "image": "https://pcparts.uk/img.thumb.9c846550cc7fdbcd13c199fd1971b9c582d51ff266576b73fd1b58cf9cb956f2.png",
     "source": "pcparts.uk",
     "external_id": "25218",
-    "scraped_at": "2026-07-11T13:46:04.516385+00:00"
+    "scraped_at": "2026-07-11T13:46:04.516385+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 544.4,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25218/intel-core-ultra-7-265-20-core-up-to-53ghz-retail-bx80768265",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core Ultra 7 265F",
@@ -535,7 +595,17 @@
     "image": "https://pcparts.uk/img.thumb.97feafe2e8dc025e3bc143b50e1fac61ff26b800fcb5bd501eb1590d26fa5c79.png",
     "source": "pcparts.uk",
     "external_id": "25220",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 159.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25220/intel-core-ultra-5-225-10-core-up-to-49ghz-retail-bx80768225",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core Ultra 5 235",
@@ -547,7 +617,17 @@
     "image": "https://pcparts.uk/img.thumb.97feafe2e8dc025e3bc143b50e1fac61ff26b800fcb5bd501eb1590d26fa5c79.png",
     "source": "pcparts.uk",
     "external_id": "25221",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 249.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25221/intel-core-ultra-5-235-14-core-up-to-5ghz-retail-c-bx80768235",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core Ultra 5 245K",
@@ -559,7 +639,17 @@
     "image": "https://pcparts.uk/img.thumb.e75d495756960b8c70a303e41a263b71b139859e40aab0bf6bf982ee8a834159.webp",
     "source": "pcparts.uk",
     "external_id": "24645",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 149.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24645/intel-core-ultra-5-245k-14-core-up-to-52ghz-retail-bx80768245k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core Ultra 5 245KF",
@@ -571,7 +661,17 @@
     "image": "https://pcparts.uk/img.thumb.e71d835105c1a31cf973c33aaca343cdf75a3509c6aae63c5239fbeda795433c.webp",
     "source": "pcparts.uk",
     "external_id": "24644",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 139.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24644/intel-core-ultra-5-245kf-14-core-up-to-52ghz-retai-bx80768245kf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core Ultra 7 265KF",
@@ -583,7 +683,17 @@
     "image": "https://pcparts.uk/img.thumb.c79b7ec8b2ace1b2a4baae7c42f850b6db213e0580fe85f2cf306d808ceeff63.webp",
     "source": "pcparts.uk",
     "external_id": "24647",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 240.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24647/intel-core-ultra-7-265kf-20-core-up-to-55ghz-retai-bx80768265kf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-13900K",
@@ -607,7 +717,17 @@
     "image": "https://pcparts.uk/img.thumb.170a394e5915f7d2d69f59fd6481b77cda8dfb36853aa1c3dfb6fcac8f591f56.webp",
     "source": "pcparts.uk",
     "external_id": "24646",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 269.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24646/intel-core-ultra-7-265k-20-core-up-to-55ghz-retail-bx80768265k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-13900KS",
@@ -631,7 +751,17 @@
     "image": "https://pcparts.uk/img.thumb.f4f54c2cb250e72cfe14187f55bcab1e67e966d943a6fb4c9fa4c5aca373d357.webp",
     "source": "pcparts.uk",
     "external_id": "24648",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 524.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24648/intel-core-ultra-9-285k-24-core-up-to-57ghz-retail-bx80768285k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-12400F",
@@ -643,7 +773,17 @@
     "image": "https://pcparts.uk/img.thumb.0625dd27185754a43939f6f9b19a8344080956b2f2d58beed990cbcefbfb95d4.webp",
     "source": "pcparts.uk",
     "external_id": "12904",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 138.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12904/intel-core-i5-12400f-6-core-12-thread-up-to-44ghz-bx8071512400f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-12600K",
@@ -667,7 +807,17 @@
     "image": "https://pcparts.uk/img.thumb.6eb80925c59d0f883f2a2f60a8949488de788592d1e0910aa8cd5ba825071115.png",
     "source": "pcparts.uk",
     "external_id": "17741",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 364.61,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/17741/intel-core-i5-13600k-14-core-20-thread-up-to-51ghz-bx8071513600k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i7-12700K",
@@ -679,7 +829,17 @@
     "image": "https://pcparts.uk/img.thumb.e010e735ef963e92ddd269fb572f452c9508a94b20ea1eaf011cab1f4fedd649.png",
     "source": "pcparts.uk",
     "external_id": "11692",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 299.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/11692/intel-core-i7-12700k-12-core-20-thread-up-to-5ghz-bx8071512700k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i7-12700KF",
@@ -691,7 +851,17 @@
     "image": "https://pcparts.uk/img.thumb.e010e735ef963e92ddd269fb572f452c9508a94b20ea1eaf011cab1f4fedd649.png",
     "source": "pcparts.uk",
     "external_id": "11694",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 269.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/11694/intel-core-i7-12700kf-12-core-20-thread-up-to-5ghz-bx8071512700kf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-12900KF",
@@ -703,7 +873,17 @@
     "image": "https://pcparts.uk/img.thumb.4bbf4a41ceac226697e025a788e94693ab68e583bfa9e74d98a3e47aff8df0f3.jpg",
     "source": "pcparts.uk",
     "external_id": "11697",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 259.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/11697/intel-core-i9-12900kf-16-core-24-thread-up-to-52gh-bx8071512900kf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-14900",
@@ -715,7 +895,17 @@
     "image": "https://pcparts.uk/img.thumb.54094b48868051e2529bbb88a83cbd8d55408e7bb92d5245903a9855118a5c33.jpg",
     "source": "pcparts.uk",
     "external_id": "22905",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 700.5,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22905/intel-core-i9-14900-24-core-32-thread-up-to-58ghz-bx8071514900",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i3-12100",
@@ -727,7 +917,17 @@
     "image": "https://pcparts.uk/img.thumb.8c1fe19a35aee4cfc417ce7f9df881908365ed68da91215ba73a603eaa902467.jpg",
     "source": "pcparts.uk",
     "external_id": "12905",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 162.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12905/intel-core-i3-12100-4-core-8-thread-up-to-43ghz-re-bx8071512100",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i3-12100F",
@@ -739,7 +939,17 @@
     "image": "https://pcparts.uk/img.thumb.8c1fe19a35aee4cfc417ce7f9df881908365ed68da91215ba73a603eaa902467.jpg",
     "source": "pcparts.uk",
     "external_id": "12906",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 78.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12906/intel-core-i3-12100f-4-core-8-thread-up-to-43ghz-r-bx8071512100f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-12400",
@@ -751,7 +961,17 @@
     "image": "https://pcparts.uk/img.thumb.0625dd27185754a43939f6f9b19a8344080956b2f2d58beed990cbcefbfb95d4.webp",
     "source": "pcparts.uk",
     "external_id": "12903",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 209.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12903/intel-core-i5-12400-6-core-12-thread-up-to-44ghz-r-bx8071512400",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-14400",
@@ -763,7 +983,17 @@
     "image": "https://pcparts.uk/img.thumb.e26bb8dbffb4edce2a0267bb1c791258ec4b220c8683278b1a7d6f07738dd711.jpg",
     "source": "pcparts.uk",
     "external_id": "22910",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 181.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22910/intel-core-i5-14400-10-core-16-thread-up-to-47ghz-bx8071514400",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i7-12700",
@@ -775,7 +1005,17 @@
     "image": "https://pcparts.uk/img.thumb.9d78ecab08bb50e5eb697a4709e6755cd0991e3dff68cb0cb178f8b78f809f75.gif",
     "source": "pcparts.uk",
     "external_id": "12909",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 295.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12909/intel-core-i7-12700-12-core-20-thread-up-to-49ghz-bx8071512700",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i7-12700F",
@@ -787,7 +1027,17 @@
     "image": "https://pcparts.uk/img.thumb.9d78ecab08bb50e5eb697a4709e6755cd0991e3dff68cb0cb178f8b78f809f75.gif",
     "source": "pcparts.uk",
     "external_id": "12910",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 249.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12910/intel-core-i7-12700f-12-core-20-thread-up-to-49ghz-bx8071512700f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen 3 4100",
@@ -799,7 +1049,17 @@
     "image": "https://pcparts.uk/img.thumb.06689c39f0546c21cfcaff61ff7e6fecbd4ee918bc21a1b2d95c00afc5fab103.png",
     "source": "pcparts.uk",
     "external_id": "13307",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 51.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13307/amd-ryzen-3-4100-4-core-8-thread-up-to-4ghz-retail-100-100000510box",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen 3 4300G",
@@ -823,7 +1083,17 @@
     "image": "https://pcparts.uk/img.thumb.67dabbbf1b9bbcff11bc2d1c4f655364b1492d7f3eb1256707623044d96714d6.jpg",
     "source": "pcparts.uk",
     "external_id": "22801",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1149.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22801/amd-ryzen-threadripper-7960x-24-core-48-thread-up-100-100001352wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-12600KF",
@@ -835,7 +1105,17 @@
     "image": "https://pcparts.uk/img.thumb.d8c5f5ae7e3659c038babfc9a8db0eab2bf1d7d87ed0e10a7c15ac6039a76780.png",
     "source": "pcparts.uk",
     "external_id": "11690",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 158.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/11690/intel-core-i5-12600kf-10-core-16-thread-up-to-49gh-bx8071512600kf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-12900K",
@@ -847,7 +1127,17 @@
     "image": "https://pcparts.uk/img.thumb.4bbf4a41ceac226697e025a788e94693ab68e583bfa9e74d98a3e47aff8df0f3.jpg",
     "source": "pcparts.uk",
     "external_id": "11653",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 349.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/11653/intel-core-i9-12900k-16-core-24-thread-up-to-52ghz-bx8071512900k",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-14900F",
@@ -859,7 +1149,17 @@
     "image": "https://pcparts.uk/img.thumb.a04e4b6b19867702277342ae50dda2b950aef23a10002b26987e10ed9d4e9c1b.jpg",
     "source": "pcparts.uk",
     "external_id": "22906",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 518.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22906/intel-core-i9-14900f-24-core-32-thread-up-to-58ghz-bx8071514900f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-14900KS",
@@ -871,7 +1171,17 @@
     "image": "https://pcparts.uk/img.thumb.20b95575930747abdd8e8f327c3a915872d3eabecd7682e82824213cdd5c1ca8.jpg",
     "source": "pcparts.uk",
     "external_id": "23456",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 589.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23456/intel-core-i9-14900ks-24-core-32-thread-up-to-6ghz-bx8071514900ks",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-14400F",
@@ -883,7 +1193,17 @@
     "image": "https://pcparts.uk/img.thumb.b08843896e41f6f5d49325f18b7431df0fe18fd360cdb62c5e26d13d09d1183a.jpg",
     "source": "pcparts.uk",
     "external_id": "22911",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 163.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22911/intel-core-i5-14400f-10-core-16-thread-up-to-47ghz-bx8071514400f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i7-13700K",
@@ -907,7 +1227,17 @@
     "image": "https://pcparts.uk/img.thumb.599ad20b94b2d97dd7c055e400f669cbcde6e1754b06aa546f9ce4b195adb58a.jpg",
     "source": "pcparts.uk",
     "external_id": "22908",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 316.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22908/intel-core-i7-14700f-20-core-28-thread-up-to-54ghz-bx8071514700f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i3-14100",
@@ -919,7 +1249,17 @@
     "image": "https://pcparts.uk/img.thumb.6b64dc13337cbd50bec90ccc263cf9f6093bcd1f9ada817dd9462eee20a17a77.jpg",
     "source": "pcparts.uk",
     "external_id": "22912",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 171.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22912/intel-core-i3-14100-4-core-8-thread-up-to-47ghz-re-bx8071514100",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-14500",
@@ -943,7 +1283,17 @@
     "image": "https://pcparts.uk/img.thumb.fec26fbbc708408afe3da3feabeae491e3b255b8745ab431b72e9b2f800abc6a.jpg",
     "source": "pcparts.uk",
     "external_id": "22795",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1849.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22795/amd-ryzen-threadripper-7970x-32-core-64-thread-up-100-100001351wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper 7980X",
@@ -955,7 +1305,17 @@
     "image": "https://pcparts.uk/img.thumb.fec26fbbc708408afe3da3feabeae491e3b255b8745ab431b72e9b2f800abc6a.jpg",
     "source": "pcparts.uk",
     "external_id": "22798",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 4069.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22798/amd-ryzen-threadripper-7980x-64-core-128-thread-up-100-100001350wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper 9960X",
@@ -967,7 +1327,17 @@
     "image": "https://pcparts.uk/img.thumb.b521bcff89935ceb8188f886ada8a1972c8d468980ada29a8ccf2af92db6d29a.jpg",
     "source": "pcparts.uk",
     "external_id": "26367",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1299.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26367/amd-ryzen-threadripper-9960x-24-core-48-thread-up-100-100001595wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper 9980X",
@@ -979,7 +1349,17 @@
     "image": "https://pcparts.uk/img.thumb.8912f336613652766ff3844a48b4d8310646cd43fa0a759d3b051c9e00e13a8a.jpg",
     "source": "pcparts.uk",
     "external_id": "25882",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 4674.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25882/amd-ryzen-threadripper-9980x-64-core-128-thread-up-100-100001593wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper PRO 9965WX",
@@ -991,7 +1371,17 @@
     "image": "https://pcparts.uk/img.thumb.811085789e469bb8844f20ba34fa36a0b6b38a4ac80f44fceb126050e8d066ff.jpg",
     "source": "pcparts.uk",
     "external_id": "25879",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 2530.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25879/amd-ryzen-threadripper-pro-9965wx-24-core-48-threa-100-100000724wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper PRO 9975WX",
@@ -1003,7 +1393,17 @@
     "image": "https://pcparts.uk/img.thumb.811085789e469bb8844f20ba34fa36a0b6b38a4ac80f44fceb126050e8d066ff.jpg",
     "source": "pcparts.uk",
     "external_id": "25880",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 3797.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25880/amd-ryzen-threadripper-pro-9975wx-32-core-64-threa-100-100000723wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper PRO 9995WX",
@@ -1015,7 +1415,17 @@
     "image": "https://pcparts.uk/img.thumb.811085789e469bb8844f20ba34fa36a0b6b38a4ac80f44fceb126050e8d066ff.jpg",
     "source": "pcparts.uk",
     "external_id": "25883",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 9989.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25883/amd-ryzen-threadripper-pro-9995wx-96-core-192-thre-100-100001361wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-12900",
@@ -1027,7 +1437,17 @@
     "image": "https://pcparts.uk/img.thumb.ea07aaf3c9cf1ea6129b89256ebb533a26bb299d36d31ada25163624eac01400.gif",
     "source": "pcparts.uk",
     "external_id": "12911",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 429.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/12911/intel-core-i9-12900-16-core-24-thread-up-to-51ghz-bx8071512900",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper PRO 9985WX",
@@ -1039,7 +1459,17 @@
     "image": "https://pcparts.uk/img.thumb.811085789e469bb8844f20ba34fa36a0b6b38a4ac80f44fceb126050e8d066ff.jpg",
     "source": "pcparts.uk",
     "external_id": "26146",
-    "scraped_at": "2026-07-11T13:46:04.518388+00:00"
+    "scraped_at": "2026-07-11T13:46:04.518388+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 7690.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26146/amd-ryzen-threadripper-pro-9985wx-64-core-128-thre-100-100000722wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i3-14100F",
@@ -1051,7 +1481,17 @@
     "image": "https://pcparts.uk/img.thumb.6b64dc13337cbd50bec90ccc263cf9f6093bcd1f9ada817dd9462eee20a17a77.jpg",
     "source": "pcparts.uk",
     "external_id": "22913",
-    "scraped_at": "2026-07-11T13:46:04.520274+00:00"
+    "scraped_at": "2026-07-11T13:46:04.520274+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 94.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22913/intel-core-i3-14100f-4-core-8-thread-up-to-47ghz-r-bx8071514100f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-13400F",
@@ -1063,7 +1503,17 @@
     "image": "https://pcparts.uk/img.thumb.29f8c7aa20134f453c654164f623d4963867880365950f682972acbba12c4a6c.png",
     "source": "pcparts.uk",
     "external_id": "19729",
-    "scraped_at": "2026-07-11T13:46:04.520274+00:00"
+    "scraped_at": "2026-07-11T13:46:04.520274+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 172.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19729/intel-core-i5-13400f-10-core-16-thread-up-to-46ghz-bx8071513400f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-13500",
@@ -1087,7 +1537,17 @@
     "image": "https://pcparts.uk/img.thumb.599ad20b94b2d97dd7c055e400f669cbcde6e1754b06aa546f9ce4b195adb58a.jpg",
     "source": "pcparts.uk",
     "external_id": "22907",
-    "scraped_at": "2026-07-11T13:46:04.520274+00:00"
+    "scraped_at": "2026-07-11T13:46:04.520274+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 409.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22907/intel-core-i7-14700-20-core-28-thread-up-to-54ghz-bx8071514700",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen 3 3200G with Radeon Vega 8 Graphics",
@@ -1111,7 +1571,17 @@
     "image": "https://pcparts.uk/img.thumb.8912f336613652766ff3844a48b4d8310646cd43fa0a759d3b051c9e00e13a8a.jpg",
     "source": "pcparts.uk",
     "external_id": "25881",
-    "scraped_at": "2026-07-11T13:46:04.520274+00:00"
+    "scraped_at": "2026-07-11T13:46:04.520274+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 2331.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25881/amd-ryzen-threadripper-9970x-32-core-64-thread-up-100-100001594wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper PRO 5995WX (OEM)",
@@ -1135,7 +1605,17 @@
     "image": "https://pcparts.uk/img.thumb.a5bc4cb8fb90c706bcaf2f24ec266dbff78b544b8fd810dfe1739b77be3fa5c4.jpg",
     "source": "pcparts.uk",
     "external_id": "22800",
-    "scraped_at": "2026-07-11T13:46:04.520274+00:00"
+    "scraped_at": "2026-07-11T13:46:04.520274+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 2459.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22800/amd-ryzen-threadripper-pro-7965wx-24-core-48-threa-100-100000885wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper Pro 7985WX",
@@ -1147,7 +1627,17 @@
     "image": "https://pcparts.uk/img.thumb.710d21158cc2ed50ba93969f70f25c0c78c835dba1b43644fb3269c477521071.jpg",
     "source": "pcparts.uk",
     "external_id": "22797",
-    "scraped_at": "2026-07-11T13:46:04.520274+00:00"
+    "scraped_at": "2026-07-11T13:46:04.520274+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 7177.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22797/amd-ryzen-threadripper-pro-7985wx-64-core-128-thre-100-100000454wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD Ryzen Threadripper Pro 7995WX",
@@ -1159,7 +1649,17 @@
     "image": "https://pcparts.uk/img.thumb.710d21158cc2ed50ba93969f70f25c0c78c835dba1b43644fb3269c477521071.jpg",
     "source": "pcparts.uk",
     "external_id": "22796",
-    "scraped_at": "2026-07-11T13:46:04.520274+00:00"
+    "scraped_at": "2026-07-11T13:46:04.520274+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 9894.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22796/amd-ryzen-threadripper-pro-7995wx-96-core-192-thre-100-100000884wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i3-13100",
@@ -1195,7 +1695,17 @@
     "image": "https://pcparts.uk/img.thumb.d814aac1ce0f8c1ded56ea8caae0060e605fef4f9a9305e10551bab28269068f.png",
     "source": "pcparts.uk",
     "external_id": "13257",
-    "scraped_at": "2026-07-11T13:46:04.520274+00:00"
+    "scraped_at": "2026-07-11T13:46:04.520274+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 444.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13257/intel-core-i9-12900ks-16-core-24-thread-up-to-55gh-bx8071512900ks",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i9-13900",
@@ -1255,7 +1765,17 @@
     "image": "https://pcparts.uk/img.thumb.a5bc4cb8fb90c706bcaf2f24ec266dbff78b544b8fd810dfe1739b77be3fa5c4.jpg",
     "source": "pcparts.uk",
     "external_id": "22799",
-    "scraped_at": "2026-07-11T13:46:04.520274+00:00"
+    "scraped_at": "2026-07-11T13:46:04.520274+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 3742.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22799/amd-ryzen-threadripper-pro-7975wx-32-core-64-threa-100-100000453wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i3-13100F",
@@ -1315,7 +1835,17 @@
     "image": "https://pcparts.uk/img.thumb.29f8c7aa20134f453c654164f623d4963867880365950f682972acbba12c4a6c.png",
     "source": "pcparts.uk",
     "external_id": "19728",
-    "scraped_at": "2026-07-11T13:46:08.869930+00:00"
+    "scraped_at": "2026-07-11T13:46:08.869930+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 246.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19728/intel-core-i5-13400-10-core-16-thread-up-to-46ghz-bx8071513400",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Core i5-13600KF",
@@ -1927,7 +2457,17 @@
     "image": "https://pcparts.uk/img.thumb.0396ec3518766d3026659ab7d42bc34fd5ad7e188628af19e62501cd6c9439a3.webp",
     "source": "pcparts.uk",
     "external_id": "18858",
-    "scraped_at": "2026-07-11T13:46:08.870751+00:00"
+    "scraped_at": "2026-07-11T13:46:08.870751+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 4064.68,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18858/amd-epyc-9654-96-core-192-thread-up-to-37ghz-retai-100-100000789",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AMD EPYC 9654P (OEM)",
@@ -2767,7 +3307,17 @@
     "image": "https://pcparts.uk/img.thumb.01034a56aa0e7c58d479b10ba1c7a5427ec1d8281a24d8306f4483abd12e03ed.webp",
     "source": "pcparts.uk",
     "external_id": "13350",
-    "scraped_at": "2026-07-11T13:46:17.500597+00:00"
+    "scraped_at": "2026-07-11T13:46:17.500597+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 4399.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13350/amd-ryzen-threadripper-pro-5995wx-64-core-128-thre-100-000000444wof",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Intel Atom C5115 (OEM)",

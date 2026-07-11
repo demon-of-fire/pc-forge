@@ -149,7 +149,17 @@
     "image": "https://pcparts.uk/img.thumb.d980d5202b5f4ef2dc608de18f5225b0459adcf9fdc6e36f3aec7c8d196749c8.webp",
     "source": "pcparts.uk",
     "external_id": "25018",
-    "scraped_at": "2026-07-11T13:53:08.949259+00:00"
+    "scraped_at": "2026-07-11T13:53:08.949259+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25018/corsair-nautilus-240-rs-argb-liquid-cpu-cooler-bla-cw-9060092-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair NAUTILUS 240 RS ARGB - White",
@@ -177,7 +187,17 @@
     "image": "https://pcparts.uk/img.thumb.5cae62a396752b320275eac9c847389824deaf2a82571293edc1801ead271e68.webp",
     "source": "pcparts.uk",
     "external_id": "25037",
-    "scraped_at": "2026-07-11T13:53:13.171446+00:00"
+    "scraped_at": "2026-07-11T13:53:13.171446+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25037/corsair-nautilus-240-rs-argb-liquid-cpu-cooler-whi-cw-9060094-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair NAUTILUS 360 RS - Black",
@@ -205,7 +225,17 @@
     "image": "https://pcparts.uk/img.thumb.32bad492c277e11376b2833123bc3b68072e23ed5c4389151daa8e7b45fe3312.webp",
     "source": "pcparts.uk",
     "external_id": "25020",
-    "scraped_at": "2026-07-11T13:53:17.427538+00:00"
+    "scraped_at": "2026-07-11T13:53:17.427538+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 79.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25020/corsair-nautilus-360-rs-liquid-cpu-cooler-black-cw-9060089-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair NAUTILUS 360 RS ARGB - Black",
@@ -233,7 +263,17 @@
     "image": "https://pcparts.uk/img.thumb.d22ab3c77fda8208815e7241042d46443d71fe56397408cb2a13e51ae456da47.webp",
     "source": "pcparts.uk",
     "external_id": "25022",
-    "scraped_at": "2026-07-11T13:53:21.684323+00:00"
+    "scraped_at": "2026-07-11T13:53:21.684323+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 89.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25022/corsair-nautilus-360-rs-argb-liquid-cpu-cooler-bla-cw-9060093-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair NAUTILUS 360 RS ARGB - White",
@@ -261,7 +301,17 @@
     "image": "https://pcparts.uk/img.thumb.5dc48aed1eb70fcd50e8c880dd8ee6a0da2a86936a882a9ed1f70b5668832b5e.webp",
     "source": "pcparts.uk",
     "external_id": "25021",
-    "scraped_at": "2026-07-11T13:53:25.951493+00:00"
+    "scraped_at": "2026-07-11T13:53:25.951493+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 89.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25021/corsair-nautilus-360-rs-argb-liquid-cpu-cooler-whi-cw-9060095-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID A13 360 - Black",
@@ -289,7 +339,17 @@
     "image": "https://pcparts.uk/img.thumb.013fbb9b9662781c8f038b6332cc4d32797cf6bfaa826d8cb242bbf50b37fd17.jpg",
     "source": "pcparts.uk",
     "external_id": "25946",
-    "scraped_at": "2026-07-11T13:53:30.208767+00:00"
+    "scraped_at": "2026-07-11T13:53:30.208767+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 59.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25946/msi-mag-coreliquid-a13-360-liquid-cpu-cooler-black-mag-coreliquid-a13-360",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID A13 RGB - White",
@@ -312,7 +372,17 @@
     "image": "https://pcparts.uk/img.thumb.991bcb57d871464b8bb7a697bba585c5846cfe67671d6fd22c4c5168943879e2.jpg",
     "source": "pcparts.uk",
     "external_id": "25038",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 47.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25038/msi-mag-coreliquid-a13-rgb-liquid-cpu-cooler-white-mag-coreliquid-a13-240-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID E240 - Black",
@@ -326,7 +396,17 @@
     "image": "https://pcparts.uk/img.thumb.868bfe525f3a97d1d5fcb2c4ad702c1753685ec6abd60f67debc88b6c584631b.png",
     "source": "pcparts.uk",
     "external_id": "21902",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 59.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21902/msi-mag-coreliquid-e240-liquid-cpu-cooler-black-mag-coreliquid-e240",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Cooler Master Hyper 212 Black",
@@ -354,7 +434,17 @@
     "image": "https://pcparts.uk/img.thumb.65664bb61c82cc78b2388a9324dda783dd9c6621cf7c7e007768f39e7adb4236.jpg",
     "source": "pcparts.uk",
     "external_id": "13631",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 9.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13631/arctic-alpine-17-compact-cpu-cooler-acalp00040a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Light Loop ARGB - Black",
@@ -396,7 +486,17 @@
     "image": "https://pcparts.uk/img.thumb.dc0fb228f9cbddf74dbbc2827d00e674aa71af28e8215d78ce3088af7c6c2b6c.jpg",
     "source": "pcparts.uk",
     "external_id": "21883",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 42.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21883/cit-pro-glacier-argb-infinity-360mm-liquid-cpu-coo-cit-pro-glw-360",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool AG400",
@@ -410,7 +510,17 @@
     "image": "https://pcparts.uk/img.thumb.2d92ed43fb85044d28054ba9217412e93aa9e7a5dadba099f78f359d95774b5b.jpg",
     "source": "pcparts.uk",
     "external_id": "19968",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 23.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19968/deepcool-ag400-cpu-cooler-r-ag400-bknnmn-g-1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool AK400 WH - White",
@@ -424,7 +534,17 @@
     "image": "https://pcparts.uk/img.thumb.47181330c2a575a23719f501697be34825e5439a24f3732b641b782efeff985e.jpg",
     "source": "pcparts.uk",
     "external_id": "13662",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 25.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13662/deepcool-ak400-wh-cpu-cooler-white-r-ak400-whnnmn-g-1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool Mystique 240 - Black",
@@ -438,7 +558,17 @@
     "image": "https://pcparts.uk/img.thumb.302141413165a3f93524ccd0d3e9453111f527313e5a357ae13eeeeb816c3625.jpg",
     "source": "pcparts.uk",
     "external_id": "23924",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 58.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23924/deepcool-mystique-240-liquid-cpu-cooler-black-r-lx550-bkdsnc-g-1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax Gamma 300 Rainbow ARGB",
@@ -452,7 +582,17 @@
     "image": "https://pcparts.uk/img.thumb.78193f1a679c9aeebf005068128fc9324c5c507e54a543369707bbede089f0f4.png",
     "source": "pcparts.uk",
     "external_id": "2449",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 12.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2449/gamemax-gamma-300-rainbow-argb-cpu-cooler-gamma-300-argb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax Iceburg ARGB - Black",
@@ -480,7 +620,17 @@
     "image": "https://pcparts.uk/img.thumb.09b16c0a243314e01cd455f678a1c4b035f77640138eee914feb8dcf1e611a3e.png",
     "source": "pcparts.uk",
     "external_id": "20792",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 26.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20792/gamemax-iceburg-argb-120mm-liquid-cpu-cooler-white-gmx-icb-120argbw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax Iceburg ARGB - Black",
@@ -508,7 +658,17 @@
     "image": "https://pcparts.uk/img.thumb.fe4e30e59be9db28b4f1ed3bb718631f1229963e1d4c115fd6ae8900b29fab78.png",
     "source": "pcparts.uk",
     "external_id": "20794",
-    "scraped_at": "2026-07-11T13:53:34.470449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.470449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 39.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20794/gamemax-iceburg-argb-360mm-liquid-cpu-cooler-black-gmx-icb-360argb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax Twin600 - Black",
@@ -522,7 +682,17 @@
     "image": "https://pcparts.uk/img.thumb.6a211e0380aff3df3b373c283c6124c73413aa558a11748f600585f39d475ea8.png",
     "source": "pcparts.uk",
     "external_id": "23923",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 31.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23923/gamemax-twin600-cpu-cooler-black-gmx-twin600-bk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "GameMax Twin600 - White",
@@ -536,7 +706,17 @@
     "image": "https://pcparts.uk/img.thumb.2cd6c1c90c6669268c9f5daedf30f2b1d6e8428f9aec4fdb0ee7c80c33ae5640.png",
     "source": "pcparts.uk",
     "external_id": "23922",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 33.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23922/gamemax-twin600-cpu-cooler-white-gmx-twin600-wt",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS WATERFORCE II 240 ARGB - Black",
@@ -550,7 +730,17 @@
     "image": "https://pcparts.uk/img.thumb.36ab91ac5fd05e47679437375db6674fc0109a0ffc9d023975aba5a9c812526c.jpg",
     "source": "pcparts.uk",
     "external_id": "23961",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 72.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23961/gigabyte-aorus-waterforce-ii-240-argb-liquid-cpu-c-gp-aorus-waterforce-ii-240",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS WATERFORCE II 360 ARGB - Black",
@@ -578,7 +768,17 @@
     "image": "https://pcparts.uk/img.thumb.65e15585826550783cd3a0c436b5cfc9e61d5dc564780a48c22a031d0c5ddcd4.jpg",
     "source": "pcparts.uk",
     "external_id": "23958",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 79.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23958/gigabyte-aorus-waterforce-x-ii-240-argb-liquid-cpu-gp-aorus-waterforce-x-ii-240",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS WATERFORCE X II 360 ARGB - Black",
@@ -592,7 +792,17 @@
     "image": "https://pcparts.uk/img.thumb.ca15f51b8ae32cb894decf94c2f1350f4c96d3d794757cdb570ba8b27acce091.jpg",
     "source": "pcparts.uk",
     "external_id": "23957",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 199.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23957/gigabyte-aorus-waterforce-x-ii-360-argb-liquid-cpu-gp-aorus-waterforce-x-ii-360",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS WATERFORCE X II ICE 360 ARGB - White",
@@ -606,7 +816,17 @@
     "image": "https://pcparts.uk/img.thumb.647f66b9e82276ec353c158886c95546146401fc452496cb03e3743a1fb65ece.jpg",
     "source": "pcparts.uk",
     "external_id": "23956",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 198.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23956/gigabyte-aorus-waterforce-x-ii-ice-360-argb-liquid-gp-aorus-waterforce-x-ii-360i",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Trinity ARGB - White",
@@ -648,7 +868,17 @@
     "image": "https://pcparts.uk/img.thumb.a4b4b7d4d6e38f86bbb210083fea767754ef409b6fdb122d529df90f36aac532.jpg",
     "source": "pcparts.uk",
     "external_id": "21895",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 116.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21895/lian-li-galahad-ii-trinity-performance-360mm-liqui-ga2p36b",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Trinity SL ARGB - Black",
@@ -690,7 +920,17 @@
     "image": "https://pcparts.uk/img.thumb.4cb2457f42cb45a35a5856e3431227a942ea3382839098a113e56f1f71665d49.jpg",
     "source": "pcparts.uk",
     "external_id": "25947",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 47.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25947/msi-mag-coreliquid-a13-240-liquid-cpu-cooler-black-mag-coreliquid-a13-240",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID E240 - White",
@@ -704,7 +944,17 @@
     "image": "https://pcparts.uk/img.thumb.e1c18ea59a6d9315ca24a3acff159a335e016026886cb997575c80eb356cf8ab.png",
     "source": "pcparts.uk",
     "external_id": "22369",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 48.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22369/msi-mag-coreliquid-e240-liquid-cpu-cooler-white-mag-coreliquid-e240-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID E360 - Black",
@@ -732,7 +982,17 @@
     "image": "https://pcparts.uk/img.thumb.9d469324c132b851e8332cbdde03a9c74913cb750cc5f171bc58589befcff2b4.jpg",
     "source": "pcparts.uk",
     "external_id": "25031",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25031/msi-mag-coreliquid-l240-argb-liquid-cpu-cooler-bla-mag-coreliquid-i240",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID L360 ARGB - Black",
@@ -774,7 +1034,17 @@
     "image": "https://pcparts.uk/img.thumb.3888dc38c2aa8f503d0b4919fb5f34743603936ca76a36dd3765b04353ef42f3.jpg",
     "source": "pcparts.uk",
     "external_id": "13686",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 38.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13686/noctua-nh-l9i-17xx-cpu-cooler-nh-l9i-17xx",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-L9x65",
@@ -788,7 +1058,17 @@
     "image": "https://pcparts.uk/img.thumb.a1ba70c359c6f2c2974ff619d39bbbd0d654b4be573d14c2da4674b2f5adb841.jpg",
     "source": "pcparts.uk",
     "external_id": "2396",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2396/noctua-nh-l9x65-cpu-cooler-nh-l9x65",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken Elite 360 RGB - White",
@@ -802,7 +1082,17 @@
     "image": "https://pcparts.uk/img.thumb.059975064443d435757742e4cdb821cefb1d16f7c6560409887edd552d7d1c1a.webp",
     "source": "pcparts.uk",
     "external_id": "25972",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 254.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25972/nzxt-kraken-elite-360-rgb-liquid-cpu-cooler-white-rl-kr36e-w2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken Plus 240 - w/ 1.54\" LCD",
@@ -816,7 +1106,17 @@
     "image": "https://pcparts.uk/img.thumb.f94902ce0f187a93966e6f9599c6b2cb9223e36fb124353f2c28a67325358835.webp",
     "source": "pcparts.uk",
     "external_id": "26369",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 124.65,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26369/nzxt-kraken-plus-240-w-154-lcd-liquid-cpu-cooler-rl-kn240-b2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Freezer 36 A-RGB - Black",
@@ -830,7 +1130,17 @@
     "image": "https://pcparts.uk/img.thumb.e4e15c5df7c6213a1d52439a659296fb084b6f712ba6bdcb4eda59c89c771a5b.jpg",
     "source": "pcparts.uk",
     "external_id": "23929",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 29.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23929/arctic-freezer-36-a-rgb-cpu-cooler-black-acfre00124a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Liquid Freezer III Pro 360 ARGB - White",
@@ -844,7 +1154,17 @@
     "image": "https://pcparts.uk/img.thumb.1c8a7e70f20681693df829661e902483a3c5b6880fa4f5115e61836d854306ac.jpg",
     "source": "pcparts.uk",
     "external_id": "25941",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 98.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25941/arctic-liquid-freezer-iii-pro-360-argb-liquid-cpu-acfre00188a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Light Loop ARGB - Black",
@@ -858,7 +1178,17 @@
     "image": "https://pcparts.uk/img.thumb.e6dd637a541a107d298c7a57c3f8ac17a6ff2403e1f595929990bd23e5a46743.jpg",
     "source": "pcparts.uk",
     "external_id": "25027",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 98.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25029/be-quiet-light-loop-argb-360mm-liquid-cpu-cooler-b-bw022",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Light Loop ARGB - White",
@@ -886,7 +1216,17 @@
     "image": "https://pcparts.uk/img.thumb.37986865450f66d0ec4cfc8088b43aa316e904b23a05962d7e927511e8c9cf21.jpg",
     "source": "pcparts.uk",
     "external_id": "25030",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 113.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25030/be-quiet-light-loop-argb-360mm-liquid-cpu-cooler-w-bw023",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool GamerStorm ASSASSIN IV Universal Socket",
@@ -900,7 +1240,17 @@
     "image": "https://pcparts.uk/img.thumb.ded20b6e2b6ca5fea9db40279bcdafb9ea3d112b65a7f6f123389100f08573fe.jpg",
     "source": "pcparts.uk",
     "external_id": "22380",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 74.5,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22380/deepcool-gamerstorm-assassin-iv-universal-socket-c-r-asn4-bknnmt-g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li HydroShift II LCD-C 360R Black",
@@ -914,7 +1264,17 @@
     "image": "https://pcparts.uk/img.thumb.a934ae2a83e80cb3ef5d4a76998ab54f2ec39a90baccc64a854c8d8e7a9243c6.jpg",
     "source": "pcparts.uk",
     "external_id": "25957",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 148.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25957/lian-li-hydroshift-ii-lcd-c-360r-black-liquid-cpu-ghs2lcd36rb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-D12L",
@@ -928,7 +1288,17 @@
     "image": "https://pcparts.uk/img.thumb.eeddcc03374fc13b73373789194244829f79a03f92285bbcc6c63678ec0391da.jpg",
     "source": "pcparts.uk",
     "external_id": "13683",
-    "scraped_at": "2026-07-11T13:53:34.471449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.471449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 87.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13683/noctua-nh-d12l-cpu-cooler-nh-d12l",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-D15S chromax.black",
@@ -942,7 +1312,17 @@
     "image": "https://pcparts.uk/img.thumb.dafe86fa46ea1604fee98194b66e40d1e15c7fdbb69ec66ec225e5da37fe4856.jpg",
     "source": "pcparts.uk",
     "external_id": "2352",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 98.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2352/noctua-nh-d15s-chromaxblack-cpu-cooler-nh-d15s-chbk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-D9L",
@@ -956,7 +1336,17 @@
     "image": "https://pcparts.uk/img.thumb.742154e642c5ecfac4c6df4587724c1066678077a39c4d3e454e055f4869a477.jpg",
     "source": "pcparts.uk",
     "external_id": "2348",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 49.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2348/noctua-nh-d9l-cpu-cooler-nh-d9l",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-U12A chromax.black",
@@ -970,7 +1360,17 @@
     "image": "https://pcparts.uk/img.thumb.c8394d4a81ee1f251151f91773bf4851349ee4c65487afbc29aaf5e9d96e82cd.jpg",
     "source": "pcparts.uk",
     "external_id": "11790",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 117.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/11790/noctua-nh-u12a-chromaxblack-cpu-cooler-nh-u12a-ch-bk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-U12S chromax.black",
@@ -984,7 +1384,17 @@
     "image": "https://pcparts.uk/img.thumb.80e515747da999cc64d1ee8192fd4311787f33062a88a60beefda12a377e4a19.jpg",
     "source": "pcparts.uk",
     "external_id": "2391",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 102.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2391/noctua-nh-u12s-chromaxblack-cpu-cooler-nh-u12s-chbk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-U9S",
@@ -998,7 +1408,17 @@
     "image": "https://pcparts.uk/img.thumb.1180487b49889e623d95db62545d91cec481c8ab05406e42c615eb516103552a.jpg",
     "source": "pcparts.uk",
     "external_id": "2381",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 61.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2381/noctua-nh-u9s-cpu-cooler-nh-u9s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken Plus 240 RGB - w/ 1.54\" LCD - Black",
@@ -1012,7 +1432,17 @@
     "image": "https://pcparts.uk/img.thumb.de1db45635dfc33db90745f5971106d9f72a32a26beea1728d835613b694718c.webp",
     "source": "pcparts.uk",
     "external_id": "26370",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 159.09,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26370/nzxt-kraken-plus-240-rgb-w-154-lcd-liquid-cpu-cool-rl-kr240-b2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "AeroCool Mirage L240 ARGB",
@@ -1040,7 +1470,17 @@
     "image": "https://pcparts.uk/img.thumb.cb8541cee4a2b277ea4d58fb10b8924323081856d46ebba060f9a8efed8bdc43.jpg",
     "source": "pcparts.uk",
     "external_id": "13632",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 10.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13632/arctic-alpine-17-continuous-operation-cpu-cooler-acalp00041a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Alpine 23 LP - AMD",
@@ -1054,7 +1494,17 @@
     "image": "https://pcparts.uk/img.thumb.6790b30010a08fdc4cfc6194d64a777dad238b3ab2b2db14d5a9a57ad63abcd6.jpg",
     "source": "pcparts.uk",
     "external_id": "2575",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 9.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2575/arctic-alpine-23-lp-amd-cpu-cooler-acalp00035a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Freezer 36",
@@ -1082,7 +1532,17 @@
     "image": "https://pcparts.uk/img.thumb.210c5dcb5d2be1a33c8d86750547d488f1466fc13bcc4d15ab208890cf6a42e7.jpg",
     "source": "pcparts.uk",
     "external_id": "23928",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 31.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23928/arctic-freezer-36-a-rgb-cpu-cooler-white-acfre00125a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Freezer 36 Black",
@@ -1096,7 +1556,17 @@
     "image": "https://pcparts.uk/img.thumb.c274cfa9204715f897a7d08cfef157ad5672e3271ab2773d464bc071bbfd2c61.jpg",
     "source": "pcparts.uk",
     "external_id": "23925",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 25.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23925/arctic-freezer-36-black-cpu-cooler-acfre00123a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Freezer 36 CO",
@@ -1110,7 +1580,17 @@
     "image": "https://pcparts.uk/img.thumb.49a10119df5c56273cd87769af14fed4ee121ca6da4e3966384e78af27d67fad.jpg",
     "source": "pcparts.uk",
     "external_id": "23927",
-    "scraped_at": "2026-07-11T13:53:34.472449+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472449+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 24.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23927/arctic-freezer-36-co-cpu-cooler-acfre00122a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Freezer 8A",
@@ -1152,7 +1632,17 @@
     "image": "https://pcparts.uk/img.thumb.8e4b7f47b912af06a91b0ec50cab99195680759e4f4a65c72a4e662c475cd6cb.jpg",
     "source": "pcparts.uk",
     "external_id": "23325",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 85.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23325/arctic-liquid-freezer-iii-240-argb-liquid-cpu-cool-acfre00150a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Liquid Freezer III 280 ARGB",
@@ -1180,7 +1670,17 @@
     "image": "https://pcparts.uk/img.thumb.01cd0b9bea7f4a953e364638054e730af4971a7e13304d27e99f7e7bc7200c36.jpg",
     "source": "pcparts.uk",
     "external_id": "25930",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 66.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25930/arctic-liquid-freezer-iii-pro-240mm-liquid-cpu-coo-acfre00178a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Liquid Freezer III Pro 360 - Black",
@@ -1194,7 +1694,17 @@
     "image": "https://pcparts.uk/img.thumb.d6985afaf11630a66c10eaba841f34607065cf93d5df104901baef706b879184.jpg",
     "source": "pcparts.uk",
     "external_id": "25955",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 76.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25955/arctic-liquid-freezer-iii-pro-360-liquid-cpu-coole-acfre00180a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Asus PRIME LC 240 ARGB",
@@ -1208,7 +1718,17 @@
     "image": "https://pcparts.uk/img.thumb.4d88219fac86dd3bb45b219efd18d53b941d1b9014bc5b47bb7b5a62c0f830a1.jpg",
     "source": "pcparts.uk",
     "external_id": "25019",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 95.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25019/asus-prime-lc-240-argb-liquid-cpu-cooler-90rc0111-b0eay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Asus PRIME LC 360 ARGB",
@@ -1222,7 +1742,17 @@
     "image": "https://pcparts.uk/img.thumb.1eae199ddd915192af3a447c408f1c9d2ae1fe8c65755323abda618183332625.jpg",
     "source": "pcparts.uk",
     "external_id": "25023",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 99.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25023/asus-prime-lc-360-argb-liquid-cpu-cooler-90rc0101-b0eay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ProArt LC 360",
@@ -1250,7 +1780,17 @@
     "image": "https://pcparts.uk/img.thumb.03dda2705cf80f4434e96ce64d8e314122fe99623f943cb5f77ee38ad2aafb49.jpg",
     "source": "pcparts.uk",
     "external_id": "23319",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 327.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23319/asus-proart-lc-420-w-status-meter-liquid-cpu-coole-90rc00n0-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Ryujin III 360 ARGB Extreme - Black",
@@ -1264,7 +1804,17 @@
     "image": "https://pcparts.uk/img.thumb.4bdeddb3a2d44805b40d025a981e9594f93ce68a0e3d7c1d7f3e8b11a6e99eff.jpg",
     "source": "pcparts.uk",
     "external_id": "25035",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 339.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25035/asus-rog-ryujin-iii-360-argb-extreme-liquid-cpu-co-90rc0131-m0eay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Ryuo III 360 ARGB",
@@ -1306,7 +1856,17 @@
     "image": "https://pcparts.uk/img.thumb.effbe85276d30c93eb51762f8f7a851eb3ec70e28022ef703d38857bf8b48759.jpg",
     "source": "pcparts.uk",
     "external_id": "25929",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 359.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25929/asus-rog-ryuo-iv-slc-360-argb-liquid-cpu-cooler-90rc0151-b0eay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG STRIX LC III - White",
@@ -1334,7 +1894,17 @@
     "image": "https://pcparts.uk/img.thumb.229754f673e1a00b89e250092a4aabfafb36371d46085f9b20de99aa0862d6dc.jpg",
     "source": "pcparts.uk",
     "external_id": "25033",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 209.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25033/asus-rog-strix-lc-iii-360-argb-liquid-cpu-cooler-b-90rc00w1-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG STRIX LC III 360 ARGB - White",
@@ -1348,7 +1918,17 @@
     "image": "https://pcparts.uk/img.thumb.1477111c12a6ba197cc5929813524fbafe2b92cd15088075770cf38fe2170977.jpg",
     "source": "pcparts.uk",
     "external_id": "25034",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 219.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25034/asus-rog-strix-lc-iii-360-argb-liquid-cpu-cooler-w-90rc00w2-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS TUF Gaming LC III 360 ARGB LCD",
@@ -1362,7 +1942,17 @@
     "image": "https://pcparts.uk/img.thumb.d7280c2865c4c7c83b1a87f3df352b517b7fe08c6b81a4eafe68dc5b8db2001a.jpg",
     "source": "pcparts.uk",
     "external_id": "25932",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 136.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25932/asus-tuf-gaming-lc-iii-360-argb-lcd-liquid-cpu-coo-90rc01a1-b0eay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Loop 2 FX",
@@ -1418,7 +2008,17 @@
     "image": "https://pcparts.uk/img.thumb.766aabdb44757d121d625df9875072f9d9030cb824aefc38da9d5cb1504ad0dd.jpg",
     "source": "pcparts.uk",
     "external_id": "26371",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 79.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26371/be-quiet-pure-loop-3-lx-argb-360mm-liquid-cpu-cool-bw031eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Rock 3",
@@ -1432,7 +2032,17 @@
     "image": "https://pcparts.uk/img.thumb.468eea03b197e0e3c28faa0be02e1d9b5aa9af16a8c05b5a42206fe91f4bc58e.jpg",
     "source": "pcparts.uk",
     "external_id": "25950",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 27.94,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25950/be-quiet-pure-rock-3-cpu-cooler-bk039",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Rock 3 LX",
@@ -1446,7 +2056,17 @@
     "image": "https://pcparts.uk/img.thumb.3f19c6b784d57d748c924ca9f2fec0afd5eb076bcbb402c6dc3e515f0d2a2222.jpg",
     "source": "pcparts.uk",
     "external_id": "25951",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 32.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25951/be-quiet-pure-rock-3-lx-cpu-cooler-bk040",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Rock Pro 3",
@@ -1460,7 +2080,17 @@
     "image": "https://pcparts.uk/img.thumb.478913fa753e95e918a6973888ad4987191e9f3a876847230c19e2e011281959.jpg",
     "source": "pcparts.uk",
     "external_id": "25952",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 37.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25952/be-quiet-pure-rock-pro-3-cpu-cooler-bk041",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Rock Pro 3 Black",
@@ -1474,7 +2104,17 @@
     "image": "https://pcparts.uk/img.thumb.a256acea81c53fd0e11e246244bbc3dfc6622881ffb27ab48844c4463138a4ae.jpg",
     "source": "pcparts.uk",
     "external_id": "25953",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 45.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25953/be-quiet-pure-rock-pro-3-black-cpu-cooler-bk042",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Rock Pro 3 LX",
@@ -1488,7 +2128,17 @@
     "image": "https://pcparts.uk/img.thumb.bd0f821b3aae0f7483065f07893745d9ea6c54efd05590b0ea4996a09e30b7d5.jpg",
     "source": "pcparts.uk",
     "external_id": "25949",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 46.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25949/be-quiet-pure-rock-pro-3-lx-cpu-cooler-bk043",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Rock Slim 2",
@@ -1502,7 +2152,17 @@
     "image": "https://pcparts.uk/img.thumb.dab23fa76f9e2613ed3744b7c9762a6aaefd4007f0cc7d6c9c3d2fa84120d003.jpg",
     "source": "pcparts.uk",
     "external_id": "2740",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 22.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2740/be-quiet-pure-rock-slim-2-cpu-cooler-bk030",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Silent Loop 3",
@@ -1516,7 +2176,17 @@
     "image": "https://pcparts.uk/img.thumb.a3f3285b1d817bc4b0d7952aefb226b3aea3a240f9710b2006b076f8c210f14f.jpg",
     "source": "pcparts.uk",
     "external_id": "25954",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 109.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25954/be-quiet-silent-loop-3-360mm-liquid-cpu-cooler-bw025",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CiT Pro Glacier - Black",
@@ -1530,7 +2200,17 @@
     "image": "https://pcparts.uk/img.thumb.02ff8eb1535a37ecf4462b75b4df3f75b49290eb6f877c8f25ef51a1f1fa5d0b.jpg",
     "source": "pcparts.uk",
     "external_id": "22915",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 29.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22915/cit-pro-glacier-120mm-liquid-cpu-cooler-black-cit-pro-glb-120",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CiT Pro Glacier - ARGB - White",
@@ -1544,7 +2224,17 @@
     "image": "https://pcparts.uk/img.thumb.f82951a02edf8a092c07304ae21c674925265c438a7156cc4eda43927ee9101f.jpg",
     "source": "pcparts.uk",
     "external_id": "22916",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 36.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22916/cit-pro-glacier-argb-240mm-liquid-cpu-cooler-white-cit-pro-glw-240",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CiT Pro Glacier ARGB - Black",
@@ -1558,7 +2248,17 @@
     "image": "https://pcparts.uk/img.thumb.7566ebedf594508514233a10f06b732466f3575a9e37bd62a870a6a70dc0906a.jpg",
     "source": "pcparts.uk",
     "external_id": "21355",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 35.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21355/cit-pro-glacier-argb-240mm-liquid-cpu-cooler-black-cit-pro-glb-240",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CiT Pro Glacier ARGB Infinity - Black",
@@ -1586,7 +2286,17 @@
     "image": "https://pcparts.uk/img.thumb.376d1b28fcdf2120b82f869a05146b08f1eb26f150e6ed48c5702d1d3bd5579b.jpg",
     "source": "pcparts.uk",
     "external_id": "25938",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 48.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25938/cit-pro-glacier-lcd-360mm-liquid-cpu-cooler-cit-pro-glw-360-lcd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "CiT Pro Glacier LCD - Black",
@@ -1600,7 +2310,17 @@
     "image": "https://pcparts.uk/img.thumb.db8ccffbeece27faacd67dfdd27415788f7029b4de066fd22cea5b11475c7feb.jpg",
     "source": "pcparts.uk",
     "external_id": "25939",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 46.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25939/cit-pro-glacier-lcd-360mm-liquid-cpu-cooler-black-cit-pro-glb-360-lcd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Cooler Master MasterLiquid PL240 Flux - White",
@@ -1614,7 +2334,17 @@
     "image": "https://pcparts.uk/img.thumb.021094700c05e3c258a8c3a14ca65349bd3e4bfa19dc9ef96d7586c04919ff10.png",
     "source": "pcparts.uk",
     "external_id": "19816",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 39.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19816/cooler-master-masterliquid-pl240-flux-liquid-cpu-c-mly-d24m-a23pz-rw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair iCUE LINK TITAN 240 RX LCD RGB - Black",
@@ -1628,7 +2358,17 @@
     "image": "https://pcparts.uk/img.thumb.7cc3b33fe6f727cd762b371db9d4141bc7cece810699c39f6193fd1483f36209.webp",
     "source": "pcparts.uk",
     "external_id": "25025",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 131.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25025/corsair-icue-link-titan-240-rx-lcd-rgb-liquid-cpu-cw-9061022-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair iCUE LINK TITAN 240 RX LCD RGB - White",
@@ -1642,7 +2382,17 @@
     "image": "https://pcparts.uk/img.thumb.aa7580468e0593bffbedea507663063bcb49220396ac44bce46e018e5f8d73d5.webp",
     "source": "pcparts.uk",
     "external_id": "25024",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 209.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25024/corsair-icue-link-titan-240-rx-lcd-rgb-liquid-cpu-cw-9061025-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair iCUE LINK TITAN 240 RX RGB - White",
@@ -1656,7 +2406,17 @@
     "image": "https://pcparts.uk/img.thumb.e1f6da7d4a0a8ac8f5156dfdaf2cf6cc8b3b78c20cbc3e07ea2547f215ec22be.jpg",
     "source": "pcparts.uk",
     "external_id": "24303",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 115.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24303/corsair-icue-link-titan-240-rx-rgb-liquid-cpu-cool-cw-9061020-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair iCUE LINK TITAN 360 RX LCD - White",
@@ -1670,7 +2430,17 @@
     "image": "https://pcparts.uk/img.thumb.872e81dce250e483185def5202803386163c5738f749a3d3bb940f5903bbc893.webp",
     "source": "pcparts.uk",
     "external_id": "24649",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 204.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24649/corsair-icue-link-titan-360-rx-lcd-liquid-cpu-cool-cw-9061026-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair iCUE LINK TITAN 360 RX RGB - White",
@@ -1684,7 +2454,17 @@
     "image": "https://pcparts.uk/img.thumb.52ecdd6c2bcbf189efb9c2ca54fc6ce71abc5cb40f1698fba4bcdf3c7f35838a.jpg",
     "source": "pcparts.uk",
     "external_id": "24300",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 139.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24300/corsair-icue-link-titan-360-rx-rgb-liquid-cpu-cool-cw-9061021-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair NAUTILUS 240 RS - Black",
@@ -1698,7 +2478,17 @@
     "image": "https://pcparts.uk/img.thumb.b459016e6f9a7fa07899d91fc8b3dd3e12635a906fe11ef91093912872cdc559.webp",
     "source": "pcparts.uk",
     "external_id": "25017",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25017/corsair-nautilus-240-rs-liquid-cpu-cooler-black-cw-9060088-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair NAUTILUS 360 RS LCD - Black",
@@ -1712,7 +2502,17 @@
     "image": "https://pcparts.uk/img.thumb.3fb491049ee8e55ed409c1c58dbbed3d9ce3954a1858053b757bc9484e38b84f.webp",
     "source": "pcparts.uk",
     "external_id": "25970",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 99.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25970/corsair-nautilus-360-rs-lcd-liquid-cpu-cooler-blac-cw-9061033-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool AG300",
@@ -1726,7 +2526,17 @@
     "image": "https://pcparts.uk/img.thumb.6d88402f9c3b85d8ec13d4d3002659babe6746c7601cc7200b2bef38c1a823ab.jpg",
     "source": "pcparts.uk",
     "external_id": "19967",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 18.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19967/deepcool-ag300-cpu-cooler-r-ag300-bknnmn-g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool AK400 Digital - White",
@@ -1740,7 +2550,17 @@
     "image": "https://pcparts.uk/img.thumb.7283a7f2cecb32af02ce006269c2888f270c9c99d6ded19f1c964c6fb7a78a79.jpg",
     "source": "pcparts.uk",
     "external_id": "22671",
-    "scraped_at": "2026-07-11T13:53:34.472963+00:00"
+    "scraped_at": "2026-07-11T13:53:34.472963+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 38.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22671/deepcool-ak400-digital-cpu-cooler-white-r-ak400-whadmn-g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool AK620",
@@ -1768,7 +2588,17 @@
     "image": "https://pcparts.uk/img.thumb.904c44ceecb3d075511b630bf858ba22230b5fb3b6a4ee3546918fe7ddd89ac6.jpg",
     "source": "pcparts.uk",
     "external_id": "21360",
-    "scraped_at": "2026-07-11T13:53:34.474467+00:00"
+    "scraped_at": "2026-07-11T13:53:34.474467+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 54.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21360/deepcool-ak620-digital-cpu-cooler-r-ak620-bkadmn-g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool AK620 White",
@@ -1796,7 +2626,17 @@
     "image": "https://pcparts.uk/img.thumb.9b18b22d4a8c697776fadf96b09f10b28bb481067d491a719a15ff664a06323f.webp",
     "source": "pcparts.uk",
     "external_id": "18379",
-    "scraped_at": "2026-07-11T13:53:34.474467+00:00"
+    "scraped_at": "2026-07-11T13:53:34.474467+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 40.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18379/deepcool-ak620-zero-dark-cpu-cooler-r-ak620-bknnmt-g-1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool AN600 Low Profile",
@@ -1810,7 +2650,17 @@
     "image": "https://pcparts.uk/img.thumb.683ac52006bfde7a9e12fa614e7459c1cb62f6b1998b499f456ffdb251e4d09e.jpg",
     "source": "pcparts.uk",
     "external_id": "21361",
-    "scraped_at": "2026-07-11T13:53:34.474467+00:00"
+    "scraped_at": "2026-07-11T13:53:34.474467+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 35.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21361/deepcool-an600-low-profile-cpu-cooler-r-an600-bknnmn-g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool ASSASSIN IV - White",
@@ -1824,7 +2674,17 @@
     "image": "https://pcparts.uk/img.thumb.ba34ab8843924f3adf55aa546ddc30e54e3d1b9af74e4793be3da0a0022ddbf9.jpg",
     "source": "pcparts.uk",
     "external_id": "22669",
-    "scraped_at": "2026-07-11T13:53:38.831573+00:00"
+    "scraped_at": "2026-07-11T13:53:38.831573+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 76.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22669/deepcool-assassin-iv-cpu-cooler-white-r-asn4-whnnmt-g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool ASSASSIN IV VC VISION",
@@ -1838,7 +2698,17 @@
     "image": "https://pcparts.uk/img.thumb.65799ab9ae979354984fef84f0095f0d84887e092efe8296cb778a7ce0be9558.jpg",
     "source": "pcparts.uk",
     "external_id": "25963",
-    "scraped_at": "2026-07-11T13:53:38.832573+00:00"
+    "scraped_at": "2026-07-11T13:53:38.832573+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 94.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25963/deepcool-assassin-iv-vc-vision-cpu-cooler-r-asn4-bknvmd-g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool Deepcool Mystique 360 ARGB - Black",
@@ -1852,7 +2722,17 @@
     "image": "https://pcparts.uk/img.thumb.e0b224da938ca25dc26ec9fca64c3f0b33271be030f7d7e48a57b9115100e36c.jpg",
     "source": "pcparts.uk",
     "external_id": "25965",
-    "scraped_at": "2026-07-11T13:53:38.832573+00:00"
+    "scraped_at": "2026-07-11T13:53:38.832573+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 140.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25965/deepcool-deepcool-mystique-360-argb-liquid-cpu-coo-r-lx750-bkadsnc-g-1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool LE520 ARGB",
@@ -1880,7 +2760,17 @@
     "image": "https://pcparts.uk/img.thumb.4804feb89bcc7da88cee08b7a6e175f490ac36e1f320b8fd0701698df2b79e64.jpg",
     "source": "pcparts.uk",
     "external_id": "21364",
-    "scraped_at": "2026-07-11T13:53:38.832573+00:00"
+    "scraped_at": "2026-07-11T13:53:38.832573+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 100.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21364/deepcool-le720-argb-360mm-liquid-cpu-cooler-white-r-le720-whammn-g-1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool LS520 ARGB - Black",
@@ -1908,7 +2798,17 @@
     "image": "https://pcparts.uk/img.thumb.3d6163e488547207edafcc24d679d809dfb405db5bd7ac3e52fa668f32b1d717.jpg",
     "source": "pcparts.uk",
     "external_id": "19752",
-    "scraped_at": "2026-07-11T13:53:38.833075+00:00"
+    "scraped_at": "2026-07-11T13:53:38.833075+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 100.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19752/deepcool-ls520-se-argb-240mm-liquid-cpu-cooler-r-ls520-bkammm-g-1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool LS520S ZERO DARK",
@@ -1922,7 +2822,17 @@
     "image": "https://pcparts.uk/img.thumb.ead2a8e3d490a2874726f0b95e840fa622a51050cef03b6a0828a16d0e9fbc79.jpg",
     "source": "pcparts.uk",
     "external_id": "25961",
-    "scraped_at": "2026-07-11T13:53:38.833075+00:00"
+    "scraped_at": "2026-07-11T13:53:38.833075+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 68.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25961/deepcool-ls520s-zero-dark-240mm-liquid-cpu-cooler-r-ls520-bknnmm-g-1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool MYSTIQUE 240 WH ARGB - White",
@@ -1950,7 +2860,17 @@
     "image": "https://pcparts.uk/img.thumb.7e1dbfb7a65b36f26c7e621f78f54202e946129afb7438a4e844d5d95b820349.jpg",
     "source": "pcparts.uk",
     "external_id": "23330",
-    "scraped_at": "2026-07-11T13:53:38.833075+00:00"
+    "scraped_at": "2026-07-11T13:53:38.833075+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 65.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23330/deepcool-mystique-360-liquid-cpu-cooler-black-r-lx750-bkdsnmp-g-1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Deepcool MYSTIQUE 360 WH ARGB - White",
@@ -2034,7 +2954,17 @@
     "image": "https://pcparts.uk/img.thumb.12c50231e2607d7336edec21180378b28195869aa9497e015c10cb1adef4c943.jpg",
     "source": "pcparts.uk",
     "external_id": "25934",
-    "scraped_at": "2026-07-11T13:53:38.833075+00:00"
+    "scraped_at": "2026-07-11T13:53:38.833075+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 48.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25934/gigabyte-gaming-240-liquid-cpu-cooler-black-gp-gigabyte-gme-240",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GAMING 240 ICE - White",
@@ -2048,7 +2978,17 @@
     "image": "https://pcparts.uk/img.thumb.3faf4b9a41a015353b434337d643ef1514857de855d3999f94966fbda7c22935.jpg",
     "source": "pcparts.uk",
     "external_id": "25933",
-    "scraped_at": "2026-07-11T13:53:38.833075+00:00"
+    "scraped_at": "2026-07-11T13:53:38.833075+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 56.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25933/gigabyte-gaming-240-ice-liquid-cpu-cooler-white-gp-gigabyte-gme-240i",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GAMING 360 - Black",
@@ -2076,7 +3016,17 @@
     "image": "https://pcparts.uk/img.thumb.2f8399dc72a4431c99389eb093dcf1cd76e7895c43dd61a636695c74d8530248.jpg",
     "source": "pcparts.uk",
     "external_id": "25942",
-    "scraped_at": "2026-07-11T13:53:38.833075+00:00"
+    "scraped_at": "2026-07-11T13:53:38.833075+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 73.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25942/gigabyte-gaming-360-ice-liquid-cpu-cooler-white-gp-gigabyte-gme-360i",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II LCD SL-INF - Black",
@@ -2104,7 +3054,17 @@
     "image": "https://pcparts.uk/img.thumb.7e51fa734350558f063cf51835ad790b51cd80e28ac969000559f3bc6927c1ab.jpg",
     "source": "pcparts.uk",
     "external_id": "25966",
-    "scraped_at": "2026-07-11T13:53:38.833075+00:00"
+    "scraped_at": "2026-07-11T13:53:38.833075+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 230.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25966/lian-li-galahad-ii-lcd-sl-inf-360mm-liquid-cpu-coo-ga2alcd36inw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Lite 240 Performance - Black",
@@ -2118,7 +3078,17 @@
     "image": "https://pcparts.uk/img.thumb.ba9d4a74e102920eafd1b75ae15a9980790a680a32b7d8b1ea3d885d8a8f780c.jpg",
     "source": "pcparts.uk",
     "external_id": "25937",
-    "scraped_at": "2026-07-11T13:53:38.833075+00:00"
+    "scraped_at": "2026-07-11T13:53:38.833075+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 60.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25937/lian-li-galahad-ii-lite-240-performance-liquid-cpu-ga2l24pb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Lite 240 RGB - Black",
@@ -2132,7 +3102,17 @@
     "image": "https://pcparts.uk/img.thumb.8829e5037abca3979422fae0e399d7d5e906241d057625cfe04ce2a5a4210661.jpg",
     "source": "pcparts.uk",
     "external_id": "25940",
-    "scraped_at": "2026-07-11T13:53:38.833075+00:00"
+    "scraped_at": "2026-07-11T13:53:38.833075+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 65.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25940/lian-li-galahad-ii-lite-240-rgb-liquid-cpu-cooler-ga2l24rb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Lite 360 Performance - Black",
@@ -2146,7 +3126,17 @@
     "image": "https://pcparts.uk/img.thumb.abd5990fb0d2c4b2765345ac142443258a1449ac57b9bd6e23cf35359d7753f8.jpg",
     "source": "pcparts.uk",
     "external_id": "25935",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 97.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25935/lian-li-galahad-ii-lite-360-performance-liquid-cpu-ga2l36pb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Lite 360 RGB - Black",
@@ -2160,7 +3150,17 @@
     "image": "https://pcparts.uk/img.thumb.512236ae66ceb97033c5ad494a998ebfa41fc28d8314763cfdc09560056a728d.jpg",
     "source": "pcparts.uk",
     "external_id": "25936",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 97.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25936/lian-li-galahad-ii-lite-360-rgb-liquid-cpu-cooler-ga2l36rb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Trinity ARGB - Black",
@@ -2174,7 +3174,17 @@
     "image": "https://pcparts.uk/img.thumb.adb16d9743cbbd544c1b983c7dec4fa333f6140b8036c5f279a55c886fe4fea7.jpg",
     "source": "pcparts.uk",
     "external_id": "21891",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 109.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21891/lian-li-galahad-ii-trinity-argb-240mm-liquid-cpu-c-ga2t24b",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Trinity ARGB - White",
@@ -2188,7 +3198,17 @@
     "image": "https://pcparts.uk/img.thumb.87c8af76b815fb53a758756a7ce94a6f4562dbb4e0f59dc9b50843b7f9678e5e.jpg",
     "source": "pcparts.uk",
     "external_id": "21894",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 113.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21894/lian-li-galahad-ii-trinity-argb-360mm-liquid-cpu-c-ga2t36w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Trinity Performance - White",
@@ -2202,7 +3222,17 @@
     "image": "https://pcparts.uk/img.thumb.2d304ed46409df8cc29f2295f0700eef11a0ab32aae70e5cce565b85d54b0237.jpg",
     "source": "pcparts.uk",
     "external_id": "21896",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 116.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21896/lian-li-galahad-ii-trinity-performance-360mm-liqui-ga2p36w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Trinity SL ARGB - White",
@@ -2216,7 +3246,17 @@
     "image": "https://pcparts.uk/img.thumb.881e195dd96315829303136dc3c1314a2b9e6bc3605cb1e043199a27d79e727a.jpg",
     "source": "pcparts.uk",
     "external_id": "21898",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 122.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21898/lian-li-galahad-ii-trinity-sl-argb-240mm-liquid-cp-ga2t24inw",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li Galahad II Trinity SL ARGB - Black",
@@ -2230,7 +3270,17 @@
     "image": "https://pcparts.uk/img.thumb.ddbdc468de73dddeb4415213ad1b3f834be1c30f0304f0a4e1d76ace9a7a4397.jpg",
     "source": "pcparts.uk",
     "external_id": "21899",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 159.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21899/lian-li-galahad-ii-trinity-sl-argb-360mm-liquid-cp-ga2t36inb",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG COREFROZR AA13 ARGB - Black",
@@ -2244,7 +3294,17 @@
     "image": "https://pcparts.uk/img.thumb.a191814752042c5a7cee163163c20ffe66ecf6b6335a8e82f450e7f6464e3050.jpg",
     "source": "pcparts.uk",
     "external_id": "25923",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 31.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25923/msi-mag-corefrozr-aa13-argb-cpu-cooler-black-mag-corefrozr-aa13",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG COREFROZR AA13 ARGB - White",
@@ -2258,7 +3318,17 @@
     "image": "https://pcparts.uk/img.thumb.303af728a96df6ee97c5e22ee11b258e950d1bd6dc3eb6eb68c14b1a1b3cc4ee.jpg",
     "source": "pcparts.uk",
     "external_id": "25922",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 24.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25922/msi-mag-corefrozr-aa13-argb-cpu-cooler-white-mag-corefrozr-aa13-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID 240R V2 - White",
@@ -2286,7 +3356,17 @@
     "image": "https://pcparts.uk/img.thumb.9878f4fe0fdb2c1a8d3345763b3b375c8376a216fa78a0ad0aed635b0cf6c729.jpg",
     "source": "pcparts.uk",
     "external_id": "25948",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 59.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25948/msi-mag-coreliquid-a13-360-liquid-cpu-cooler-white-mag-coreliquid-a13-360-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID E360 - White",
@@ -2300,7 +3380,17 @@
     "image": "https://pcparts.uk/img.thumb.b08e14bf52fa76110be383139a05fd279232c151611434ad87da45e0d1f9fe55.png",
     "source": "pcparts.uk",
     "external_id": "22370",
-    "scraped_at": "2026-07-11T13:53:38.834601+00:00"
+    "scraped_at": "2026-07-11T13:53:38.834601+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 59.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22370/msi-mag-coreliquid-e360-liquid-cpu-cooler-white-mag-coreliquid-e360-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID I240 - White",
@@ -2314,7 +3404,17 @@
     "image": "https://pcparts.uk/img.thumb.a5abfbef3276ae6947f5c576435c4ad288727f5389740d7644d9f3ae879324c1.jpg",
     "source": "pcparts.uk",
     "external_id": "25039",
-    "scraped_at": "2026-07-11T13:53:38.835607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.835607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25039/msi-mag-coreliquid-i240-liquid-cpu-cooler-white-mag-coreliquid-i240-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID I360 - White",
@@ -2328,7 +3428,17 @@
     "image": "https://pcparts.uk/img.thumb.68df78c2168a8d49b9d8782ec7711c66ca29a1f4ed63fec0b2bbb63a3cc40475.jpg",
     "source": "pcparts.uk",
     "external_id": "25040",
-    "scraped_at": "2026-07-11T13:53:38.835607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.835607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25040/msi-mag-coreliquid-i360-liquid-cpu-cooler-white-mag-coreliquid-i360-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CoreLiquid M240 - Black",
@@ -2370,7 +3480,17 @@
     "image": "https://pcparts.uk/img.thumb.78b95b7f7341b9a76e4925f2e224b22a2cf8e43991cdd1375c4bbf672066cf28.jpg",
     "source": "pcparts.uk",
     "external_id": "2357",
-    "scraped_at": "2026-07-11T13:53:38.835607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.835607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 81.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2357/noctua-nh-c14s-cpu-cooler-nh-c14s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-D9 TR5-SP6 4U",
@@ -2384,7 +3504,17 @@
     "image": "https://pcparts.uk/img.thumb.96eabbd88359cf60977c79c2fbc6ff49abf4baccaf00ace4c37d68eb8ca18bc9.jpg",
     "source": "pcparts.uk",
     "external_id": "23955",
-    "scraped_at": "2026-07-11T13:53:38.835607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.835607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 111.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23955/noctua-nh-d9-tr5-sp6-4u-cpu-cooler-nh-d9-tr5-sp6-4u",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-L12S",
@@ -2398,7 +3528,17 @@
     "image": "https://pcparts.uk/img.thumb.2b8d186951d50c639a6640164e62cdbcc30603fe2f32ab4cb00b7ca4de55c6bf.jpg",
     "source": "pcparts.uk",
     "external_id": "2347",
-    "scraped_at": "2026-07-11T13:53:38.835607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.835607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 58.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2347/noctua-nh-l12s-cpu-cooler-nh-l12s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-L9a-AM5 chromax.black",
@@ -2412,7 +3552,17 @@
     "image": "https://pcparts.uk/img.thumb.0b667ee1f06306dfc311e9bd75be1c1de617e58709aad3898220348c62b132d8.jpg",
     "source": "pcparts.uk",
     "external_id": "19971",
-    "scraped_at": "2026-07-11T13:53:38.835607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.835607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 53.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19971/noctua-nh-l9a-am5-chromaxblack-cpu-cooler-nh-l9a-am5-chromaxblack",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-L9i chromax.black",
@@ -2426,7 +3576,17 @@
     "image": "https://pcparts.uk/img.thumb.254e0135cade3b5bb6ef2f6a0798dd9c7112ac75db4a65085376b6870964d2d8.jpg",
     "source": "pcparts.uk",
     "external_id": "2373",
-    "scraped_at": "2026-07-11T13:53:38.835607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.835607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 53.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2373/noctua-nh-l9i-chromaxblack-cpu-cooler-nh-l9i-chbk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-P1 Passive",
@@ -2440,7 +3600,17 @@
     "image": "https://pcparts.uk/img.thumb.e3629ec63131fe959191cd28d88bfe3dc80f6315c595d8caf92ef8ca5fdb6331.jpg",
     "source": "pcparts.uk",
     "external_id": "2394",
-    "scraped_at": "2026-07-11T13:53:38.836607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.836607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 111.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2394/noctua-nh-p1-passive-passive-cpu-cooler-nh-p1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-U12A",
@@ -2454,7 +3624,17 @@
     "image": "https://pcparts.uk/img.thumb.e0d9aa9debd9abc667a4f600056058e95344f00113799059d104bfdc85608c40.jpg",
     "source": "pcparts.uk",
     "external_id": "2393",
-    "scraped_at": "2026-07-11T13:53:38.836607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.836607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 111.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2393/noctua-nh-u12a-cpu-cooler-nh-u12a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-U12S",
@@ -2468,7 +3648,17 @@
     "image": "https://pcparts.uk/img.thumb.5d9fedcd3e5602ed7886211ff53084bab38e513d702ab87a6e3bfbd9a3e308bd.jpg",
     "source": "pcparts.uk",
     "external_id": "2387",
-    "scraped_at": "2026-07-11T13:53:38.836607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.836607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 71.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2387/noctua-nh-u12s-cpu-cooler-nh-u12s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-U12S redux",
@@ -2482,7 +3672,17 @@
     "image": "https://pcparts.uk/img.thumb.dbdee9b67bab75abe5a59aa9bfd4c7e1e20f71739602215dfb2e56942659fb30.jpg",
     "source": "pcparts.uk",
     "external_id": "2389",
-    "scraped_at": "2026-07-11T13:53:38.836607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.836607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 52.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2389/noctua-nh-u12s-redux-cpu-cooler-nh-u12s-redux",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-U14S",
@@ -2496,7 +3696,17 @@
     "image": "https://pcparts.uk/img.thumb.6a3865cf16b3537630c165223ce7b53b58707b5ade9f6379f577cf09a30ab59d.jpg",
     "source": "pcparts.uk",
     "external_id": "2386",
-    "scraped_at": "2026-07-11T13:53:38.836607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.836607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 81.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2386/noctua-nh-u14s-cpu-cooler-nh-u14s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-U14S TR5-SP6",
@@ -2510,7 +3720,17 @@
     "image": "https://pcparts.uk/img.thumb.146d4978bee65a37fbdb71cec6d624368191d92ddbb23802987013cf1c0a9cb0.jpg",
     "source": "pcparts.uk",
     "external_id": "23234",
-    "scraped_at": "2026-07-11T13:53:38.836607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.836607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 111.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23234/noctua-nh-u14s-tr5-sp6-cpu-cooler-nh-u14s-tr5-sp6",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Noctua NH-U9S chromax.black",
@@ -2524,7 +3744,17 @@
     "image": "https://pcparts.uk/img.thumb.5bbc4f01bc78aa54caca105596f228db3eb52bd0fb55dd96fde288ab67370fdb.jpg",
     "source": "pcparts.uk",
     "external_id": "2382",
-    "scraped_at": "2026-07-11T13:53:38.836607+00:00"
+    "scraped_at": "2026-07-11T13:53:38.836607+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2382/noctua-nh-u9s-chromaxblack-cpu-cooler-nh-u9s-chbk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken 240 - Black",
@@ -2608,7 +3838,17 @@
     "image": "https://pcparts.uk/img.thumb.5502740250824f8ee6766d519bed2863a3444da643fcaa3bc2843568acdae233.webp",
     "source": "pcparts.uk",
     "external_id": "26789",
-    "scraped_at": "2026-07-11T13:53:38.837606+00:00"
+    "scraped_at": "2026-07-11T13:53:38.837606+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 239.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26789/nzxt-kraken-elite-240-rgb-liquid-cpu-cooler-rl-kr24e-b2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken Elite 240 RGB - Black",
@@ -2622,7 +3862,17 @@
     "image": "https://pcparts.uk/img.thumb.451b705efba629392b08890b40fdd75a2690317325a03f6101a4755d47cb61ce.png",
     "source": "pcparts.uk",
     "external_id": "20380",
-    "scraped_at": "2026-07-11T13:53:38.837606+00:00"
+    "scraped_at": "2026-07-11T13:53:38.837606+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 209.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20380/nzxt-kraken-elite-240-rgb-liquid-cpu-cooler-black-rl-kr24e-b1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken Elite 240 RGB - White",
@@ -2636,7 +3886,17 @@
     "image": "https://pcparts.uk/img.thumb.034055c6d598c5685042e1ccd140bd17f3ff41678524a072cf5fd73925cbc1fd.webp",
     "source": "pcparts.uk",
     "external_id": "26791",
-    "scraped_at": "2026-07-11T13:53:38.837606+00:00"
+    "scraped_at": "2026-07-11T13:53:38.837606+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 109.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26791/nzxt-kraken-elite-240-rgb-liquid-cpu-cooler-white-rl-kr24e-w2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken Elite 280 RGB",
@@ -2664,7 +3924,17 @@
     "image": "https://pcparts.uk/img.thumb.86f36fc966eb825edbe1f9d6538cc723bf34ca6d069fc2d7bd7da9a6024b2426.webp",
     "source": "pcparts.uk",
     "external_id": "26795",
-    "scraped_at": "2026-07-11T13:53:38.837606+00:00"
+    "scraped_at": "2026-07-11T13:53:38.837606+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 250.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26795/nzxt-kraken-elite-360-liquid-cpu-cooler-rl-kn36e-b2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken Elite 420 RGB - Black",
@@ -2678,7 +3948,17 @@
     "image": "https://pcparts.uk/img.thumb.a6962025abc11980bce2045feb426509592f924671ce50ca1096635557197bad.webp",
     "source": "pcparts.uk",
     "external_id": "26787",
-    "scraped_at": "2026-07-11T13:53:38.837606+00:00"
+    "scraped_at": "2026-07-11T13:53:38.837606+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 298.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26787/nzxt-kraken-elite-420-rgb-liquid-cpu-cooler-black-rl-kr42e-b2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken Plus 280",
@@ -2706,7 +3986,17 @@
     "image": "https://pcparts.uk/img.thumb.ba2f1c24635d989f2dea8ae3e8c8a9e6e412905ccf7451921bdf69786767f72d.webp",
     "source": "pcparts.uk",
     "external_id": "26368",
-    "scraped_at": "2026-07-11T13:53:38.838612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.838612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 164.55,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26368/nzxt-kraken-plus-360-w-154-lcd-liquid-cpu-cooler-b-rl-kn360-b2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT T120 RGB - Black",
@@ -2734,7 +4024,17 @@
     "image": "https://pcparts.uk/img.thumb.c281f1063dfd120984ffa47a3b97abc294a6c42175090f2ca11c2abaf8130a3b.jpg",
     "source": "pcparts.uk",
     "external_id": "25959",
-    "scraped_at": "2026-07-11T13:53:38.838612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.838612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 128.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25959/phanteks-glacier-one-d30-x2-360mm-liquid-cpu-coole-ph-go360d30dbk02",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Phanteks Glacier One D30 X2 - White",
@@ -2748,7 +4048,17 @@
     "image": "https://pcparts.uk/img.thumb.2acde9f7b0426aed236408d848b64ab61ccb7196eebddcf0183bf9038c99bb17.jpg",
     "source": "pcparts.uk",
     "external_id": "25958",
-    "scraped_at": "2026-07-11T13:53:38.838612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.838612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 171.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25958/phanteks-glacier-one-d30-x2-360mm-liquid-cpu-coole-ph-go360d30dwt02",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Valkyrie Dragonfang - Black",
@@ -2790,7 +4100,17 @@
     "image": "https://pcparts.uk/img.thumb.1b8063149f1dc0af9df64fb2eb5718ef0da9ce605cfa72eb838cf7da61e777b7.png",
     "source": "pcparts.uk",
     "external_id": "23941",
-    "scraped_at": "2026-07-11T13:53:38.838612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.838612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 35.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23943/valkyrie-dragonfang-240mm-liquid-cpu-cooler-white-vk-aiodr240w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Valkyrie Jarn - Black",
@@ -2818,7 +4138,17 @@
     "image": "https://pcparts.uk/img.thumb.48f2f6b8d37e8ad426118f755e7b6d9dd0e1c3bb71b17ed3962b9849f3e2ee8c.png",
     "source": "pcparts.uk",
     "external_id": "23937",
-    "scraped_at": "2026-07-11T13:53:38.838612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.838612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 99.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23937/valkyrie-syn-360mm-liquid-cpu-cooler-white-vk-aiosy360w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Valkyrie V240 LCD - White",
@@ -2832,7 +4162,17 @@
     "image": "https://pcparts.uk/img.thumb.9d9c55ea93862b89f0e722326454693be7e5ad2b7e25264bed5f7d9d5d7262ea.jpg",
     "source": "pcparts.uk",
     "external_id": "25944",
-    "scraped_at": "2026-07-11T13:53:38.838612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.838612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 169.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25944/valkyrie-v240-lcd-liquid-cpu-cooler-white-vk-aiov240w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Valkyrie Vind SL125 - Black",
@@ -2846,7 +4186,17 @@
     "image": "https://pcparts.uk/img.thumb.624c557781108bdcc64af42b5116599d5e5e6a9b0f8f5b7abca0de6b0951dd59.png",
     "source": "pcparts.uk",
     "external_id": "23952",
-    "scraped_at": "2026-07-11T13:53:38.838612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.838612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 32.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23952/valkyrie-vind-sl125-cpu-cooler-black-vk-airsl125b",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Alpine 23 - AMD",
@@ -2860,7 +4210,17 @@
     "image": "https://pcparts.uk/img.thumb.9f598757b85a99bc9912e306b306379593a2bbafab39abcc47a32a69b2cb7d3e.jpg",
     "source": "pcparts.uk",
     "external_id": "2576",
-    "scraped_at": "2026-07-11T13:53:38.839611+00:00"
+    "scraped_at": "2026-07-11T13:53:38.839611+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 10.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2576/arctic-alpine-23-amd-cpu-cooler-acalp00036a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Freezer 8A CO",
@@ -2874,7 +4234,17 @@
     "image": "https://pcparts.uk/img.thumb.079857f17919557d53c5a9f9278b28b99e96f3c14ffaf659f1bbe5d2f8075e83.jpg",
     "source": "pcparts.uk",
     "external_id": "26386",
-    "scraped_at": "2026-07-11T13:53:38.839611+00:00"
+    "scraped_at": "2026-07-11T13:53:38.839611+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 14.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26386/arctic-freezer-8a-co-cpu-cooler-acfre00162a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Cooler Master MASTERLIQUID 360L Core ARGB - Black",
@@ -2902,7 +4272,17 @@
     "image": "https://pcparts.uk/img.thumb.5242d12c8c044e4d90ee28392691ee9cd8ddfbcfffcec9cd11235401600ec476.webp",
     "source": "pcparts.uk",
     "external_id": "24650",
-    "scraped_at": "2026-07-11T13:53:38.839611+00:00"
+    "scraped_at": "2026-07-11T13:53:38.839611+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 239.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24650/corsair-icue-link-titan-360-rx-lcd-liquid-cpu-cool-cw-9061023-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Jonsbo HX4170D",
@@ -2930,7 +4310,17 @@
     "image": "https://pcparts.uk/img.thumb.89a6c6ae388a3895e83fd04fbc49ffb2c2893fad9fc0b0b7ceed9f24976fc92b.jpg",
     "source": "pcparts.uk",
     "external_id": "21889",
-    "scraped_at": "2026-07-11T13:53:38.839611+00:00"
+    "scraped_at": "2026-07-11T13:53:38.839611+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 29.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21889/kolink-umbra-void-argb-240mm-liquid-cpu-cooler-pgw-cc-kol-004",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li GALAHAD 240 RGB V2 - Black",
@@ -2986,7 +4376,17 @@
     "image": "https://pcparts.uk/img.thumb.bd8c272901f56b3d829c992a880a2f8a19932248b02aa1345c890140165c6b11.jpg",
     "source": "pcparts.uk",
     "external_id": "26759",
-    "scraped_at": "2026-07-11T13:53:38.839611+00:00"
+    "scraped_at": "2026-07-11T13:53:38.839611+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 149.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26759/lian-li-hydroshift-ii-lcd-s-360cl-liquid-cpu-coole-g89ghs2lcds36cw00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li HydroShift II LCD-S 360N - No Fans Included - Black",
@@ -3000,7 +4400,17 @@
     "image": "https://pcparts.uk/img.thumb.14a0a709d37dc0b5a2ed8716175f55c44ae9ef338742db1676c3c506dcb6e214.jpg",
     "source": "pcparts.uk",
     "external_id": "26758",
-    "scraped_at": "2026-07-11T13:53:38.839611+00:00"
+    "scraped_at": "2026-07-11T13:53:38.839611+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 134.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26758/lian-li-hydroshift-ii-lcd-s-360n-no-fans-included-g89ghs2lcds36nb00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li HydroShift II LCD-S 360N - No Fans Included - White",
@@ -3014,7 +4424,17 @@
     "image": "https://pcparts.uk/img.thumb.ff1263b4104313f3c7adee19a1c531904cfb1b9a34d540d0f81f7c3cba62eaef.jpg",
     "source": "pcparts.uk",
     "external_id": "26757",
-    "scraped_at": "2026-07-11T13:53:38.839611+00:00"
+    "scraped_at": "2026-07-11T13:53:38.839611+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 134.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26757/lian-li-hydroshift-ii-lcd-s-360n-no-fans-included-g89ghs2lcds36nw00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li HydroShift II LCD-S 360TL - Black",
@@ -3028,7 +4448,17 @@
     "image": "https://pcparts.uk/img.thumb.2dfa460aafacc4f33b2bde86353d6e8839a3f9d29eb5f5e33cf28319ba7b330f.jpg",
     "source": "pcparts.uk",
     "external_id": "26756",
-    "scraped_at": "2026-07-11T13:53:38.840612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.840612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 214.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26756/lian-li-hydroshift-ii-lcd-s-360tl-liquid-cpu-coole-g89ghs2lcds36tb00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Lian-Li HydroShift II LCD-S 360TL - White",
@@ -3042,7 +4472,17 @@
     "image": "https://pcparts.uk/img.thumb.1f33e5a61be4198db98e5ffd471f1c924d52b7d07c7bba0a10cb24bbeedbc291.jpg",
     "source": "pcparts.uk",
     "external_id": "26755",
-    "scraped_at": "2026-07-11T13:53:38.840612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.840612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 199.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26755/lian-li-hydroshift-ii-lcd-s-360tl-liquid-cpu-coole-g89ghs2lcds36tw00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID 240R V2 - Black",
@@ -3056,7 +4496,17 @@
     "image": "https://pcparts.uk/img.thumb.b837043d041d218ab9df0d785b8d773e86f957faef6742476f75058b4a1d4f92.jpg",
     "source": "pcparts.uk",
     "external_id": "13677",
-    "scraped_at": "2026-07-11T13:53:38.840612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.840612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 90.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13677/msi-mag-coreliquid-240r-v2-liquid-cpu-cooler-black-306-7zw1b41-813",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI MAG CORELIQUID 360R V2",
@@ -3154,7 +4604,17 @@
     "image": "https://pcparts.uk/img.thumb.18ba1b2588d3a47b247433af408a26e52aae1c115e2862db3dcd2fc073858759.webp",
     "source": "pcparts.uk",
     "external_id": "26788",
-    "scraped_at": "2026-07-11T13:53:38.840612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.840612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 269.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26788/nzxt-kraken-elite-360-rgb-liquid-cpu-cooler-rl-kr36e-b2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT Kraken Plus 240 - White",
@@ -3168,7 +4628,17 @@
     "image": "https://pcparts.uk/img.thumb.90a8a1925a3671ac58fbece3b11d77a45c7c27049ebe558b1d201029f8688b22.webp",
     "source": "pcparts.uk",
     "external_id": "26793",
-    "scraped_at": "2026-07-11T13:53:38.840612+00:00"
+    "scraped_at": "2026-07-11T13:53:38.840612+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 168.97,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26793/nzxt-kraken-plus-240-liquid-cpu-cooler-white-rl-kr240-w2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "NZXT T120 - White",
@@ -4582,7 +6052,17 @@
     "image": "https://pcparts.uk/img.thumb.7a15f391b808a498ceb2e880941eaae7b7fcc39b888470f257cd830c2afacb6e.jpg",
     "source": "pcparts.uk",
     "external_id": "13628",
-    "scraped_at": "2026-07-11T13:53:43.241029+00:00"
+    "scraped_at": "2026-07-11T13:53:43.241029+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 12.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13628/antec-a400i-rgb-cpu-cooler-0-761345-10913-0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Antec C40 Nickel-Plated",
@@ -4708,7 +6188,17 @@
     "image": "https://pcparts.uk/img.thumb.fe7f0ef59041fb1bd8f259eabecc1ae38ba102f97136754cbae3f3aedbe27e71.jpg",
     "source": "pcparts.uk",
     "external_id": "13630",
-    "scraped_at": "2026-07-11T13:53:43.241029+00:00"
+    "scraped_at": "2026-07-11T13:53:43.241029+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 14.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13630/antec-t120-cpu-cooler-0-761345-76000-3",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Antec Vortex 240 ARGB",
@@ -5086,7 +6576,17 @@
     "image": "https://pcparts.uk/img.thumb.079857f17919557d53c5a9f9278b28b99e96f3c14ffaf659f1bbe5d2f8075e83.jpg",
     "source": "pcparts.uk",
     "external_id": "26389",
-    "scraped_at": "2026-07-11T13:53:43.241029+00:00"
+    "scraped_at": "2026-07-11T13:53:43.241029+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 18.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26389/arctic-freezer-8i-cpu-cooler-acfre00190a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Freezer 8i CO",
@@ -5100,7 +6600,17 @@
     "image": "https://pcparts.uk/img.thumb.079857f17919557d53c5a9f9278b28b99e96f3c14ffaf659f1bbe5d2f8075e83.jpg",
     "source": "pcparts.uk",
     "external_id": "26388",
-    "scraped_at": "2026-07-11T13:53:43.241029+00:00"
+    "scraped_at": "2026-07-11T13:53:43.241029+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 17.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26388/arctic-freezer-8i-co-cpu-cooler-acfre00191a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Freezer A13X",
@@ -5562,7 +7072,17 @@
     "image": "https://pcparts.uk/img.thumb.bbd543a3e201e5105e5b53da964bde413de77f2ff94980b05b6ad86a43e988a6.jpg",
     "source": "pcparts.uk",
     "external_id": "23317",
-    "scraped_at": "2026-07-11T13:53:47.603317+00:00"
+    "scraped_at": "2026-07-11T13:53:47.603317+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 69.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23317/arctic-liquid-freezer-iii-280-argb-liquid-cpu-cool-acfre00151a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Arctic Liquid Freezer III 360",
@@ -5688,7 +7208,17 @@
     "image": "https://pcparts.uk/img.thumb.39c9f2aa7bc37f4813085ed590bf3e9c263aade1aa2424ba5e1ef6530ce7fcdc.jpg",
     "source": "pcparts.uk",
     "external_id": "25945",
-    "scraped_at": "2026-07-11T13:53:47.603317+00:00"
+    "scraped_at": "2026-07-11T13:53:47.603317+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 84.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25945/arctic-liquid-freezer-iii-pro-360-argb-liquid-cpu-acfre00184a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Prime LC 360 ARGB LCD - Black",
@@ -5702,7 +7232,17 @@
     "image": "https://pcparts.uk/img.thumb.637806a5e04f3dc2bf4484f39647b0435db936cd0c0756fa0c9f2e610f56ee0c.jpg",
     "source": "pcparts.uk",
     "external_id": "25926",
-    "scraped_at": "2026-07-11T13:53:47.603317+00:00"
+    "scraped_at": "2026-07-11T13:53:47.603317+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 135.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25926/asus-prime-lc-360-argb-lcd-liquid-cpu-cooler-black-90rc00z1-b0eay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Prime LC 360 ARGB White Edition",
@@ -5716,7 +7256,17 @@
     "image": "https://pcparts.uk/img.thumb.4042caae24266bae66067760b678bb8a5db6502c5f8c216a4e4fe5245f3ac7e4.jpg",
     "source": "pcparts.uk",
     "external_id": "25925",
-    "scraped_at": "2026-07-11T13:53:47.603317+00:00"
+    "scraped_at": "2026-07-11T13:53:47.603317+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 112.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25925/asus-prime-lc-360-argb-white-edition-liquid-cpu-co-90rc0102-b0eay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Ryujin 240",
@@ -5842,7 +7392,17 @@
     "image": "https://pcparts.uk/img.thumb.fbf4a0118030ba099a1ce8931fd5cda345ce44e0af425482794b601341e4f4c9.png",
     "source": "pcparts.uk",
     "external_id": "20344",
-    "scraped_at": "2026-07-11T13:53:47.604319+00:00"
+    "scraped_at": "2026-07-11T13:53:47.604319+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 214.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20344/asus-rog-ryujin-iii-240-argb-liquid-cpu-cooler-90rc00k1-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Ryujin III 240 ARGB - w/ OLED Display - White",
@@ -5856,7 +7416,17 @@
     "image": "https://pcparts.uk/img.thumb.ef87e20cf91abd870428bc8d9d81d05a5961ad2662cd9b32c4d4712e8a87dc52.jpg",
     "source": "pcparts.uk",
     "external_id": "21353",
-    "scraped_at": "2026-07-11T13:53:47.604319+00:00"
+    "scraped_at": "2026-07-11T13:53:47.604319+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 214.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21353/asus-rog-ryujin-iii-240-argb-w-oled-display-liquid-90rc00k2-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Ryujin III 360",
@@ -5926,7 +7496,17 @@
     "image": "https://pcparts.uk/img.thumb.46974d09eda2c279b38f36bcf8bc73e4ffeb4214479aacb5ce8b617760cb9b08.jpg",
     "source": "pcparts.uk",
     "external_id": "25927",
-    "scraped_at": "2026-07-11T13:53:47.604319+00:00"
+    "scraped_at": "2026-07-11T13:53:47.604319+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 327.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25927/asus-rog-ryujin-iii-360-argb-extreme-white-edition-90rc0132-m0eay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Ryuo 120",
@@ -5968,7 +7548,17 @@
     "image": "https://pcparts.uk/img.thumb.87816b271e46d6808b5a470df17f3ec986e22eeda0098be374ce506db0fdfe1d.jpg",
     "source": "pcparts.uk",
     "external_id": "19082",
-    "scraped_at": "2026-07-11T13:53:47.604319+00:00"
+    "scraped_at": "2026-07-11T13:53:47.604319+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 189.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19082/asus-rog-ryuo-iii-240-argb-liquid-cpu-cooler-90rc00j1-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Ryuo III 240 ARGB - White",
@@ -6178,7 +7768,17 @@
     "image": "https://pcparts.uk/img.thumb.0f1c4fe8ed0c48a68eaa67034f8d3a11d13510553595f01bfeecec9a3c17ec25.jpg",
     "source": "pcparts.uk",
     "external_id": "18871",
-    "scraped_at": "2026-07-11T13:53:47.605316+00:00"
+    "scraped_at": "2026-07-11T13:53:47.605316+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 139.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/18871/asus-rog-strix-lc-ii-240-argb-liquid-cpu-cooler-wh-90rc00e2-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG Strix LC II 280 ARGB",
@@ -6248,7 +7848,17 @@
     "image": "https://pcparts.uk/img.thumb.d376a73d718c3a83402494e5c74c4c872733cb6a7a35ea697f60d12794793ee9.jpg",
     "source": "pcparts.uk",
     "external_id": "23966",
-    "scraped_at": "2026-07-11T13:53:47.605316+00:00"
+    "scraped_at": "2026-07-11T13:53:47.605316+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 180.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23966/asus-rog-strix-lc-iii-240mm-liquid-cpu-cooler-whit-90rc00s2-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG STRIX LC III - Black",
@@ -6276,7 +7886,17 @@
     "image": "https://pcparts.uk/img.thumb.6f2ef7b517f7f382ac47fbae813d758fad22d4d1fc83a98db25741521179d194.jpg",
     "source": "pcparts.uk",
     "external_id": "23964",
-    "scraped_at": "2026-07-11T13:53:47.605316+00:00"
+    "scraped_at": "2026-07-11T13:53:47.605316+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 145.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23964/asus-rog-strix-lc-iii-360mm-liquid-cpu-cooler-blac-90rc00t0-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS ROG STRIX LC III 240 ARGB",
@@ -6360,7 +7980,17 @@
     "image": "https://pcparts.uk/img.thumb.e1cba2e655abcfddec89208fff39e4e4f859f63208eff1789461dfac4967c630.jpg",
     "source": "pcparts.uk",
     "external_id": "24309",
-    "scraped_at": "2026-07-11T13:53:47.605316+00:00"
+    "scraped_at": "2026-07-11T13:53:47.605316+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 101.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24309/asus-tuf-gaming-lc-ii-240mm-liquid-cpu-cooler-90rc00u1-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS TUF Gaming LC II 360 ARGB - Black",
@@ -6374,7 +8004,17 @@
     "image": "https://pcparts.uk/img.thumb.d578171d60c190f27be9fd2b9665b04c47a29eade6b599dfdf914bc20dad507a.jpg",
     "source": "pcparts.uk",
     "external_id": "25928",
-    "scraped_at": "2026-07-11T13:53:47.605316+00:00"
+    "scraped_at": "2026-07-11T13:53:47.605316+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 112.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25928/asus-tuf-gaming-lc-ii-360-argb-liquid-cpu-cooler-b-90rc00m1-m0uay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS TUF Gaming LC III 360 ARGB LCD White Edition",
@@ -6388,7 +8028,17 @@
     "image": "https://pcparts.uk/img.thumb.494ab75ef91f533ecb595d9b55a99fa6cae61959d6de707796db79ab066014b4.jpg",
     "source": "pcparts.uk",
     "external_id": "25931",
-    "scraped_at": "2026-07-11T13:53:47.605316+00:00"
+    "scraped_at": "2026-07-11T13:53:47.605316+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 163.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25931/asus-tuf-gaming-lc-iii-360-argb-lcd-white-edition-90rc01a2-b0eay0",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Dark Rock TF 2",
@@ -6500,7 +8150,17 @@
     "image": "https://pcparts.uk/img.thumb.298c998b95479a10eb27e8364831b1937906ec88e893e069bb957722cee83a42.jpg",
     "source": "pcparts.uk",
     "external_id": "13648",
-    "scraped_at": "2026-07-11T13:53:47.605316+00:00"
+    "scraped_at": "2026-07-11T13:53:47.605316+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 99.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13646/be-quiet-pure-loop-2-fx-240mm-liquid-cpu-cooler-bw013",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Loop 240",
@@ -6556,7 +8216,17 @@
     "image": "https://pcparts.uk/img.thumb.997b900ed2716aae6842c47f62d9f00299b456bc63fd397a1a5b9ebb8106236a.jpg",
     "source": "pcparts.uk",
     "external_id": "26375",
-    "scraped_at": "2026-07-11T13:53:47.606323+00:00"
+    "scraped_at": "2026-07-11T13:53:47.606323+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 68.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26375/be-quiet-pure-loop-3-280mm-liquid-cpu-cooler-bw028eu",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "be quiet! Pure Loop 360",
@@ -6892,7 +8562,17 @@
     "image": "https://pcparts.uk/img.thumb.fb7145bc2114f305c823000f45c1ef8d330f63a2ff115458c1d620bf3695d776.png",
     "source": "pcparts.uk",
     "external_id": "2783",
-    "scraped_at": "2026-07-11T13:53:51.949836+00:00"
+    "scraped_at": "2026-07-11T13:53:51.949836+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 24.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/22914/cooler-master-hyper-212-black-cpu-cooler-rr-s4kk-25sn-r1",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Cooler Master Hyper 212 Evo",
@@ -8097,7 +9777,17 @@
     "image": "https://pcparts.uk/img.thumb.cee603f7377cfd822416ec3966e921a7ac4925183af2192a75db921b5bcacd5a.png",
     "source": "pcparts.uk",
     "external_id": "21078",
-    "scraped_at": "2026-07-11T13:53:51.953374+00:00"
+    "scraped_at": "2026-07-11T13:53:51.953374+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 179.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21078/corsair-icue-link-h100i-rgb-280mm-liquid-cpu-coole-cw-9061001-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair iCUE LINK H100i RGB - White",
@@ -8223,7 +9913,17 @@
     "image": "https://pcparts.uk/img.thumb.05a45778749b7ec0654c5985a70606fb1cb0aa4e9266604d1e1ef077a7359bbd.webp",
     "source": "pcparts.uk",
     "external_id": "24302",
-    "scraped_at": "2026-07-11T13:53:51.953374+00:00"
+    "scraped_at": "2026-07-11T13:53:51.953374+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 139.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24302/corsair-icue-link-titan-240-rx-rgb-liquid-cpu-cool-cw-9061016-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair iCUE LINK TITAN 280 RX RGB - Black",
@@ -8237,7 +9937,17 @@
     "image": "https://pcparts.uk/img.thumb.6a01adefa7d632c8de932e1089e40535fba7fa81ef7bc212a32f361660a3b19c.webp",
     "source": "pcparts.uk",
     "external_id": "24301",
-    "scraped_at": "2026-07-11T13:53:51.953374+00:00"
+    "scraped_at": "2026-07-11T13:53:51.953374+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 129.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24301/corsair-icue-link-titan-280-rx-rgb-liquid-cpu-cool-cw-9061017-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Corsair iCUE LINK TITAN 360 RX RGB - Black",
@@ -8251,6 +9961,16 @@
     "image": "https://pcparts.uk/img.thumb.01a38b273808fd390d2ea15ae46bbfb24c58e87ad8a6e576827475395e977203.webp",
     "source": "pcparts.uk",
     "external_id": "24299",
-    "scraped_at": "2026-07-11T13:53:51.953374+00:00"
+    "scraped_at": "2026-07-11T13:53:51.953374+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 139.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24299/corsair-icue-link-titan-360-rx-rgb-liquid-cpu-cool-cw-9061018-ww",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   }
 ]

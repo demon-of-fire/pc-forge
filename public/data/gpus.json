@@ -261,7 +261,17 @@
     "image": "https://pcparts.uk/img.thumb.48f4094dad2dcbe5e1c5e91444137536c3c989f37f7af82ce7d3b047f72ec9cb.jpg",
     "source": "pcparts.uk",
     "external_id": "25416",
-    "scraped_at": "2026-07-11T13:46:34.804811+00:00"
+    "scraped_at": "2026-07-11T13:46:34.804811+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 309.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25416/asus-geforce-rtx-5060-dual-oc-8gb-gddr7-graphics-c-dual-rtx5060-o8g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 Ti DUAL OC",
@@ -342,7 +352,17 @@
     "image": "https://pcparts.uk/img.thumb.dc63ca75ff057ec099e325ec9504e2b2d6e767ffcc8c9d5397d62ed9ee25ba42.jpg",
     "source": "pcparts.uk",
     "external_id": "25464",
-    "scraped_at": "2026-07-11T13:46:43.310447+00:00"
+    "scraped_at": "2026-07-11T13:46:43.310447+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 539.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25464/asus-geforce-rtx-5070-dual-oc-12gb-gddr7-graphics-dual-rtx5070-o12g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5070 Ti TUF GAMING OC",
@@ -381,7 +401,17 @@
     "image": "https://pcparts.uk/img.thumb.edd0d911a63ea86d9fa97f08edbaa114b19043f2d8c4479d9e7c545b62a29c0d.png",
     "source": "pcparts.uk",
     "external_id": "25255",
-    "scraped_at": "2026-07-11T13:46:47.522763+00:00"
+    "scraped_at": "2026-07-11T13:46:47.522763+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 949.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25255/asus-geforce-rtx-5070-ti-tuf-gaming-oc-16gb-gddr7-tuf-rtx5070ti-o16g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5070 Ti TUF Gaming OC - White",
@@ -423,7 +453,17 @@
     "image": "https://pcparts.uk/img.thumb.f40ec584c508a958a2a65b5cd59d09fef677f48e2c0d04c3ce0026b7c4de3605.jpg",
     "source": "pcparts.uk",
     "external_id": "25557",
-    "scraped_at": "2026-07-11T13:46:51.766648+00:00"
+    "scraped_at": "2026-07-11T13:46:51.766648+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 949.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25557/asus-geforce-rtx-5070-ti-tuf-gaming-oc-16gb-gddr7-90yv0md3-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS PRIME GeForce RTX 5070 OC",
@@ -462,7 +502,17 @@
     "image": "https://pcparts.uk/img.thumb.21e306cf6dfa0e8b48de409b3b36622b4f86b42c5a762c2f7b2394f1777a7e80.png",
     "source": "pcparts.uk",
     "external_id": "25251",
-    "scraped_at": "2026-07-11T13:46:56.016568+00:00"
+    "scraped_at": "2026-07-11T13:46:56.016568+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 559.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25251/asus-prime-geforce-rtx-5070-oc-12gb-gddr7-graphics-prime-rtx5070-o12g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9070 PRIME OC",
@@ -501,7 +551,17 @@
     "image": "https://pcparts.uk/img.thumb.0283530acb8f6eeeeb8857835936ae645b191102c7fa88f05e51ccf0920341f9.png",
     "source": "pcparts.uk",
     "external_id": "25277",
-    "scraped_at": "2026-07-11T13:47:00.232860+00:00"
+    "scraped_at": "2026-07-11T13:47:00.232860+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 699.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25277/asus-radeon-rx-9070-prime-oc-16gb-gddr6-graphics-c-prime-rx9070-o16g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5070 EAGLE OC SFF",
@@ -535,7 +595,17 @@
     "image": "https://pcparts.uk/img.thumb.a19309ff72aba37bceb34bb891e1c03c67bf0e5ab6f8e5acd03738410a95622d.png",
     "source": "pcparts.uk",
     "external_id": "25245",
-    "scraped_at": "2026-07-11T13:47:04.455990+00:00"
+    "scraped_at": "2026-07-11T13:47:04.455990+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 579.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25245/gigabyte-geforce-rtx-5070-eagle-oc-sff-12gb-gddr7-gv-n5070eagle-oc-12gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 Ti DUAL OC",
@@ -575,7 +645,17 @@
     "image": "https://pcparts.uk/img.thumb.8f2e3843537a408e5e0038606a5ec656d5a8a7dcb9d13e581d457dcc61ba156f.png",
     "source": "pcparts.uk",
     "external_id": "25428",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 279.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25428/asus-geforce-rtx-5060-ti-dual-oc-8gb-gddr7-graphic-dual-rtx5060ti-o8g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5070 Prime OC - White",
@@ -589,7 +669,17 @@
     "image": "https://pcparts.uk/img.thumb.25d9769dcd7e4d4f44e911fa490695d73e8bdfd56d9b9cbeb46d32491e53e403.jpg",
     "source": "pcparts.uk",
     "external_id": "25519",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 579.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25519/asus-geforce-rtx-5070-prime-oc-12gb-gddr7-graphics-prime-rtx5070-o12g-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5070 TUF GAMING OC",
@@ -603,7 +693,17 @@
     "image": "https://pcparts.uk/img.thumb.a85329e2d1c5d5c20ed33fb706c0a26cf6a606b223773c2ff1f61354b104eaaa.jpg",
     "source": "pcparts.uk",
     "external_id": "25250",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 669.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25250/asus-geforce-rtx-5070-tuf-gaming-oc-12gb-gddr7-gra-tuf-rtx5070-o12g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5080 TUF Gaming OC",
@@ -617,7 +717,17 @@
     "image": "https://pcparts.uk/img.thumb.2c28f9273d07c0a1eb5cb21ec39a915bb3eb6186da02dd5376a7ba0fcd08f5bf.png",
     "source": "pcparts.uk",
     "external_id": "24933",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1399.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24933/asus-geforce-rtx-5080-tuf-gaming-oc-16gb-gddr7-gra-tuf-rtx5080-o16g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9070 XT PRIME OC",
@@ -631,7 +741,17 @@
     "image": "https://pcparts.uk/img.thumb.d991f0b78376c02e01d16348896e21d3ad2b193f04d608278fb173acf9f6d329.png",
     "source": "pcparts.uk",
     "external_id": "25284",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 699.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25284/asus-radeon-rx-9070-xt-prime-oc-16gb-gddr6-graphic-prime-rx9070xt-o16g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9070 XT TUF GAMING OC",
@@ -645,7 +765,17 @@
     "image": "https://pcparts.uk/img.thumb.5331ee1a372fbf30263a92788effe1bfb5ac6b3ebfabb06a30fda5f1c50f767b.png",
     "source": "pcparts.uk",
     "external_id": "25283",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 749.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25283/asus-radeon-rx-9070-xt-tuf-gaming-oc-16gb-gddr6-gr-tuf-rx9070xt-o16g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 Ti EAGLE OC",
@@ -673,7 +803,17 @@
     "image": "https://pcparts.uk/img.thumb.c44c8c8da2121042e3e2790bf9a2adac0f60df42b1c825813b24f5f378bd1ca4.png",
     "source": "pcparts.uk",
     "external_id": "25243",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 588.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25243/gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7-gra-gv-n5070gaming-oc-12gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5070 Ti AERO OC",
@@ -687,7 +827,17 @@
     "image": "https://pcparts.uk/img.thumb.926ff020e8f8555b902a281cf72678f0444d64c6ae5296f5b957dce419c6f86b.png",
     "source": "pcparts.uk",
     "external_id": "25232",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 957.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25232/gigabyte-geforce-rtx-5070-ti-aero-oc-16gb-gddr7-gr-gv-n507taero-oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5070 Ti GAMING OC",
@@ -701,7 +851,17 @@
     "image": "https://pcparts.uk/img.thumb.f2bf792563f50604718385f94a58078ff54298419f04c9db1b9faa4f47af5ca2.png",
     "source": "pcparts.uk",
     "external_id": "24944",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 979.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24944/gigabyte-geforce-rtx-5070-ti-gaming-oc-16gb-gddr7-gv-n507tgaming-oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5070 Ti WINDFORCE OC SFF",
@@ -715,7 +875,17 @@
     "image": "https://pcparts.uk/img.thumb.13a01302ca79674c8fc045d0ee45740983715dd2ce853877c748823000ef3295.png",
     "source": "pcparts.uk",
     "external_id": "25233",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 870.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25233/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16gb-gv-n507twf3oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5070 WINDFORCE OC SFF",
@@ -729,7 +899,17 @@
     "image": "https://pcparts.uk/img.thumb.bcbba23ac1a8bda958a2a10fbf0f1b727c92eb35dd6017b2214d3c650eda5755.png",
     "source": "pcparts.uk",
     "external_id": "25247",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 574.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25247/gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gd-gv-n5070wf3oc-12gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5070 Ti GAMING TRIO OC",
@@ -743,7 +923,17 @@
     "image": "https://pcparts.uk/img.thumb.9a11d54a198d0fd8b907bfbe71d71b4c69b44b8064a0c184bb524218db8f8d92.jpg",
     "source": "pcparts.uk",
     "external_id": "25469",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 989.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25469/msi-geforce-rtx-5070-ti-gaming-trio-oc-16gb-gddr7-rtx-5070-ti-16g-gaming-trio-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5070 Ventus 2X OC",
@@ -757,7 +947,17 @@
     "image": "https://pcparts.uk/img.thumb.a67d9e7e98a6c70b9907418eb7846b9f00e19b8adbe102bbc457e3cad1447045.png",
     "source": "pcparts.uk",
     "external_id": "25241",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 625.32,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25241/msi-geforce-rtx-5070-ventus-2x-oc-12gb-gddr7-graph-geforce-rtx-5070-12g-ventus-2x-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5070 GamingPro OC",
@@ -785,7 +985,17 @@
     "image": "https://pcparts.uk/img.thumb.dd9ab861260b8c1deb6f4c79db82d456afdc67c0fedb7a3c9e157826f87bb1aa.png",
     "source": "pcparts.uk",
     "external_id": "25507",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 519.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25507/palit-geforce-rtx-5070-infinity-3-oc-12gb-gddr7-gr-ne75070s19k9-gb2050s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5080 PRIME OC",
@@ -799,7 +1009,17 @@
     "image": "https://pcparts.uk/img.thumb.17353a93ccee789711109924258a371ef7d791125248682169abe4addc3d40c2.png",
     "source": "pcparts.uk",
     "external_id": "24935",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1294.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24935/asus-geforce-rtx-5080-prime-oc-16gb-gddr7-graphics-prime-rtx5080-o16g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5070 AERO OC",
@@ -813,7 +1033,17 @@
     "image": "https://pcparts.uk/img.thumb.10515bb88dd51bfb038284acbdb12ca4e91410bd6fc2d5d1a83b539e136bf390.png",
     "source": "pcparts.uk",
     "external_id": "25246",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 582.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25246/gigabyte-geforce-rtx-5070-aero-oc-12gb-gddr7-graph-gv-n5070aero-oc-12gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5070 Ti EAGLE OC SFF",
@@ -827,7 +1057,17 @@
     "image": "https://pcparts.uk/img.thumb.2b245d9e6537cb9f267a6fc0f77004f07120039f408128bb7d03aabc3eaf6382.png",
     "source": "pcparts.uk",
     "external_id": "25231",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 938.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25231/gigabyte-geforce-rtx-5070-ti-eagle-oc-sff-16gb-gdd-gv-n507teagle-oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5050 Dual OC",
@@ -841,7 +1081,17 @@
     "image": "https://pcparts.uk/img.thumb.f272604e4d0bcc4333c76007f7cf7caf55f69304911180497f7ba9aeaab79d71.jpg",
     "source": "pcparts.uk",
     "external_id": "25580",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 279.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25580/asus-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-c-90yv0n72-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 Ti PRIME OC",
@@ -869,7 +1119,17 @@
     "image": "https://pcparts.uk/img.thumb.83298c7124787b98095088522d30766a3273dd11e7bc89ec12c26af6858b56b7.png",
     "source": "pcparts.uk",
     "external_id": "25421",
-    "scraped_at": "2026-07-11T13:47:08.697405+00:00"
+    "scraped_at": "2026-07-11T13:47:08.697405+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 399.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25421/asus-geforce-rtx-5060-ti-prime-oc-8gb-gddr7-graphi-prime-rtx5060ti-o8g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5070 ROG Strix Gaming OC",
@@ -883,7 +1143,17 @@
     "image": "https://pcparts.uk/img.thumb.c56fd042a5e6d5c279b9c5b6d2af1b3edf240a9c9ce21851ca62579a13ade1d4.jpg",
     "source": "pcparts.uk",
     "external_id": "25517",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 777.93,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25517/asus-geforce-rtx-5070-rog-strix-gaming-oc-12gb-gdd-rog-strix-rtx5070-o12g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5070 Ti ROG STRIX OC",
@@ -897,7 +1167,17 @@
     "image": "https://pcparts.uk/img.thumb.9cbe98dc4b1e449e8d40fc7830e3dbc19e40074b9ede229851651c87f2579225.jpg",
     "source": "pcparts.uk",
     "external_id": "25468",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1099.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25468/asus-geforce-rtx-5070-ti-rog-strix-oc-16gb-gddr7-g-rog-strix-rtx5070ti-o16g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5080 Noctua OC",
@@ -911,7 +1191,17 @@
     "image": "https://pcparts.uk/img.thumb.ca9e39f2a985d23018682b357269d2a4b81fc65831a4a48bcaa8d57b6c1e0120.jpg",
     "source": "pcparts.uk",
     "external_id": "25567",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1534.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25567/asus-geforce-rtx-5080-noctua-oc-16gb-gddr7-graphic-90yv0m32-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9060 XT Dual",
@@ -939,7 +1229,17 @@
     "image": "https://pcparts.uk/img.thumb.cd86e69a655550c256bdb2dc73b0746976c8a7602686e11ba6e2d17c8d51a17a.jpg",
     "source": "pcparts.uk",
     "external_id": "25403",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 319.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25403/gigabyte-geforce-rtx-5060-gaming-oc-8gb-gddr7-grap-gv-n5060gaming-oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 Ti Gaming OC",
@@ -967,7 +1267,17 @@
     "image": "https://pcparts.uk/img.thumb.9644e1162022025531afe7ad330ee06653b0448ba4509fa747db8de9343cb352.png",
     "source": "pcparts.uk",
     "external_id": "25244",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 568.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25244/gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-12gb-gd-gv-n5070eagleoc-ice-12gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5080 AERO OC SFF",
@@ -981,7 +1291,17 @@
     "image": "https://pcparts.uk/img.thumb.0133352502866b68f2e099e3a641f936581003863740b8acacf4e62bbbaef256.png",
     "source": "pcparts.uk",
     "external_id": "24947",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1299.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24947/gigabyte-geforce-rtx-5080-aero-oc-sff-16gb-gddr7-g-gv-n5080aero-oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5080 WINDFORCE OC SFF",
@@ -995,7 +1315,17 @@
     "image": "https://pcparts.uk/img.thumb.6707cea28a8e85344226ecf16d70fb500e1af80bc5320718a04622c577ead936.png",
     "source": "pcparts.uk",
     "external_id": "25048",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1166.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25048/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-gd-gv-n5080wf3oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5090 GAMING OC",
@@ -1037,7 +1367,17 @@
     "image": "https://pcparts.uk/img.thumb.d82fb507926b1ce3a8aae1ef762b662ea15a5fbe3ed5a62ec287c1a25433427e.webp",
     "source": "pcparts.uk",
     "external_id": "25311",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 606.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25311/gigabyte-radeon-rx-9070-gaming-oc-16gb-gddr6-graph-gv-r9070gaming-oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte Radeon RX 9070 XT AORUS Elite OC",
@@ -1051,7 +1391,17 @@
     "image": "https://pcparts.uk/img.thumb.0ec5eb977513b451d709a200d3356947404bf61860c4ce1f8c312e7293102bee.webp",
     "source": "pcparts.uk",
     "external_id": "25312",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 749.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25312/gigabyte-radeon-rx-9070-xt-aorus-elite-oc-16gb-gdd-gv-r9070xtaorus-e-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte Radeon RX 9070 XT GAMING OC",
@@ -1065,7 +1415,17 @@
     "image": "https://pcparts.uk/img.thumb.ef7df2631d69121d2110652494d7d3ab5d8c2f34178b4a2ae3fefe5c7fb6ef47.jpg",
     "source": "pcparts.uk",
     "external_id": "25496",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 669.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25496/gigabyte-radeon-rx-9070-xt-gaming-oc-16gb-gddr6-gr-gv-r9070xtgaming-oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5050 VENTUS 2X OC",
@@ -1079,7 +1439,17 @@
     "image": "https://pcparts.uk/img.thumb.8a8c9925986cc377ff039db57d45832ea3884aa673f3a028e82cd189e9a737fc.jpg",
     "source": "pcparts.uk",
     "external_id": "26396",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 289.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26396/msi-geforce-rtx-5050-ventus-2x-oc-8gb-gddr6-graphi-geforce-rtx-5050-8g-ventus-2x-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5070 VENTUS 2X OC WHITE",
@@ -1093,7 +1463,17 @@
     "image": "https://pcparts.uk/img.thumb.3c6b135c7ed7c903576203993dd96fc9c1c639d100de6b5dc17dc91444395c2e.png",
     "source": "pcparts.uk",
     "external_id": "25242",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 639.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25242/msi-geforce-rtx-5070-ventus-2x-oc-white-12gb-gddr7-geforce-rtx-5070-12g-ventus-2x-oc-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5070 GamingPro",
@@ -1121,7 +1501,17 @@
     "image": "https://pcparts.uk/img.thumb.858bd706d1e7055c0a3fe07c5028e7f3146b9108adf61146071853fba6753d09.jpg",
     "source": "pcparts.uk",
     "external_id": "25397",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 329.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25397/asus-geforce-rtx-5060-prime-oc-8gb-gddr7-graphics-prime-rtx5060-o8g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 TUF GAMING OC",
@@ -1135,7 +1525,17 @@
     "image": "https://pcparts.uk/img.thumb.4f8eca4137f95b24dd4e30c4404a692380c3dceb839ba111b85c75af8795cbcc.jpg",
     "source": "pcparts.uk",
     "external_id": "25394",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 343.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25394/asus-geforce-rtx-5060-tuf-gaming-oc-8gb-gddr7-grap-tuf-rtx5060-o8g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9060 XT TUF OC",
@@ -1177,7 +1577,17 @@
     "image": "https://pcparts.uk/img.thumb.209e9bbd8e8d3536aa6361219235221eff25f661b3b155f7ba25cab31a11186d.jpg",
     "source": "pcparts.uk",
     "external_id": "25573",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 259.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25573/gigabyte-geforce-rtx-5050-gaming-oc-8gb-gddr6-grap-gv-n5050gaming-oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 EAGLE OC",
@@ -1191,7 +1601,17 @@
     "image": "https://pcparts.uk/img.thumb.bd3fd9a1101da912ba43dd0bbebeebd1ceea7dfd5438561269b256bde50282a6.jpg",
     "source": "pcparts.uk",
     "external_id": "25410",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 303.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25410/gigabyte-geforce-rtx-5060-eagle-oc-8gb-gddr7-graph-gv-n5060eagle-oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 Ti AERO OC",
@@ -1219,7 +1639,17 @@
     "image": "https://pcparts.uk/img.thumb.66c4d5cbdf6822d26e17b5e441eb137ff6a5d709d363502291789bf5513e72a1.jpg",
     "source": "pcparts.uk",
     "external_id": "25426",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 363.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25426/gigabyte-geforce-rtx-5060-ti-eagle-oc-8gb-gddr7-gr-gv-n506teagle-oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 Ti EAGLE OC ICE",
@@ -1247,7 +1677,17 @@
     "image": "https://pcparts.uk/img.thumb.6b17aed0787dfa5be85c99b264e1536527bf49679ccef5edec13ac90b847e747.jpg",
     "source": "pcparts.uk",
     "external_id": "25425",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 359.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25425/gigabyte-geforce-rtx-5060-ti-eagle-oc-ice-8gb-gddr-gv-n506teagleoc-ice-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 Ti GAMING OC",
@@ -1261,7 +1701,17 @@
     "image": "https://pcparts.uk/img.thumb.84720b16b5579d8566c2930d1c1f5a893aa4ad78e118c2e142b2bc04d9dfa687.jpg",
     "source": "pcparts.uk",
     "external_id": "25423",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 399.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25423/gigabyte-geforce-rtx-5060-ti-gaming-oc-8gb-gddr7-g-gv-n506tgaming-oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5070 Ti EAGLE OC ICE SFF",
@@ -1275,7 +1725,17 @@
     "image": "https://pcparts.uk/img.thumb.3c44d7eb80cb7ea9cc9458531e7b3cc9b6a12705f5d6ea90ca9bcbcb6c7997a5.png",
     "source": "pcparts.uk",
     "external_id": "25230",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 896.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25230/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16gb-gv-n507teagleoc-ice-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5080 GAMING OC",
@@ -1289,7 +1749,17 @@
     "image": "https://pcparts.uk/img.thumb.7e58eedc66ef3c2e3b271cecd8da12f219be347dc6c8feba5fd0716e4b24803b.png",
     "source": "pcparts.uk",
     "external_id": "24946",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1224.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24946/gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7-gra-gv-n5080gaming-oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5060 VENTUS 2X OC",
@@ -1303,7 +1773,17 @@
     "image": "https://pcparts.uk/img.thumb.abc862972ff689d98623d12d42a51afce1cb38bd213fd77251914dfffe5da578.jpg",
     "source": "pcparts.uk",
     "external_id": "25417",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 299.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25417/msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-graphi-rtx-5060-8g-ventus-2x-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5070 GAMING TRIO OC",
@@ -1317,7 +1797,17 @@
     "image": "https://pcparts.uk/img.thumb.b7966a6ac4c642accffa67a13fcc96a1cfb3425094d7b45d26d6f0a53fa6ee23.png",
     "source": "pcparts.uk",
     "external_id": "25237",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 649.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25237/msi-geforce-rtx-5070-gaming-trio-oc-12gb-gddr7-gra-rtx-5070-12g-gaming-trio-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5080 16GB VENTUS 3X OC - White",
@@ -1346,7 +1836,17 @@
     "image": "https://pcparts.uk/img.thumb.4bc09503b8188a36dcf0552ff712a594c1f6283a129158ce2ceb7921faf32542.png",
     "source": "pcparts.uk",
     "external_id": "25414",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 294.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25414/palit-geforce-rtx-5060-dual-oc-8gb-gddr7-graphics-ne75060s19p1-gb2063d",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5060 Ti DUAL",
@@ -1360,7 +1860,17 @@
     "image": "https://pcparts.uk/img.thumb.cc9e37161a69809b4e1d4977d5ed2e708ca8888a56194fc3857327daaf6a0241.png",
     "source": "pcparts.uk",
     "external_id": "25436",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 349.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25436/palit-geforce-rtx-5060-ti-dual-8gb-gddr7-graphics-ne7506t019p1-gb2062d",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5060 Ti INFINITY 3",
@@ -1388,7 +1898,17 @@
     "image": "https://pcparts.uk/img.thumb.c5ce633a33e72ed73ab17202958b2b188b54c40a02a90b93ba0bc2b8b16f9461.png",
     "source": "pcparts.uk",
     "external_id": "25431",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 508.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25461/palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-gr-ne7506t019t1-gb2061s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5060 Ti INFINITY 3 OC",
@@ -1416,7 +1936,17 @@
     "image": "https://pcparts.uk/img.thumb.0077126695eed6930ea5906b8161c22eab5186be53f0919f22cb4a619492bbf9.png",
     "source": "pcparts.uk",
     "external_id": "24939",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1049.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24939/palit-geforce-rtx-5080-gamingpro-16gb-gddr7-graphi-ne75080019t2-gb2031a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9060 XT Swift OC",
@@ -1444,7 +1974,17 @@
     "image": "https://pcparts.uk/img.thumb.17df56b6ada091c2c06b4753582da4d3ad8f713d025e60fb56b5c5f557446ded.jpg",
     "source": "pcparts.uk",
     "external_id": "25501",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 679.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25501/xfx-radeon-rx-9070-xt-quicksilver-gaming-16gb-gddr-rx-97tqickb9",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9070 XT Swift Gaming",
@@ -1458,7 +1998,17 @@
     "image": "https://pcparts.uk/img.thumb.6a5eae8943e1f856c8ee2a661eabab03c5b0db55a63a23edb2ce7bee102214f3.jpg",
     "source": "pcparts.uk",
     "external_id": "25499",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 649.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25499/xfx-radeon-rx-9070-xt-swift-gaming-16gb-gddr6-grap-rx-97tswf3b9",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9070 XT Swift Gaming - White",
@@ -1472,7 +2022,17 @@
     "image": "https://pcparts.uk/img.thumb.02c9e9521a26618ed58c9c7acbd6ad935cc9a891e7d523ed87e8baeaae4a8e6c.jpg",
     "source": "pcparts.uk",
     "external_id": "25502",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 679.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25502/xfx-radeon-rx-9070-xt-swift-gaming-16gb-gddr6-grap-rx-97tswf3w9",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Radeon RX 9060 XT Challenger OC",
@@ -1514,7 +2074,17 @@
     "image": "https://pcparts.uk/img.thumb.363f0de54cd333bf7a61d01437bd9686f621b352613e1a8818c6d89b5a2b3503.png",
     "source": "pcparts.uk",
     "external_id": "24934",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1508.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24934/asus-geforce-rtx-5080-rog-astral-oc-16gb-gddr7-gra-rog-astral-rtx5080-o16g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS GeForce RTX 5070 Ti MASTER",
@@ -1528,7 +2098,17 @@
     "image": "https://pcparts.uk/img.thumb.5e1759ad1e48e0ffc863f04b5078ef1d6ff7dd0e13ebc1f3e039efd13bd72d5b.png",
     "source": "pcparts.uk",
     "external_id": "24945",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1017.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24945/gigabyte-aorus-geforce-rtx-5070-ti-master-16gb-gdd-gv-n507taorus-m-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS GeForce RTX 5080 MASTER",
@@ -1542,7 +2122,17 @@
     "image": "https://pcparts.uk/img.thumb.0531606027c70bd97f37011a5ec94fac06b8d111615bf7f6d986e57ceb63b8fe.png",
     "source": "pcparts.uk",
     "external_id": "24951",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1359.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24951/gigabyte-aorus-geforce-rtx-5080-master-16gb-gddr7-gv-n5080aorus-m-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS GeForce RTX 5080 MASTER ICE",
@@ -1556,7 +2146,17 @@
     "image": "https://pcparts.uk/img.thumb.a5bd3303be77ccdb632875dba7988e32cabcb686d45577bc5ead675778d5206e.png",
     "source": "pcparts.uk",
     "external_id": "24950",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1363.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24950/gigabyte-aorus-geforce-rtx-5080-master-ice-16gb-gd-gv-n5080aorusm-ice-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5050 Windforce OC",
@@ -1570,7 +2170,17 @@
     "image": "https://pcparts.uk/img.thumb.d8449845296e827350c77e0685b8e6543eadc3cb099c2f491069f447fb073931.jpg",
     "source": "pcparts.uk",
     "external_id": "25582",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 259.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25582/gigabyte-geforce-rtx-5050-windforce-oc-8gb-gddr6-g-gv-n5050wf2oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5060 DUAL",
@@ -1584,7 +2194,17 @@
     "image": "https://pcparts.uk/img.thumb.9f899c8469206efe57dec646843fe8a8dbd8344ed9eee058e5eaf25ea2005de6.png",
     "source": "pcparts.uk",
     "external_id": "25420",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 333.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25420/palit-geforce-rtx-5060-dual-8gb-gddr7-graphics-car-ne75060019p1-gb2063d",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 7900 XTX SPEEDSTER MERC 310",
@@ -1626,7 +2246,17 @@
     "image": "https://pcparts.uk/img.thumb.ac342c1b060a859b3de79a8022c2f5332f1b053072f8f2609d403227aac54934.jpg",
     "source": "pcparts.uk",
     "external_id": "25500",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 689.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25500/xfx-radeon-rx-9070-xt-quicksilver-gaming-16gb-gddr-rx-97tqickw9",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce GT 730",
@@ -1650,7 +2280,17 @@
     "image": "https://pcparts.uk/img.thumb.587169149f9c2fababda4263e2353cd513736476cf176d2736463a3c8b1fb7ab.jpg",
     "source": "pcparts.uk",
     "external_id": "13751",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 67.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13751/asus-geforce-gt-730-2gb-gddr5-graphics-card-90yv06n2-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5050 Prime OC",
@@ -1664,7 +2304,17 @@
     "image": "https://pcparts.uk/img.thumb.de4059f50f470569b3be8efa3ae8c17343af86351028ee6fb06bcbb2552a6ecd.jpg",
     "source": "pcparts.uk",
     "external_id": "25577",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 347.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25577/asus-geforce-rtx-5050-prime-oc-8gb-gddr6-graphics-90yv0n70-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5070 Ti TUF Gaming BTF OC - White",
@@ -1678,7 +2328,17 @@
     "image": "https://pcparts.uk/img.thumb.8943b08c412e1772ec4685bdf484928567361932c8e2415fb20c3ae2f350bd43.jpg",
     "source": "pcparts.uk",
     "external_id": "25586",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 999.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25586/asus-geforce-rtx-5070-ti-tuf-gaming-btf-oc-16gb-gd-90yv0n60-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5080 ROG Astral White OC",
@@ -1692,7 +2352,17 @@
     "image": "https://pcparts.uk/img.thumb.ae5d18512158f646d2b94c0f4a923f21b5034994eb1819a944af97773a76c5ae.jpg",
     "source": "pcparts.uk",
     "external_id": "25585",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1599.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25585/asus-geforce-rtx-5080-rog-astral-white-oc-16gb-gdd-90yv0lv4-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS PRIME GeForce RTX 5070 Ti OC",
@@ -1706,7 +2376,17 @@
     "image": "https://pcparts.uk/img.thumb.ba174101257aebf2434a2e062aa060b609c7576d466e63eda18a9e477ac68aef.png",
     "source": "pcparts.uk",
     "external_id": "25256",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 869.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25256/asus-prime-geforce-rtx-5070-ti-oc-16gb-gddr7-graph-prime-rtx5070ti-o16g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9060 XT Prime OC",
@@ -1734,7 +2414,17 @@
     "image": "https://pcparts.uk/img.thumb.febcb09b553d5484c5982ddbdb077568f3db510eafe1a5d6fb5ac392fb93d03b.png",
     "source": "pcparts.uk",
     "external_id": "25276",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 699.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25276/asus-radeon-rx-9070-tuf-gaming-oc-16gb-gddr6-graph-tuf-rx9070-o16g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS GeForce RTX 5070 MASTER",
@@ -1748,7 +2438,17 @@
     "image": "https://pcparts.uk/img.thumb.a9cce3878c93ba68eb1a217a6141b1e2b30b284408c4633d4906668f630bd3d8.png",
     "source": "pcparts.uk",
     "external_id": "24943",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 689.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24943/gigabyte-aorus-geforce-rtx-5070-master-12gb-gddr7-gv-n5070aorus-m-12gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Inno3D GeForce RTX 5060 Ti Twin X2",
@@ -1818,7 +2518,17 @@
     "image": "https://pcparts.uk/img.thumb.06f583cd692e242ad78c225663c3e8643c14f39775afa6ac2d9aed58e83daa5f.jpg",
     "source": "pcparts.uk",
     "external_id": "25415",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 309.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25415/msi-geforce-rtx-5060-gaming-oc-8gb-gddr7-graphics-geforce-rtx-5060-8g-gaming-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS",
@@ -1860,7 +2570,17 @@
     "image": "https://pcparts.uk/img.thumb.1b2be675b65c7ce139715002b9929756449d7d457e86c622f2384ae90b469647.png",
     "source": "pcparts.uk",
     "external_id": "25456",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 567.49,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25456/palit-geforce-rtx-5060-ti-infinity-3-oc-16gb-gddr7-ne7506ts19t1-gb2061s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "PowerColor Radeon RX 9060 XT HellHound OC",
@@ -1886,7 +2606,17 @@
     "image": "https://pcparts.uk/img.thumb.e3c46f952085214f96936f2cd32779d23959ff4c76ec5353d4a6739b7be96cca.jpg",
     "source": "pcparts.uk",
     "external_id": "3204",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 79.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/3204/asus-geforce-gt-1030-2gb-gddr5-graphics-card-90yv0at0-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 Ti TUF Gaming OC",
@@ -1900,7 +2630,17 @@
     "image": "https://pcparts.uk/img.thumb.5add60385002287d4c36b006506f284e1e11967784c6fc97ffb96953c52b54d9.jpg",
     "source": "pcparts.uk",
     "external_id": "25510",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 624.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25440/asus-geforce-rtx-5060-ti-tuf-gaming-oc-16gb-gddr7-tuf-rtx5060ti-o16g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 OC Low Profile",
@@ -1970,7 +2710,17 @@
     "image": "https://pcparts.uk/img.thumb.7c14c91e1431438515c2a6da223a03c8d670be85088fa365ee4731a5ac2ab595.jpg",
     "source": "pcparts.uk",
     "external_id": "25429",
-    "scraped_at": "2026-07-11T13:47:08.699407+00:00"
+    "scraped_at": "2026-07-11T13:47:08.699407+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 349.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25429/gigabyte-geforce-rtx-5060-ti-windforce-oc-8gb-gddr-gv-n506twf2oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5090 WINDFORCE OC",
@@ -1984,7 +2734,17 @@
     "image": "https://pcparts.uk/img.thumb.0d13c0cfcf6db811557d88de344fb34e2e78e6cfe6e6cf6bbfbaf519aa429497.png",
     "source": "pcparts.uk",
     "external_id": "25042",
-    "scraped_at": "2026-07-11T13:47:08.701409+00:00"
+    "scraped_at": "2026-07-11T13:47:08.701409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 4390.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25042/gigabyte-geforce-rtx-5090-windforce-oc-32gb-gddr7-gv-n5090wf3oc-32gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte Radeon RX 9060 XT GAMING OC",
@@ -1998,7 +2758,17 @@
     "image": "https://pcparts.uk/img.thumb.fefd768d0e0cdd0e55f57b8f84bc8b0b24aec768de3fefc2d653878a4240714a.jpg",
     "source": "pcparts.uk",
     "external_id": "25599",
-    "scraped_at": "2026-07-11T13:47:08.701409+00:00"
+    "scraped_at": "2026-07-11T13:47:08.701409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 408.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25599/gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6-gr-gv-r9060xtgaming-oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Inno3D GeForce RTX 5070 Twin X2 OC",
@@ -2026,7 +2796,17 @@
     "image": "https://pcparts.uk/img.thumb.32105de4bd6411338654a626998ddd52ac39cb1071b5a2c03d7c1e7ce8be06ee.jpg",
     "source": "pcparts.uk",
     "external_id": "25293",
-    "scraped_at": "2026-07-11T13:47:08.701409+00:00"
+    "scraped_at": "2026-07-11T13:47:08.701409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 179.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25293/msi-geforce-rtx-3050-ventus-2x-e-oc-6gb-gddr6-grap-rtx-3050-ventus-2x-e-6g-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 3050 VENTUS 2X XS WHITE OC - White",
@@ -2040,7 +2820,17 @@
     "image": "https://pcparts.uk/img.thumb.f59bb9e0490f3075459913863539bab147f3823e29961ba0f95d2074485977ad.jpg",
     "source": "pcparts.uk",
     "external_id": "24874",
-    "scraped_at": "2026-07-11T13:47:08.701409+00:00"
+    "scraped_at": "2026-07-11T13:47:08.701409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 287.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24874/msi-geforce-rtx-3050-ventus-2x-xs-white-oc-8gb-gdd-geforce-rtx-3050-ventus-2x-xs-white-8g-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5060 Ti GAMING OC",
@@ -2068,7 +2858,17 @@
     "image": "https://pcparts.uk/img.thumb.ee0799bdd334d95165374c977b41f32ead1ce316e4c38422c4dca0ddab4e2cd5.png",
     "source": "pcparts.uk",
     "external_id": "26398",
-    "scraped_at": "2026-07-11T13:47:08.701409+00:00"
+    "scraped_at": "2026-07-11T13:47:08.701409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 297.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26398/palit-geforce-rtx-5050-dual-8gb-gddr6-graphics-car-ne65050019p1-gb2070d",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5060 Ti DUAL OC",
@@ -2082,7 +2882,17 @@
     "image": "https://pcparts.uk/img.thumb.40c93787de85cb1f8daabd5c035c455c3357a520edcf4bd432efae91f2e0cde6.png",
     "source": "pcparts.uk",
     "external_id": "25432",
-    "scraped_at": "2026-07-11T13:47:08.701409+00:00"
+    "scraped_at": "2026-07-11T13:47:08.701409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 299.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25432/palit-geforce-rtx-5060-ti-dual-oc-8gb-gddr7-graphi-ne7506tt19p1-gb2062d",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5070 INFINITY 3",
@@ -2096,7 +2906,17 @@
     "image": "https://pcparts.uk/img.thumb.6f3055f196e423a2b9abb5106bcd9f2d5f8dd845395316a1b9314e4a7941e1e7.png",
     "source": "pcparts.uk",
     "external_id": "25467",
-    "scraped_at": "2026-07-11T13:47:08.701409+00:00"
+    "scraped_at": "2026-07-11T13:47:08.701409+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 607.46,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25467/palit-geforce-rtx-5070-infinity-3-12gb-gddr7-graph-ne75070019k9-gb2050s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5090 GameRock",
@@ -2124,7 +2944,17 @@
     "image": "https://pcparts.uk/img.thumb.50988607f39955efe6432a0cf3ee1b4519799de65a4732959abd10f1d09e84d9.jpg",
     "source": "pcparts.uk",
     "external_id": "25596",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 429.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25596/xfx-radeon-rx-9060-xt-swift-oc-16gb-gddr6-graphics-rx-96ts316b7",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9070 XT Quicksilver Magnetic Air - White",
@@ -2138,7 +2968,17 @@
     "image": "https://pcparts.uk/img.thumb.018cd04d1a4903259a52408fc7795ae299a0afd836e2d60438bc354706a6a697.jpg",
     "source": "pcparts.uk",
     "external_id": "25498",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 664.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25498/xfx-radeon-rx-9070-xt-quicksilver-magnetic-air-16g-rx-97tmaqkw9",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9070 XT Swift OC - Black",
@@ -2152,7 +2992,17 @@
     "image": "https://pcparts.uk/img.thumb.6a5eae8943e1f856c8ee2a661eabab03c5b0db55a63a23edb2ce7bee102214f3.jpg",
     "source": "pcparts.uk",
     "external_id": "25489",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 589.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25489/xfx-radeon-rx-9070-xt-swift-oc-16gb-gddr6-graphics-rx-97swfb3b9",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Radeon RX 7600 Challenger OC",
@@ -2166,7 +3016,17 @@
     "image": "https://pcparts.uk/img.thumb.0aa6814ac45faf38b0885fa2167fb9e751b3e0f5f4b2a35705f0a408d791b7e8.png",
     "source": "pcparts.uk",
     "external_id": "20800",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 289.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/20800/asrock-radeon-rx-7600-challenger-oc-8gb-gddr6-grap-90-ga41zz-00uanf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Radeon RX 9070 XT Steel Legend",
@@ -2180,7 +3040,17 @@
     "image": "https://pcparts.uk/img.thumb.220959bec80afb8cccced1336b3fa562ecad429e10cb192e7ec9e5f0731fa96b.png",
     "source": "pcparts.uk",
     "external_id": "25300",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 669.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25300/asrock-radeon-rx-9070-xt-steel-legend-16gb-gddr6-g-rx9070xt-sl-16g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 TUF GAMING",
@@ -2250,7 +3120,17 @@
     "image": "https://pcparts.uk/img.thumb.9248152686d310f4452d711c134a569b50f673420987f8e8db383855382311dc.jpg",
     "source": "pcparts.uk",
     "external_id": "25591",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 409.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25563/asus-radeon-rx-9060-xt-dual-16gb-gddr6-graphics-ca-90yv0lg2-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9060 XT Prime OC",
@@ -2264,7 +3144,17 @@
     "image": "https://pcparts.uk/img.thumb.af54ffb391e9d356da78031ed9ae6ee55f7c50c38a1302bb6b48359dae88f27c.jpg",
     "source": "pcparts.uk",
     "external_id": "25590",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 436.89,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25597/asus-radeon-rx-9060-xt-prime-oc-16gb-gddr6-graphic-prime-rx9060xt-o16g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 Ti WINDFORCE",
@@ -2278,7 +3168,17 @@
     "image": "https://pcparts.uk/img.thumb.f177f2721fb50c2fe5a06235436c6568f4804a3a98d13aacaad483d901a42ecf.jpg",
     "source": "pcparts.uk",
     "external_id": "25457",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 483.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25427/gigabyte-geforce-rtx-5060-ti-windforce-8gb-gddr7-g-gv-n506twf2-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5070 Ti WINDFORCE SFF",
@@ -2334,7 +3234,17 @@
     "image": "https://pcparts.uk/img.thumb.0840231532ff5190e984f8625b8cbde1b9f54740edc0f6a20a57e55ccc8315e5.jpg",
     "source": "pcparts.uk",
     "external_id": "25298",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 869.98,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25298/msi-geforce-rtx-5070-ti-ventus-3x-oc-16gb-gddr7-gr-rtx-5070-ti-16g-ventus-3x-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5050 StormX",
@@ -2348,7 +3258,17 @@
     "image": "https://pcparts.uk/img.thumb.30233f97dff21e139bb0a1467c7894a87b399c9048d99a54cf4c4edda186ae56.png",
     "source": "pcparts.uk",
     "external_id": "26773",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 219.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26773/palit-geforce-rtx-5050-stormx-8gb-gddr6-graphics-c-ne65050019p1-gb2070f",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5070 Ti GamingPro",
@@ -2390,7 +3310,17 @@
     "image": "https://pcparts.uk/img.thumb.6e4cc6b2f02970ae9df08999992b9e007be8f9c6c725bc5b33cc4adb7cb6c5c3.webp",
     "source": "pcparts.uk",
     "external_id": "25282",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 621.06,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25282/powercolor-radeon-rx-9070-reaper-16gb-gddr6-graphi-rx9070-16g-a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9060XT Swift OC - White",
@@ -2404,7 +3334,17 @@
     "image": "https://pcparts.uk/img.thumb.fb749cb956d47eb257c7a059ca8f6110926fa0ab7f4425a78ff041bfa80801c8.jpg",
     "source": "pcparts.uk",
     "external_id": "26777",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 359.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26777/xfx-radeon-rx-9060xt-swift-oc-8gb-gddr6-graphics-c-rx-96tsw8gwq",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9070 XT Mercury OC Gaming",
@@ -2418,7 +3358,17 @@
     "image": "https://pcparts.uk/img.thumb.691e886193b36634c3063de91a16b33cbdc92bcfa602f42c1ef935f69686614d.jpg",
     "source": "pcparts.uk",
     "external_id": "25494",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 699.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25494/xfx-radeon-rx-9070-xt-mercury-oc-gaming-16gb-gddr6-rx-97trgbbb9",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Acer Radeon RX 9070 XT OC Nitro",
@@ -2432,7 +3382,17 @@
     "image": "https://pcparts.uk/img.thumb.891d0a9321104a84eb9e9f566786fa8c069e70a4cc5acedc22415e690d403432.webp",
     "source": "pcparts.uk",
     "external_id": "26780",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 699.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26780/acer-radeon-rx-9070-xt-oc-nitro-16gb-gddr6-graphic-dpz4dwwp01",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Intel Arc B580 Steel Legend OC",
@@ -2472,7 +3432,17 @@
     "image": "https://pcparts.uk/img.thumb.c21ca419fc1bfbdd961550ff157ff8184712197672b103f57485d7bfa61bbd6a.jpg",
     "source": "pcparts.uk",
     "external_id": "21383",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 276.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21383/asus-geforce-rtx-3050-dual-oc-v2-8gb-gddr6-graphic-90yv0gh6-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 DUAL OC - White",
@@ -2486,7 +3456,17 @@
     "image": "https://pcparts.uk/img.thumb.f6ba56eeab50525bf5106fd722a01ff3869b37740fc0342cdb142f6bf5974510.jpg",
     "source": "pcparts.uk",
     "external_id": "26391",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 299.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26391/asus-geforce-rtx-5060-dual-oc-8gb-gddr7-graphics-c-90yv0n15-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 LP BRK OC SFF",
@@ -2500,7 +3480,17 @@
     "image": "https://pcparts.uk/img.thumb.18da1ae1540e7c424287b69eec1097c065aabf1b54842ceb6851820affd52c84.jpg",
     "source": "pcparts.uk",
     "external_id": "25887",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 358.74,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25887/asus-geforce-rtx-5060-lp-brk-oc-sff-8gb-gddr7-grap-90yv0n90-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 Ti Dual OC - White",
@@ -2528,7 +3518,17 @@
     "image": "https://pcparts.uk/img.thumb.3bab6bef8e9c5286326f6cbde5e2d8e620ea382cb40ce25c21eb84cfaf0e3703.jpg",
     "source": "pcparts.uk",
     "external_id": "25568",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1494.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25568/asus-geforce-rtx-5080-proart-oc-16gb-gddr7-graphic-90yv0n30-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9060 XT Dual - White",
@@ -2542,7 +3542,17 @@
     "image": "https://pcparts.uk/img.thumb.3cc2f1b54635adb64818c34aa763ef4f5b6e514c90566bf752fdc901bd69fd7a.jpg",
     "source": "pcparts.uk",
     "external_id": "26168",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 412.81,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26168/asus-radeon-rx-9060-xt-dual-16gb-gddr6-graphics-ca-dual-rx9060xt-16g-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9070 EVO PRIME OC",
@@ -2556,7 +3566,17 @@
     "image": "https://pcparts.uk/img.thumb.a5185732eecde7401bba4f2cc87040d280827f5144ce779dd26cdc768e5643e5.jpg",
     "source": "pcparts.uk",
     "external_id": "26167",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 691.69,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26167/asus-radeon-rx-9070-evo-prime-oc-16gb-gddr6-graphi-prime-rx9070-o16g-evo",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 9070 XT Prime OC - White",
@@ -2570,7 +3590,17 @@
     "image": "https://pcparts.uk/img.thumb.0de99bd7cf9ce7dd341f2f43b387ef03cc87be17cd650355f3e5f63f4dc5cdb0.jpg",
     "source": "pcparts.uk",
     "external_id": "26770",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 624.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26770/asus-radeon-rx-9070-xt-prime-oc-16gb-gddr6-graphic-90yv0l75-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS GeForce RTX 5090 MASTER",
@@ -2596,7 +3626,17 @@
     "image": "https://pcparts.uk/img.thumb.567ddc6d3bea6f8ac64158df877a4abed1c0c6672a6a28d3332f3b4c25466ef6.jpg",
     "source": "pcparts.uk",
     "external_id": "3316",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 86.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/3316/gigabyte-geforce-gt-1030-low-profile-d4-2gb-gddr4-gv-n1030d4-2gl",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 3060 Windforce OC V2",
@@ -2624,7 +3664,17 @@
     "image": "https://pcparts.uk/img.thumb.8840462da473dbde9a66ec08cee935fd59d57a0bbdaf4eae08aadbcb0bcfd4dc.jpg",
     "source": "pcparts.uk",
     "external_id": "25409",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 299.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25409/gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr7-g-gv-n5060eagleoc-ice-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 Ti WINDFORCE MAX OC",
@@ -2638,7 +3688,17 @@
     "image": "https://pcparts.uk/img.thumb.1318f0d0b7007840a91fe1630f720daf2384ff392f931cd5dc43315d6741d20c.jpg",
     "source": "pcparts.uk",
     "external_id": "25571",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 629.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25571/gigabyte-geforce-rtx-5060-ti-windforce-max-oc-16gb-gv-n506twf2max-oc-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 WINDFORCE OC",
@@ -2652,7 +3712,17 @@
     "image": "https://pcparts.uk/img.thumb.463b67badd216f238edc98fe71e111e717fdc8a109829d2e14b68abb55c80202.jpg",
     "source": "pcparts.uk",
     "external_id": "25412",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 289.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25412/gigabyte-geforce-rtx-5060-windforce-oc-8gb-gddr7-g-gv-n5060wf2oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte Radeon RX 7600 Gaming OC",
@@ -2723,7 +3793,17 @@
     "image": "https://pcparts.uk/img.thumb.ecda427ec983d219c18940e32c9e58cd00fec69c3b1623f87c7bd64046e1508e.jpg",
     "source": "pcparts.uk",
     "external_id": "25407",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 329.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25407/msi-geforce-rtx-5060-8gb-ventus-2x-oc-white-gddr7-geforce-rtx-5060-8g-ventus-2x-oc-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5080 GAMING TRIO OC",
@@ -2737,7 +3817,17 @@
     "image": "https://pcparts.uk/img.thumb.7c0bcd5845ac60dad2276f83ec9a31275febd879caa4f6fdc4267e454a0e8698.png",
     "source": "pcparts.uk",
     "external_id": "24954",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1299.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24954/msi-geforce-rtx-5080-gaming-trio-oc-16gb-gddr7-gra-geforce-rtx-5080-16g-gaming-trio-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5080 SUPRIM LIQUID SOC",
@@ -2779,7 +3869,17 @@
     "image": "https://pcparts.uk/img.thumb.5fe9db5e08a76038d80d972d7480e16ca0029072ca8187045e9fde4b5b976ce3.png",
     "source": "pcparts.uk",
     "external_id": "25406",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 299.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25406/palit-geforce-rtx-5060-infinity-3-8gb-gddr7-graphi-ne75060019p1-gb2063s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5060 INFINITY 3 OC",
@@ -2793,7 +3893,17 @@
     "image": "https://pcparts.uk/img.thumb.bb15b6d3720cbfaf61c35f8fc546e57a4649c978f199d1e130a9252a4a25120e.png",
     "source": "pcparts.uk",
     "external_id": "25405",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 309.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25405/palit-geforce-rtx-5060-infinity-3-oc-8gb-gddr7-gra-ne75060t19p1-gb2063s",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5070 Ti GamingPro-S",
@@ -2835,7 +3945,17 @@
     "image": "https://pcparts.uk/img.thumb.8f6b8c9efd4986ce73780d9c9fa8b0db37612f891a3314904c153ede6bc17383.png",
     "source": "pcparts.uk",
     "external_id": "25263",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1259.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25263/pny-geforce-rtx-5080-argb-epic-x-rgb-oc-32gb-gddr7-vcg508016tfxxpb1-o",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "PNY GeForce RTX 5080 OC",
@@ -2849,7 +3969,17 @@
     "image": "https://pcparts.uk/img.thumb.31dd280614717c891422cec0c8675ed8d70ec0bdbad575aafb9df884d7862dea.png",
     "source": "pcparts.uk",
     "external_id": "25266",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1167.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25266/pny-geforce-rtx-5080-oc-32gb-gddr7-graphics-card-vcg508016tfxpb1-o",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "PowerColor Radeon RX 7600 FIGHTER",
@@ -2891,7 +4021,17 @@
     "image": "https://pcparts.uk/img.thumb.30ed148ea9dff48894cc6d7cc14da3cbb5e4e320df1ac5586c44064a87a9f82f.webp",
     "source": "pcparts.uk",
     "external_id": "25569",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 399.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25569/powercolor-radeon-rx-9060-xt-reaper-16gb-gddr6-gra-rx9060xt-16g-a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "PowerColor Radeon RX 9070 XT REAPER",
@@ -2905,7 +4045,17 @@
     "image": "https://pcparts.uk/img.thumb.a305091e889c0d620e841f00928bad9245dc5f69e970177317f9f2d639b26800.webp",
     "source": "pcparts.uk",
     "external_id": "25291",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 679.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25291/powercolor-radeon-rx-9070-xt-reaper-16gb-gddr6-gra-rx9070xt-16g-a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "PowerColor Radeon RX 9070 XT RED DEVIL",
@@ -2919,7 +4069,17 @@
     "image": "https://pcparts.uk/img.thumb.39378dec845efc2f0840b4d06cb98f2f765254e9943e67014b8b27fe6477c3eb.webp",
     "source": "pcparts.uk",
     "external_id": "25289",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 739.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25289/powercolor-radeon-rx-9070-xt-red-devil-16gb-gddr6-rx9070xt-16g-eoc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9060 XT Swift White OC",
@@ -2933,7 +4093,17 @@
     "image": "https://pcparts.uk/img.thumb.b104fb20f488f8b12d09d9f7c5347d4daea829c6eae2f560c7c203ba64586d11.jpg",
     "source": "pcparts.uk",
     "external_id": "25595",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 459.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25595/xfx-radeon-rx-9060-xt-swift-white-oc-16gb-gddr6-gr-rx-96ts316w7",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9070 OC Swift - White",
@@ -2947,7 +4117,17 @@
     "image": "https://pcparts.uk/img.thumb.85e61b4fe18145dc9244f537f0c1cdb420992e80785d59fae8957fa7009bdf44.jpg",
     "source": "pcparts.uk",
     "external_id": "25488",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 599.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25488/xfx-radeon-rx-9070-oc-swift-16gb-gddr6-graphics-ca-rx-97swfb3w9",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "XFX Radeon RX 9070 QuickSilver OC",
@@ -3003,7 +4183,17 @@
     "image": "https://pcparts.uk/img.thumb.dbb52280c0486e3127cb9e0bd9da7726cb2613da88d5c5550e2c527d1932967a.jpg",
     "source": "pcparts.uk",
     "external_id": "25458",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 565.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25458/zotac-geforce-rtx-5060-ti-twin-edge-oc-16gb-gddr7-zt-b50620h-10m",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Radeon RX 7900 XTX Phantom OC",
@@ -3031,7 +4221,17 @@
     "image": "https://pcparts.uk/img.thumb.e4c4425c64d365f95500fd1352466f8849820c02c2c5e103d615c8dc8adea6c9.png",
     "source": "pcparts.uk",
     "external_id": "25561",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 489.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25561/asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6-90-ga5qzz-00uanf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5080 ROG Astral",
@@ -3073,7 +4273,17 @@
     "image": "https://pcparts.uk/img.thumb.26960ad01dab55d06ec0536f43fc57768435dcbf1f357b44eabced2e8985e1b9.png",
     "source": "pcparts.uk",
     "external_id": "25271",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 3459.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25271/asus-rog-astral-geforce-rtx-5090-oc-32gb-gddr7-gra-rog-astral-rtx5090-o32g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 3050 WINDFORCE OC V2",
@@ -3087,7 +4297,17 @@
     "image": "https://pcparts.uk/img.thumb.211e10768388ec6d9c9ad5f4c7ee6d25d32e46d8a911a9818043bfa8a2befac0.jpg",
     "source": "pcparts.uk",
     "external_id": "25601",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 197.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25601/gigabyte-geforce-rtx-3050-windforce-oc-v2-6gb-gddr-gv-n3050wf2ocv2-6gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 AERO OC",
@@ -3101,7 +4321,17 @@
     "image": "https://pcparts.uk/img.thumb.011b3238d83a329c6080ddf6e5f6c924139bc5d4f1febb29a7bef6edab397ea1.jpg",
     "source": "pcparts.uk",
     "external_id": "25401",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 347.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25401/gigabyte-geforce-rtx-5060-aero-oc-8gb-gddr7-graphi-gv-n5060aero-oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 AORUS Elite",
@@ -3127,7 +4357,17 @@
     "image": "https://pcparts.uk/img.thumb.43737cc0161363e444bdc3496602edaaef5e1ff2191e58b93637a44b5da16808.jpg",
     "source": "pcparts.uk",
     "external_id": "2941",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 43.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/2941/msi-geforce-gt-710-silent-low-profile-2gb-ddr3-gra-v809-2000r",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5060 Ti GAMING TRIO OC - White",
@@ -3155,7 +4395,17 @@
     "image": "https://pcparts.uk/img.thumb.383099eddda7ee2d3d72d9bda9ccd18f73b621599c819c05e176cdbe29a0f7ce.png",
     "source": "pcparts.uk",
     "external_id": "24936",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1192.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24936/palit-geforce-rtx-5080-gamingpro-oc-16gb-gddr7-gra-ne75080s19t2-gb2031a",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "PNY NVIDIA T1000",
@@ -3181,7 +4431,17 @@
     "image": "https://pcparts.uk/img.thumb.8c08e3aa83ad5f02af1ac878d0dd283dccf92121b35876c3aaa1eaae9d6fa5e2.webp",
     "source": "pcparts.uk",
     "external_id": "25281",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 619.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25281/powercolor-radeon-rx-9070-hellhound-16gb-gddr6-gra-rx9070-16g-loc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "PowerColor Radeon RX 9070 RED DEVIL",
@@ -3209,7 +4469,17 @@
     "image": "https://pcparts.uk/img.thumb.b03e35f3f2e6efa715b71582f61b446672fb1838bf9f79c29c14f1d05beb3fbb.webp",
     "source": "pcparts.uk",
     "external_id": "25290",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 749.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25290/powercolor-radeon-rx-9070-xt-hellhound-16gb-gddr6-rx9070xt-16g-loc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "PowerColor RX 9070 XT Red Devil - Special Backplate Edition",
@@ -3249,7 +4519,17 @@
     "image": "https://pcparts.uk/img.thumb.c7f52232dab34b7fe0ea85d67e3444cefb3b336121eb5b519c5ccf30f91ccb97.webp",
     "source": "pcparts.uk",
     "external_id": "26781",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 239.0,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26781/acer-arc-b570-nitro-oc-10gb-gddr6-graphics-card-dpz4cwwp01",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Intel Arc A770 Phantom Gaming OC",
@@ -3289,7 +4569,17 @@
     "image": "https://pcparts.uk/img.thumb.aacdbbbec04be24dc1577c3633dd1fd36957f0dff733841378cc575e7b7d7d74.png",
     "source": "pcparts.uk",
     "external_id": "25302",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 659.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25302/asrock-radeon-rx-9070-challenger-16gb-gddr6-graphi-rx9070-cl-16g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Radeon RX 9070 Steel Legend OC",
@@ -3303,7 +4593,17 @@
     "image": "https://pcparts.uk/img.thumb.34a33eab582729a86a311109e075714cf550bcfc3fbe3bd697a5bdf41b7fab23.png",
     "source": "pcparts.uk",
     "external_id": "25303",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 800.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25303/asrock-radeon-rx-9070-steel-legend-oc-16gb-gddr6-g-90-ga5ezz-00uanf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 3050 DUAL OC",
@@ -3317,7 +4617,17 @@
     "image": "https://pcparts.uk/img.thumb.789b05aca243f6f961aaa200a6116adae84def4649a26bbd7a98a6e853769f76.jpg",
     "source": "pcparts.uk",
     "external_id": "23350",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 163.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23350/asus-geforce-rtx-3050-dual-oc-6gb-gddr6-graphics-c-dual-rtx3050-o6g",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 Ti PRIME",
@@ -3371,7 +4681,17 @@
     "image": "https://pcparts.uk/img.thumb.d0a603c177a0c101cab51c759946a458cf2be800b8feeb771c68187bba639226.jpg",
     "source": "pcparts.uk",
     "external_id": "13766",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 74.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/13766/asus-gt-1030-low-profile-2gb-gddr5-graphics-card-gt1030-2g-brk",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS PRIME GeForce RTX 5070 Ti",
@@ -3441,7 +4761,17 @@
     "image": "https://pcparts.uk/img.thumb.552cc5dc61015e1c8bb4c35bbfab4d8931cb0d94e75d857bd908fcb60712881d.jpg",
     "source": "pcparts.uk",
     "external_id": "23992",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 391.62,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/23992/gigabyte-geforce-rtx-3050-oc-lp-6gb-gddr6-graphics-gv-n3050oc-6gl",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 3060 Gaming OC V2",
@@ -3679,7 +5009,17 @@
     "image": "https://pcparts.uk/img.thumb.ecb2d0d91187d2910ca58b659bb887500030367394935081221e4d7778febb9d.png",
     "source": "pcparts.uk",
     "external_id": "24956",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1379.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24956/msi-geforce-rtx-5080-gaming-trio-oc-white-16gb-gdd-geforce-rtx-5080-16g-gaming-trio-oc-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5080 VENTUS 3X OC",
@@ -3693,7 +5033,17 @@
     "image": "https://pcparts.uk/img.thumb.d8d5b6aefb8ffc7813b061fe625a075372be93920bfc12c07afd1d32835a6809.jpg",
     "source": "pcparts.uk",
     "external_id": "25268",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1199.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25268/msi-geforce-rtx-5080-ventus-3x-oc-16gb-gddr7-graph-geforce-rtx-5080-16g-ventus-3x-oc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5090 SUPRIM SOC",
@@ -3721,7 +5071,17 @@
     "image": "https://pcparts.uk/img.thumb.107ebbc514f00378dcdfb0ddcbfde56afcbeb52093801e5aa15a91210b746af1.png",
     "source": "pcparts.uk",
     "external_id": "26397",
-    "scraped_at": "2026-07-11T13:47:13.105000+00:00"
+    "scraped_at": "2026-07-11T13:47:13.105000+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 284.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26397/palit-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-ne65050s19p1-gb2070d",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 5070 Ti GameRock",
@@ -3841,7 +5201,17 @@
     "image": "https://pcparts.uk/img.thumb.56df7a13d96283fb338467133efae5dcadf1ef7a33004217b08b3c9e0f41b405.jpg",
     "source": "pcparts.uk",
     "external_id": "25495",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 719.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25495/xfx-radeon-rx-9070-xt-mercury-oc-white-gaming-16gb-rx-97trgbbw9",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Acer Radeon RX 9070 XT Predator BiFrost OC",
@@ -3909,7 +5279,17 @@
     "image": "https://pcparts.uk/img.thumb.4efad683e7aaa703782cc841714880478df959a02c2719c05a652f573fae0706.jpg",
     "source": "pcparts.uk",
     "external_id": "26394",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1083.32,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26394/asus-geforce-rtx-5070-ti-proart-oc-16gb-gddr7-grap-90yv0nr0-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 EAGLE MAX OC",
@@ -3923,7 +5303,17 @@
     "image": "https://pcparts.uk/img.thumb.9cc0d57b125bd7feb8e7ea5efc9c51fa03c7891d1ea82e89f013f73f0d03f392.jpg",
     "source": "pcparts.uk",
     "external_id": "26392",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 330.42,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26392/gigabyte-geforce-rtx-5060-eagle-max-oc-8gb-gddr7-g-gv-n5060eaglemax-oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte GeForce RTX 5060 WINDFORCE MAX OC",
@@ -3937,7 +5327,17 @@
     "image": "https://pcparts.uk/img.thumb.47d6c7a92d7e88d0501d315190452409da2f3e42dcb824011bdaa9ca49e99304.jpg",
     "source": "pcparts.uk",
     "external_id": "25574",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 289.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25574/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-gdd-gv-n5060wf2max-oc-8gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Inno3D GeForce RTX 5060 Ti Twin X2 OC - White",
@@ -3951,7 +5351,17 @@
     "image": "https://pcparts.uk/img.thumb.0a035c4332ef0ec3c35d81d6498c33bc2eae5f4604477788c9ae320b6fd8793d.png",
     "source": "pcparts.uk",
     "external_id": "25505",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 512.1,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25505/inno3d-geforce-rtx-5060-ti-twin-x2-oc-8gb-gddr7-gr-n506t2-08d7x-193075w",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Inno3D GeForce RTX 5070 Ti X3",
@@ -3979,7 +5389,17 @@
     "image": "https://pcparts.uk/img.thumb.6b795edae02bb292721e4fd7a4da52f0ee65f4b7a96437611f58c6ea2d8d9b0d.jpg",
     "source": "pcparts.uk",
     "external_id": "25459",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 529.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25459/msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-16gb-gdd-rtx-5060-ti-16g-ventus-2x-oc-plus",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "MSI GeForce RTX 5070 Ti GAMING TRIO OC WHITE",
@@ -4007,7 +5427,17 @@
     "image": "https://pcparts.uk/img.thumb.b8de4737acc4dff7356046e52fca7c930a7905264a34e109280b9704767bc65e.png",
     "source": "pcparts.uk",
     "external_id": "25229",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 899.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25229/msi-geforce-rtx-5070-ti-ventus-3x-plus-oc-16gb-gdd-rtx-5070-ti-16g-ventus-3x-oc-plus",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Palit GeForce RTX 3050 StormX",
@@ -4035,7 +5465,17 @@
     "image": "https://pcparts.uk/img.thumb.317ab4e25208a32dd4b01c556b725dadcd33757d0f6b2963473c1288604f9ee6.png",
     "source": "pcparts.uk",
     "external_id": "26775",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 514.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26775/palit-geforce-rtx-5060-ti-white-oc-16gb-gddr7-grap-ne7506tu19t1-gb2061m",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "PNY NVIDIA T1000 - OEM",
@@ -4075,7 +5515,17 @@
     "image": "https://pcparts.uk/img.thumb.8c03e90cf127bfcc93d1a7104307e6478824ba48ea96e69a25d9895872c3264b.jpg",
     "source": "pcparts.uk",
     "external_id": "25269",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1094.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25269/zotac-geforce-rtx-5080-solid-core-16gb-gddr6-graph-zt-b50800d2-10p",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Acer Predator BiFrost Intel Arc A770 OC",
@@ -4225,7 +5675,17 @@
     "image": "https://pcparts.uk/img.thumb.7b980f7575550a93fb4e66d3ad138e25a2ba14081df31e33b763ed834a6ec8e8.png",
     "source": "pcparts.uk",
     "external_id": "25319",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 269.95,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25319/asrock-intel-arc-b570-challenger-oc-10gb-gddr6-gra-90-ga5kzz-00uanf",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Radeon RX 6400 Challenger ITX",
@@ -4435,7 +5895,17 @@
     "image": "https://pcparts.uk/img.thumb.a67bfa612f36e2736ff80fe37dade3b01f4db12fe55ad1135aa66a8f39015866.png",
     "source": "pcparts.uk",
     "external_id": "25299",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 742.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25299/asrock-radeon-rx-9070-xt-taichi-oc-16gb-gddr6-grap-rx9070xt-tc-16go",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASRock Radeon RX6600 Challenger - White",
@@ -4906,7 +6376,17 @@
     "image": "https://pcparts.uk/img.thumb.0caa7c2734d6ad5258a4ac1ba01aabc45fbffa1afec7a93f3ca9ac74f0f39972.jpg",
     "source": "pcparts.uk",
     "external_id": "3197",
-    "scraped_at": "2026-07-11T13:47:17.454652+00:00"
+    "scraped_at": "2026-07-11T13:47:17.454652+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 315.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/3197/asus-geforce-rtx-3060-dual-oc-v2-lhr-12gb-gddr6-gr-dual-rtx3060-o12g-v2",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 3060 Dual V2 (LHR)",
@@ -5425,7 +6905,17 @@
     "image": "https://pcparts.uk/img.thumb.6d0260326681cfcd9794c6313b4814191a9dd5badd42c29575cd04615dd11c07.jpg",
     "source": "pcparts.uk",
     "external_id": "3349",
-    "scraped_at": "2026-07-11T13:47:21.804777+00:00"
+    "scraped_at": "2026-07-11T13:47:21.804777+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 663.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/3349/asus-geforce-rtx-3080-tuf-gaming-v2-lhr-10gb-gddr6-tuf-rtx3080-10g-v2-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 3090 24GB ROG Strix OC - White",
@@ -5846,7 +7336,17 @@
     "image": "https://pcparts.uk/img.thumb.44435d4bd75e1489c297bb466675bc29819fe530e085d57f2a6336b1a0d8b941.jpg",
     "source": "pcparts.uk",
     "external_id": "26147",
-    "scraped_at": "2026-07-11T13:47:21.804777+00:00"
+    "scraped_at": "2026-07-11T13:47:21.804777+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 471.9,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/26147/asus-geforce-rtx-5060-ti-dual-oc-8gb-gddr7-graphic-dual-rtx5060ti-o8g-white",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS GeForce RTX 5060 Ti PRIME",
@@ -6306,7 +7806,17 @@
     "image": "https://pcparts.uk/img.thumb.51d4d92f40552fb141e441284e05ef240cd684fcfd62c29cc5b83b20c75e94ae.jpg",
     "source": "pcparts.uk",
     "external_id": "21913",
-    "scraped_at": "2026-07-11T13:47:21.804777+00:00"
+    "scraped_at": "2026-07-11T13:47:21.804777+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 458.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/21913/asus-radeon-rx-7700-xt-tuf-gaming-oc-12gb-gddr6-gr-90yv0jk0-m0na00",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 7900 GRE DUAL OC Edition",
@@ -6334,7 +7844,17 @@
     "image": "https://pcparts.uk/img.thumb.4ae89025c1272d9a1606a6bc309e700137b167ee5015e2ea1973c1259a8b23e4.jpg",
     "source": "pcparts.uk",
     "external_id": "19111",
-    "scraped_at": "2026-07-11T13:47:21.804777+00:00"
+    "scraped_at": "2026-07-11T13:47:21.804777+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 699.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/19111/asus-radeon-rx-7900-xt-tuf-oc-20gb-gddr6-graphics-tuf-rx7900xt-o20g-gaming",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "ASUS Radeon RX 7900 XTX TUF OC",
@@ -6881,7 +8401,17 @@
     "image": "https://pcparts.uk/img.thumb.806f4290962a95a5d2fdf9784d286634b0353f59b0ac9fe1aba03edc21195cb2.png",
     "source": "pcparts.uk",
     "external_id": "24949",
-    "scraped_at": "2026-07-11T13:47:26.187956+00:00"
+    "scraped_at": "2026-07-11T13:47:26.187956+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 1497.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/24949/gigabyte-aorus-geforce-rtx-5080-xtreme-waterforce-gv-n5080aorusx-w-16gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS GeForce RTX 5080 XTREME WATERFORCE WB",
@@ -6909,7 +8439,17 @@
     "image": "https://pcparts.uk/img.thumb.a64b35a53de48f6c992254dbdf9866fa8961e1ac111898b11878756389f0217d.png",
     "source": "pcparts.uk",
     "external_id": "25044",
-    "scraped_at": "2026-07-11T13:47:26.187956+00:00"
+    "scraped_at": "2026-07-11T13:47:26.187956+00:00",
+    "prices": [
+      {
+        "retailer": "PCPartPicker",
+        "price": 3599.99,
+        "currency": "GBP",
+        "url": "https://pcparts.uk/product/25044/gigabyte-aorus-geforce-rtx-5090-xtreme-waterforce-gv-n5090aorusx-wb-32gd",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ]
   },
   {
     "name": "Gigabyte AORUS Radeon RX 6700 XT Elite",

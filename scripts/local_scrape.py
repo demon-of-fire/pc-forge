@@ -27,7 +27,8 @@ DATA_DIR = PROJECT_ROOT / "public" / "data"
 
 sys.path.insert(0, str(SCRIPTS_DIR))
 
-from scrapers.pcpartpicker import scrape_product_list, match_to_existing
+from scrapers.pcpartsuk import scrape_product_list
+from scrapers.pcpartpicker import match_to_existing
 from processors.cpu_processor import CPUProcessor
 from processors.gpu_processor import GPUProcessor
 from processors.motherboard_processor import MotherboardProcessor
@@ -52,6 +53,12 @@ PROCESSORS = {
 }
 
 
+CATEGORIES = [
+    "cpus", "gpus", "motherboards", "ram",
+    "storage", "psus", "cases", "coolers"
+]
+
+
 def load_existing(category: str) -> list[dict]:
     path = DATA_DIR / f"{category}.json"
     if not path.exists():
@@ -68,12 +75,13 @@ def save_data(category: str, data: list[dict]):
 
 
 def scrape_category(category: str, dry_run: bool = False) -> dict:
-    """Scrape one category from PCPartPicker and merge with existing data."""
+    """Scrape one category from pcparts.uk and merge with existing data."""
     existing = load_existing(category)
     logger.info("Existing %s: %d items", category, len(existing))
 
-    logger.info("Scraping %s from PCPartPicker...", category)
-    scraped = scrape_product_list(category, max_pages=5)
+    logger.info("Scraping %s from pcparts.uk...", category)
+    # Fetch details for first 10 products to get full specs
+    scraped = scrape_product_list(category, max_pages=5, fetch_details=True, max_details=10)
 
     if not scraped:
         logger.warning("No products scraped for %s — keeping existing data", category)
@@ -122,8 +130,8 @@ def commit_changes(categories: list[str]):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Scrape PCPartPicker from local machine")
-    parser.add_argument("--category", "-c", choices=list(PROCESSORS.keys()), help="Single category")
+    parser = argparse.ArgumentParser(description="Scrape pcparts.uk from local machine")
+    parser.add_argument("--category", "-c", choices=CATEGORIES, help="Single category")
     parser.add_argument("--commit", action="store_true", help="Auto-commit and push changes")
     parser.add_argument("--dry-run", "-n", action="store_true", help="Preview without saving")
     parser.add_argument("--verbose", "-v", action="store_true")
@@ -135,7 +143,7 @@ def main():
         datefmt="%H:%M:%S",
     )
 
-    categories = [args.category] if args.category else list(PROCESSORS.keys())
+    categories = [args.category] if args.category else CATEGORIES
     results = {}
 
     for cat in categories:

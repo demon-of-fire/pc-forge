@@ -42,17 +42,17 @@ export function ComponentDetail({ component }: ComponentDetailProps) {
 
         <div className="flex flex-col">
           <div className="mb-6">
-            <div className="flex items-center gap-2 mb-2">
-              <span className="text-sm font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wider">
-                {component.manufacturer}
-              </span>
-              <Badge>{component.type.toUpperCase()}</Badge>
-            </div>
+<div className="flex items-center gap-2 mb-2">
+            <span className="text-sm font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wider">
+              {component.manufacturer || "Unknown"}
+            </span>
+            <Badge>{(component.type || "component").toUpperCase()}</Badge>
+          </div>
             <h1 className="text-3xl font-bold text-zinc-900 dark:text-zinc-100 mb-4">
-              {component.name}
+              {component.name || "Unknown Component"}
             </h1>
             <p className="text-zinc-600 dark:text-zinc-400 leading-relaxed">
-              {component.description}
+              {component.description || "No description available."}
             </p>
           </div>
 
@@ -62,8 +62,8 @@ export function ComponentDetail({ component }: ComponentDetailProps) {
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-3">
               {/* This is simplified, in reality I'd map based on component type */}
-              <SpecItem label="Release Date" value={component.releaseDate} />
-              <SpecItem label="MSRP" value={`£${component.msrp}`} />
+              <SpecItem label="Release Date" value={component.releaseDate || "Unknown"} />
+              <SpecItem label="MSRP" value={component.msrp ? `£${component.msrp}` : "N/A"} />
             </div>
           </div>
 

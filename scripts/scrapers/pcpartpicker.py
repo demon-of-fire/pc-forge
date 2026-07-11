@@ -187,7 +187,9 @@ def match_to_existing(scraped: list[dict], existing: list[dict]) -> tuple[list[d
             matched_slugs.add(matched_item["slug"])
             _update_prices(matched_item, prod)
         else:
-            new_products.append(prod)
+            # Normalize new scraped product to match our data structure
+            normalized = _normalize_scraped_product(prod)
+            new_products.append(normalized)
 
     updated_existing = [item for item in existing if item.get("slug") in matched_slugs]
     unmatched_existing = [item for item in existing if item.get("slug") not in matched_slugs]
@@ -242,3 +244,144 @@ def _update_prices(existing_item: dict, scraped: dict):
 
     if scraped.get("msrp") and existing_item.get("msrp", 0) == 0:
         existing_item["msrp"] = scraped["msrp"]
+
+
+def _normalize_scraped_product(prod: dict) -> dict:
+    """Normalize a scraped product to match our data structure."""
+    # Map category from source or guess from specs
+    category = prod.get("category", "")
+    if not category:
+        # Guess from specs or URL
+        url = prod.get("url", "").lower()
+        if "/cpu" in url or "/processor" in url:
+            category = "cpus"
+        elif "/graphics" in url or "/video" in url or "/gpu" in url:
+            category = "gpus"
+        elif "/motherboard" in url:
+            category = "motherboards"
+        elif "/memory" in url or "/ram" in url:
+            category = "ram"
+        elif "/storage" in url or "/ssd" in url or "/drive" in url:
+            category = "storage"
+        elif "/power" in url or "/psu" in url:
+            category = "psus"
+        elif "/case" in url or "/chassis" in url:
+            category = "cases"
+        elif "/cooler" in url or "/cpu-cooler" in url:
+            category = "coolers"
+        else:
+            category = "cpus"  # default
+    
+    # Map category to type
+    type_map = {
+        "cpus": "cpu",
+        "gpus": "gpu", 
+        "motherboards": "motherboard",
+        "ram": "ram",
+        "storage": "storage",
+        "psus": "psu",
+        "cases": "case",
+        "coolers": "cooler",
+    }
+    
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    slug = prod.get("slug") or make_slug(prod.get("name", "unknown"))
+    
+    # Build prices array
+    prices = []
+    if prod.get("price"):
+        prices.append({
+            "retailer": "pcparts.uk",
+            "price": prod["price"],
+            "currency": "GBP",
+            "url": prod.get("url", ""),
+            "availability": "in-stock",
+            "lastChecked": now,
+        })
+    
+    # Extract specs
+    specs = prod.get("specs", {})
+    
+    normalized = {
+        "id": f"{type_map.get(category, 'cpu')}-{slug}",
+        "slug": slug,
+        "name": prod.get("name", "Unknown"),
+        "manufacturer": prod.get("manufacturer") or guess_manufacturer(prod.get("name", "")),
+        "image": prod.get("image", ""),
+        "releaseDate": specs.get("release_date", now[:4] + "-01-01"),
+        "msrp": prod.get("msrp", prod.get("price", 0)),
+        "description": prod.get("description", f"{prod.get('name', 'Unknown')} - high-performance PC component."),
+        "prices": prices,
+        "type": type_map.get(category, "cpu"),
+        "specs": specs,
+    }
+    
+    # Add category-specific fields
+    if category == "cpus":
+        normalized.update({
+            "cores": specs.get("cores"),
+            "threads": specs.get("threads"),
+            "baseFrequency": specs.get("base_clock_ghz") or specs.get("base_clock"),
+            "boostFrequency": specs.get("boost_clock_ghz") or specs.get("boost_clock"),
+            "cache": specs.get("cache"),
+            "socket": specs.get("socket"),
+            "tdp": specs.get("tdp_w") or specs.get("tdp"),
+        })
+    elif category == "gpus":
+        normalized.update({
+            "vram": specs.get("vram_gb") or specs.get("vram"),
+            "memoryType": specs.get("memory_type"),
+            "coreClock": specs.get("core_clock_mhz") or specs.get("core_clock"),
+            "boostClock": specs.get("boost_clock_mhz") or specs.get("boost_clock"),
+            "tdp": specs.get("tdp_w") or specs.get("tdp"),
+            "length": specs.get("length_mm") or specs.get("length"),
+        })
+    elif category == "motherboards":
+        normalized.update({
+            "socket": specs.get("socket"),
+            "chipset": specs.get("chipset"),
+            "formFactor": specs.get("form_factor"),
+            "memoryType": specs.get("memory_type"),
+            "memorySlots": specs.get("memory_slots"),
+            "m2Slots": specs.get("m2_slots"),
+        })
+    elif category == "ram":
+        normalized.update({
+            "capacity": specs.get("capacity_gb") or specs.get("capacity"),
+            "memoryType": specs.get("type"),
+            "speed": specs.get("speed_mhz") or specs.get("speed"),
+            "casLatency": specs.get("cas_latency"),
+            "modules": specs.get("modules"),
+            "voltage": specs.get("voltage"),
+        })
+    elif category == "storage":
+        normalized.update({
+            "capacity": specs.get("capacity_gb") or specs.get("capacity"),
+            "formFactor": specs.get("form_factor"),
+            "interface": specs.get("interface"),
+            "maxRead": specs.get("max_read_mbps") or specs.get("max_read"),
+            "maxWrite": specs.get("max_write_mbps") or specs.get("max_write"),
+        })
+    elif category == "psus":
+        normalized.update({
+            "wattage": specs.get("wattage"),
+            "efficiency": specs.get("efficiency"),
+            "modularity": specs.get("modular") or specs.get("modularity"),
+            "formFactor": specs.get("form_factor"),
+        })
+    elif category == "cases":
+        normalized.update({
+            "formFactor": specs.get("form_factor"),
+            "maxGpuLength": specs.get("max_gpu_length_mm") or specs.get("max_gpu_length"),
+            "maxCpuCoolerHeight": specs.get("max_cooler_height_mm") or specs.get("max_cooler_height"),
+            "sidePanel": specs.get("side_panel"),
+        })
+    elif category == "coolers":
+        normalized.update({
+            "coolerType": specs.get("cooler_type") or specs.get("type"),
+            "radiatorSize": specs.get("radiator_mm") or specs.get("radiator_size"),
+            "fanCount": specs.get("fan_count"),
+            "socket": specs.get("socket"),
+        })
+    
+    return normalized

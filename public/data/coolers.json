@@ -10,11 +10,23 @@
     "msrp": 109,
     "description": "The legendary air cooler known for extreme performance and silence.",
     "prices": [
-      { "retailer": "Amazon", "price": 99, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 99,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "cooler",
     "coolerType": "Air",
-    "socketCompatibility": ["AM4", "AM5", "LGA1700", "LGA1200"],
+    "socketCompatibility": [
+      "AM4",
+      "AM5",
+      "LGA1700",
+      "LGA1200"
+    ],
     "height": 165,
     "fanSize": 140,
     "fanCount": 2,
@@ -34,11 +46,23 @@
     "msrp": 229,
     "description": "Premium 360mm AIO cooler for high-TDP processors.",
     "prices": [
-      { "retailer": "Scan", "price": 219, "currency": "GBP", "url": "https://scan.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Scan",
+        "price": 219,
+        "currency": "GBP",
+        "url": "https://scan.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "cooler",
     "coolerType": "AIO Liquid",
-    "socketCompatibility": ["AM4", "AM5", "LGA1700", "LGA1200"],
+    "socketCompatibility": [
+      "AM4",
+      "AM5",
+      "LGA1700",
+      "LGA1200"
+    ],
     "height": null,
     "fanSize": 120,
     "fanCount": 3,
@@ -58,11 +82,23 @@
     "msrp": 89,
     "description": "Near-silent air cooling for professional workstations.",
     "prices": [
-      { "retailer": "Amazon", "price": 79, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 79,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "cooler",
     "coolerType": "Air",
-    "socketCompatibility": ["AM4", "AM5", "LGA1700", "LGA1200"],
+    "socketCompatibility": [
+      "AM4",
+      "AM5",
+      "LGA1700",
+      "LGA1200"
+    ],
     "height": 160,
     "fanSize": 120,
     "fanCount": 2,

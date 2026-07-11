@@ -10,17 +10,46 @@
     "msrp": 99,
     "description": "Optimal airflow and a clean aesthetic for modern builds.",
     "prices": [
-      { "retailer": "Amazon", "price": 89, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 89,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "case",
     "formFactor": "ATX",
-    "motherboardSupport": ["ATX", "Micro-ATX"],
+    "motherboardSupport": [
+      "ATX",
+      "Micro-ATX"
+    ],
     "gpuClearance": 365,
     "cpuCoolerClearance": 165,
-    "fanSupport": [{ "size": 120, "count": 6 }, { "size": 140, "count": 2 }],
-    "radiatorSupport": ["Up to 280mm Top", "Up to 280mm Front"],
-    "driveBays": { "25 inch": 2, "35 inch": 2 },
-    "dimensions": { "width": 216, "height": 460, "depth": 415 },
+    "fanSupport": [
+      {
+        "size": 120,
+        "count": 6
+      },
+      {
+        "size": 140,
+        "count": 2
+      }
+    ],
+    "radiatorSupport": [
+      "Up to 280mm Top",
+      "Up to 280mm Front"
+    ],
+    "driveBays": {
+      "25 inch": 2,
+      "35 inch": 2
+    },
+    "dimensions": {
+      "width": 216,
+      "height": 460,
+      "depth": 415
+    },
     "weight": 6.5
   },
   {
@@ -34,17 +63,40 @@
     "msrp": 179,
     "description": "The ultimate premium SFF case with an elegant aluminum finish.",
     "prices": [
-      { "retailer": "Scan", "price": 169, "currency": "GBP", "url": "https://scan.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Scan",
+        "price": 169,
+        "currency": "GBP",
+        "url": "https://scan.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "case",
     "formFactor": "Mini-ITX",
-    "motherboardSupport": ["Mini-ITX"],
+    "motherboardSupport": [
+      "Mini-ITX"
+    ],
     "gpuClearance": 322,
     "cpuCoolerClearance": 77,
-    "fanSupport": [{ "size": 120, "count": 2 }],
-    "radiatorSupport": ["Up to 240mm Bottom"],
-    "driveBays": { "25 inch": 2, "35 inch": 0 },
-    "dimensions": { "width": 153, "height": 305, "depth": 326 },
+    "fanSupport": [
+      {
+        "size": 120,
+        "count": 2
+      }
+    ],
+    "radiatorSupport": [
+      "Up to 240mm Bottom"
+    ],
+    "driveBays": {
+      "25 inch": 2,
+      "35 inch": 0
+    },
+    "dimensions": {
+      "width": 153,
+      "height": 305,
+      "depth": 326
+    },
     "weight": 6.8
   },
   {
@@ -58,17 +110,47 @@
     "msrp": 109,
     "description": "The gold standard for airflow and ease of building.",
     "prices": [
-      { "retailer": "Amazon", "price": 99, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 99,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "case",
     "formFactor": "ATX",
-    "motherboardSupport": ["ATX", "Micro-ATX", "Mini-ITX"],
+    "motherboardSupport": [
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
     "gpuClearance": 360,
     "cpuCoolerClearance": 170,
-    "fanSupport": [{ "size": 120, "count": 6 }, { "size": 140, "count": 2 }],
-    "radiatorSupport": ["Up to 360mm Front", "Up to 240mm Top"],
-    "driveBays": { "25 inch": 2, "35 inch": 2 },
-    "dimensions": { "width": 230, "height": 466, "depth": 453 },
+    "fanSupport": [
+      {
+        "size": 120,
+        "count": 6
+      },
+      {
+        "size": 140,
+        "count": 2
+      }
+    ],
+    "radiatorSupport": [
+      "Up to 360mm Front",
+      "Up to 240mm Top"
+    ],
+    "driveBays": {
+      "25 inch": 2,
+      "35 inch": 2
+    },
+    "dimensions": {
+      "width": 230,
+      "height": 466,
+      "depth": 453
+    },
     "weight": 9.1
   }
 ]

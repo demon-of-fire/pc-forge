@@ -10,8 +10,22 @@
     "msrp": 1599,
     "description": "The pinnacle of GPU performance for 4K gaming and AI workloads.",
     "prices": [
-      { "retailer": "Amazon", "price": 1699, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" },
-      { "retailer": "Overclockers UK", "price": 1749, "currency": "GBP", "url": "https://overclockers.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 1699,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      },
+      {
+        "retailer": "Overclockers UK",
+        "price": 1749,
+        "currency": "GBP",
+        "url": "https://overclockers.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "gpu",
     "architecture": "Ada Lovelace",
@@ -34,8 +48,16 @@
     "gamingScore": 100,
     "rayTracingScore": 100,
     "aiScore": 100,
-    "advantages": ["Unmatched 4K performance", "Massive VRAM", "Excellent for AI"],
-    "disadvantages": ["Extremely expensive", "Huge power draw", "Massive size"]
+    "advantages": [
+      "Unmatched 4K performance",
+      "Massive VRAM",
+      "Excellent for AI"
+    ],
+    "disadvantages": [
+      "Extremely expensive",
+      "Huge power draw",
+      "Massive size"
+    ]
   },
   {
     "id": "gpu-nvidia-4070super",
@@ -48,8 +70,22 @@
     "msrp": 599,
     "description": "The sweet spot for 1440p gaming with great efficiency.",
     "prices": [
-      { "retailer": "Amazon", "price": 549, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" },
-      { "retailer": "Scan", "price": 559, "currency": "GBP", "url": "https://scan.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 549,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      },
+      {
+        "retailer": "Scan",
+        "price": 559,
+        "currency": "GBP",
+        "url": "https://scan.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "gpu",
     "architecture": "Ada Lovelace",
@@ -72,8 +108,14 @@
     "gamingScore": 85,
     "rayTracingScore": 82,
     "aiScore": 75,
-    "advantages": ["Excellent 1440p value", "Low power usage", "DLSS 3 support"],
-    "disadvantages": ["VRAM limited for some 4K titles"]
+    "advantages": [
+      "Excellent 1440p value",
+      "Low power usage",
+      "DLSS 3 support"
+    ],
+    "disadvantages": [
+      "VRAM limited for some 4K titles"
+    ]
   },
   {
     "id": "gpu-amd-7800xt",
@@ -86,8 +128,22 @@
     "msrp": 499,
     "description": "High value 1440p gaming with ample VRAM.",
     "prices": [
-      { "retailer": "Amazon", "price": 449, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" },
-      { "retailer": "Overclockers UK", "price": 459, "currency": "GBP", "url": "https://overclockers.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 449,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      },
+      {
+        "retailer": "Overclockers UK",
+        "price": 459,
+        "currency": "GBP",
+        "url": "https://overclockers.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "gpu",
     "architecture": "RDNA 3",
@@ -110,7 +166,14 @@
     "gamingScore": 82,
     "rayTracingScore": 60,
     "aiScore": 50,
-    "advantages": ["Great raw rasterization", "Excellent VRAM value", "Competitive pricing"],
-    "disadvantages": ["Weak ray tracing", "Higher power than NVIDIA"]
+    "advantages": [
+      "Great raw rasterization",
+      "Excellent VRAM value",
+      "Competitive pricing"
+    ],
+    "disadvantages": [
+      "Weak ray tracing",
+      "Higher power than NVIDIA"
+    ]
   }
 ]

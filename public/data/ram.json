@@ -10,7 +10,14 @@
     "msrp": 129,
     "description": "High-performance DDR5 memory for modern gaming systems.",
     "prices": [
-      { "retailer": "Amazon", "price": 109, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 109,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "ram",
     "capacity": 32,
@@ -34,7 +41,14 @@
     "msrp": 149,
     "description": "Premium overclocked memory with stunning RGB lighting.",
     "prices": [
-      { "retailer": "Scan", "price": 135, "currency": "GBP", "url": "https://scan.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Scan",
+        "price": 135,
+        "currency": "GBP",
+        "url": "https://scan.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "ram",
     "capacity": 32,
@@ -58,7 +72,14 @@
     "msrp": 69,
     "description": "Reliable DDR4 memory for budget and older builds.",
     "prices": [
-      { "retailer": "Amazon", "price": 55, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 55,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "ram",
     "capacity": 16,

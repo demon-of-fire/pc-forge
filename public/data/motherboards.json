@@ -10,7 +10,14 @@
     "msrp": 199,
     "description": "A reliable AM5 motherboard for Ryzen 7000 series.",
     "prices": [
-      { "retailer": "Amazon", "price": 179, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 179,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "motherboard",
     "socket": "AM5",
@@ -18,10 +25,19 @@
     "ddrGeneration": "DDR5",
     "ramSlots": 4,
     "maxRam": 128,
-    "pcieSlots": [{ "version": "PCIe 4.0", "x": 16 }],
+    "pcieSlots": [
+      {
+        "version": "PCIe 4.0",
+        "x": 16
+      }
+    ],
     "m2Slots": 2,
     "sataPorts": 4,
-    "usbPorts": { "usb2": 4, "usb3": 6, "usbC": 1 },
+    "usbPorts": {
+      "usb2": 4,
+      "usb3": 6,
+      "usbC": 1
+    },
     "formFactor": "ATX",
     "wifiVersion": "Wi-Fi 6",
     "bluetoothVersion": "5.2"
@@ -37,7 +53,14 @@
     "msrp": 289,
     "description": "High-performance Z790 board for Intel 14th Gen.",
     "prices": [
-      { "retailer": "Amazon", "price": 259, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 259,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "motherboard",
     "socket": "LGA1700",
@@ -45,10 +68,19 @@
     "ddrGeneration": "DDR5",
     "ramSlots": 4,
     "maxRam": 192,
-    "pcieSlots": [{ "version": "PCIe 5.0", "x": 16 }],
+    "pcieSlots": [
+      {
+        "version": "PCIe 5.0",
+        "x": 16
+      }
+    ],
     "m2Slots": 4,
     "sataPorts": 6,
-    "usbPorts": { "usb2": 4, "usb3": 8, "usbC": 2 },
+    "usbPorts": {
+      "usb2": 4,
+      "usb3": 8,
+      "usbC": 2
+    },
     "formFactor": "ATX",
     "wifiVersion": "Wi-Fi 6E",
     "bluetoothVersion": "5.3"
@@ -64,7 +96,14 @@
     "msrp": 159,
     "description": "Compact ITX motherboard for budget AM5 builds.",
     "prices": [
-      { "retailer": "Amazon", "price": 149, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 149,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "motherboard",
     "socket": "AM5",
@@ -72,10 +111,19 @@
     "ddrGeneration": "DDR5",
     "ramSlots": 2,
     "maxRam": 64,
-    "pcieSlots": [{ "version": "PCIe 4.0", "x": 16 }],
+    "pcieSlots": [
+      {
+        "version": "PCIe 4.0",
+        "x": 16
+      }
+    ],
     "m2Slots": 2,
     "sataPorts": 2,
-    "usbPorts": { "usb2": 2, "usb3": 4, "usbC": 1 },
+    "usbPorts": {
+      "usb2": 2,
+      "usb3": 4,
+      "usbC": 1
+    },
     "formFactor": "Mini-ITX",
     "wifiVersion": "Wi-Fi 6",
     "bluetoothVersion": "5.2"

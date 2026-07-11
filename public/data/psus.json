@@ -10,7 +10,14 @@
     "msrp": 139,
     "description": "Highly efficient ATX 3.0 power supply for modern GPUs.",
     "prices": [
-      { "retailer": "Amazon", "price": 119, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 119,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "psu",
     "wattage": 850,
@@ -35,7 +42,14 @@
     "msrp": 129,
     "description": "Legendary reliability and performance in a compact size.",
     "prices": [
-      { "retailer": "Amazon", "price": 109, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 109,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "psu",
     "wattage": 750,
@@ -60,7 +74,14 @@
     "msrp": 69,
     "description": "Budget-friendly power supply for basic gaming PCs.",
     "prices": [
-      { "retailer": "Amazon", "price": 59, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 59,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/...",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-10"
+      }
     ],
     "type": "psu",
     "wattage": 600,

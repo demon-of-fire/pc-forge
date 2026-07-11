@@ -5,30 +5,39 @@
     "name": "AMD Ryzen 7 7800X3D",
     "manufacturer": "AMD",
     "image": "/images/cpus/7800x3d.jpg",
-    "officialUrl": "https://www.amd.com/en/products/processors/desktops/ryzen/7800x3d.html",
     "releaseDate": "2023-04-04",
     "msrp": 449,
     "description": "The fastest gaming CPU in the world thanks to 3D V-Cache technology.",
     "prices": [
-      { "retailer": "Amazon", "price": 389, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" },
-      { "retailer": "Scan", "price": 399, "currency": "GBP", "url": "https://scan.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 389,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/dp/B0BV25J8QY",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
     ],
     "type": "cpu",
-    "generation": "Zen 4",
-    "architecture": "Raphael",
-    "socket": "AM5",
     "cores": 8,
     "threads": 16,
     "baseFrequency": 4.2,
     "boostFrequency": 5.0,
     "cache": "96MB L3",
-    "integratedGraphics": "Radeon Graphics",
+    "socket": "AM5",
     "tdp": 120,
     "gamingScore": 99,
     "productivityScore": 75,
     "aiScore": 60,
-    "advantages": ["Unbeatable gaming performance", "Power efficient", "AM5 longevity"],
-    "disadvantages": ["Not the best for heavy productivity", "Requires DDR5"]
+    "advantages": [
+      "Unbeatable gaming performance",
+      "Power efficient",
+      "AM5 longevity"
+    ],
+    "disadvantages": [
+      "Not the best for heavy productivity",
+      "Requires DDR5"
+    ]
   },
   {
     "id": "cpu-intel-14900k",
@@ -36,30 +45,40 @@
     "name": "Intel Core i9-14900K",
     "manufacturer": "Intel",
     "image": "/images/cpus/14900k.jpg",
-    "officialUrl": "https://www.intel.com/content/www/us/en/products/sku/236761/intel-core-i914900k-processor/overview.html",
     "releaseDate": "2023-10-17",
     "msrp": 589,
     "description": "Ultimate performance for gamers and creators with hybrid architecture.",
     "prices": [
-      { "retailer": "Amazon", "price": 549, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" },
-      { "retailer": "Overclockers UK", "price": 559, "currency": "GBP", "url": "https://overclockers.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Amazon",
+        "price": 549,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/dp/B0CH7Y8JSF",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
     ],
     "type": "cpu",
-    "generation": "14th Gen",
-    "architecture": "Raptor Lake Refresh",
-    "socket": "LGA1700",
     "cores": 24,
     "threads": 32,
     "baseFrequency": 3.2,
     "boostFrequency": 6.0,
     "cache": "36MB L3",
-    "integratedGraphics": "Intel UHD Graphics 770",
+    "socket": "LGA1700",
     "tdp": 125,
     "gamingScore": 96,
     "productivityScore": 98,
     "aiScore": 85,
-    "advantages": ["Extreme productivity", "High clock speeds", "Versatile"],
-    "disadvantages": ["Very high power consumption", "Runs extremely hot"]
+    "advantages": [
+      "Highest clock speeds",
+      "Strong multi-threaded",
+      "Integrated graphics"
+    ],
+    "disadvantages": [
+      "Very high power draw",
+      "Runs hot",
+      "Expensive cooling needed"
+    ]
   },
   {
     "id": "cpu-amd-7600",
@@ -67,29 +86,165 @@
     "name": "AMD Ryzen 5 7600",
     "manufacturer": "AMD",
     "image": "/images/cpus/7600.jpg",
-    "officialUrl": "https://www.amd.com/en/products/processors/desktops/ryzen/7600.html",
-    "releaseDate": "2023-09-26",
+    "releaseDate": "2023-01-10",
     "msrp": 229,
-    "description": "Perfect entry point for the AM5 platform with great efficiency.",
+    "description": "Excellent value 6-core processor for mainstream gaming builds.",
     "prices": [
-      { "retailer": "Amazon", "price": 189, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" },
-      { "retailer": "Scan", "price": 195, "currency": "GBP", "url": "https://scan.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+      {
+        "retailer": "Scan",
+        "price": 199,
+        "currency": "GBP",
+        "url": "https://scan.co.uk/3s8d",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      },
+      {
+        "retailer": "Amazon",
+        "price": 219,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/dp/B0BBJ5WV54",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
     ],
     "type": "cpu",
-    "generation": "Zen 4",
-    "architecture": "Raphael",
-    "socket": "AM5",
     "cores": 6,
     "threads": 12,
     "baseFrequency": 3.8,
     "boostFrequency": 5.1,
     "cache": "32MB L3",
-    "integratedGraphics": "Radeon Graphics",
+    "socket": "AM5",
     "tdp": 65,
     "gamingScore": 82,
     "productivityScore": 60,
-    "aiScore": 45,
-    "advantages": ["Very efficient", "Great value", "Low heat"],
-    "disadvantages": ["Limited multi-core performance"]
+    "aiScore": 40,
+    "advantages": [
+      "Excellent value",
+      "Low power draw",
+      "AM5 platform"
+    ],
+    "disadvantages": [
+      "No integrated graphics (use 7600G if needed)",
+      "DDR5 only"
+    ]
+  },
+  {
+    "id": "cpu-intel-14700k",
+    "slug": "intel-core-i7-14700k",
+    "name": "Intel Core i7-14700K",
+    "manufacturer": "Intel",
+    "image": "/images/cpus/14700k.jpg",
+    "releaseDate": "2023-10-17",
+    "msrp": 409,
+    "description": "20-core processor with great gaming and productivity balance.",
+    "prices": [
+      {
+        "retailer": "Overclockers UK",
+        "price": 379,
+        "currency": "GBP",
+        "url": "https://overclockers.co.uk/abc",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ],
+    "type": "cpu",
+    "cores": 20,
+    "threads": 28,
+    "baseFrequency": 3.4,
+    "boostFrequency": 5.6,
+    "cache": "33MB L3",
+    "socket": "LGA1700",
+    "tdp": 125,
+    "gamingScore": 93,
+    "productivityScore": 88,
+    "aiScore": 70,
+    "advantages": [
+      "Great all-rounder",
+      "Strong multi-thread",
+      "Integrated graphics"
+    ],
+    "disadvantages": [
+      "High power draw",
+      "Needs good cooling"
+    ]
+  },
+  {
+    "id": "cpu-intel-14600k",
+    "slug": "intel-core-i5-14600k",
+    "name": "Intel Core i5-14600K",
+    "manufacturer": "Intel",
+    "image": "/images/cpus/14600k.jpg",
+    "releaseDate": "2023-10-17",
+    "msrp": 319,
+    "description": "Excellent mid-range processor with strong gaming and productivity.",
+    "prices": [
+      {
+        "retailer": "Amazon",
+        "price": 279,
+        "currency": "GBP",
+        "url": "https://amazon.co.uk/dp/B0CH7X9LZ7",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ],
+    "type": "cpu",
+    "cores": 14,
+    "threads": 20,
+    "baseFrequency": 3.5,
+    "boostFrequency": 5.3,
+    "cache": "24MB L3",
+    "socket": "LGA1700",
+    "tdp": 125,
+    "gamingScore": 87,
+    "productivityScore": 78,
+    "aiScore": 55,
+    "advantages": [
+      "Great value",
+      "Strong gaming",
+      "Overclockable"
+    ],
+    "disadvantages": [
+      "High power draw under load"
+    ]
+  },
+  {
+    "id": "cpu-amd-7950x",
+    "slug": "amd-ryzen-9-7950x",
+    "name": "AMD Ryzen 9 7950X",
+    "manufacturer": "AMD",
+    "image": "/images/cpus/7950x.jpg",
+    "releaseDate": "2022-09-27",
+    "msrp": 699,
+    "description": "16-core powerhouse for content creators and professionals.",
+    "prices": [
+      {
+        "retailer": "Scan",
+        "price": 549,
+        "currency": "GBP",
+        "url": "https://scan.co.uk/xyz",
+        "availability": "in-stock",
+        "lastChecked": "2026-07-11"
+      }
+    ],
+    "type": "cpu",
+    "cores": 16,
+    "threads": 32,
+    "baseFrequency": 4.5,
+    "boostFrequency": 5.7,
+    "cache": "64MB L3",
+    "socket": "AM5",
+    "tdp": 170,
+    "gamingScore": 92,
+    "productivityScore": 96,
+    "aiScore": 65,
+    "advantages": [
+      "Top productivity performance",
+      "16 cores",
+      "AM5 platform"
+    ],
+    "disadvantages": [
+      "Expensive",
+      "High TDP"
+    ]
   }
 ]

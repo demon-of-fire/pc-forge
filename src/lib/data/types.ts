@@ -85,131 +85,133 @@ export interface ComponentBase {
   msrp: number;
   description: string;
   prices: PriceEntry[];
+  // Raw specs from scrapers - may contain arbitrary key-value pairs
+  specs?: Record<string, string>;
 }
 
 export interface CPU extends ComponentBase {
   type: "cpu";
-  generation: string;
-  architecture: string;
-  socket: Socket;
-  cores: number;
-  threads: number;
-  baseFrequency: number;
-  boostFrequency: number;
-  cache: string;
-  integratedGraphics: string | null;
-  tdp: number;
-  gamingScore: number;
-  productivityScore: number;
-  aiScore: number;
-  advantages: string[];
-  disadvantages: string[];
+  generation?: string;
+  architecture?: string;
+  socket?: Socket;
+  cores?: number;
+  threads?: number;
+  baseFrequency?: number;
+  boostFrequency?: number;
+  cache?: string;
+  integratedGraphics?: string | null;
+  tdp?: number;
+  gamingScore?: number;
+  productivityScore?: number;
+  aiScore?: number;
+  advantages?: string[];
+  disadvantages?: string[];
 }
 
 export interface GPU extends ComponentBase {
   type: "gpu";
-  architecture: string;
-  vramAmount: number;
-  vramType: string;
-  memoryBus: number;
-  cudaCores: number;
-  rtCores: number | null;
-  tensorCores: number | null;
-  baseClock: number;
-  boostClock: number;
-  powerConsumption: number;
-  recommendedPsu: number;
-  pcieVersion: PCIeVersion;
-  resolutionTargets: {
-    "1080p": number;
-    "1440p": number;
-    "4K": number;
+  architecture?: string;
+  vramAmount?: number;
+  vramType?: string;
+  memoryBus?: number;
+  cudaCores?: number;
+  rtCores?: number | null;
+  tensorCores?: number | null;
+  baseClock?: number;
+  boostClock?: number;
+  powerConsumption?: number;
+  recommendedPsu?: number;
+  pcieVersion?: PCIeVersion;
+  resolutionTargets?: {
+    "1080p"?: number;
+    "1440p"?: number;
+    "4K"?: number;
   };
-  gamingScore: number;
-  rayTracingScore: number;
-  aiScore: number;
-  advantages: string[];
-  disadvantages: string[];
+  gamingScore?: number;
+  rayTracingScore?: number;
+  aiScore?: number;
+  advantages?: string[];
+  disadvantages?: string[];
 }
 
 export interface Motherboard extends ComponentBase {
   type: "motherboard";
-  socket: Socket;
-  chipset: string;
-  ddrGeneration: DDRGeneration;
-  ramSlots: number;
-  maxRam: number;
-  pcieSlots: { version: PCIeVersion; x: number }[];
-  m2Slots: number;
-  sataPorts: number;
-  usbPorts: { usb2: number; usb3: number; usbC: number };
-  formFactor: FormFactor;
-  wifiVersion: string | null;
-  bluetoothVersion: string | null;
+  socket?: Socket;
+  chipset?: string;
+  ddrGeneration?: DDRGeneration;
+  ramSlots?: number;
+  maxRam?: number;
+  pcieSlots?: { version: PCIeVersion; x: number }[];
+  m2Slots?: number;
+  sataPorts?: number;
+  usbPorts?: { usb2: number; usb3: number; usbC: number };
+  formFactor?: FormFactor;
+  wifiVersion?: string | null;
+  bluetoothVersion?: string | null;
 }
 
 export interface RAM extends ComponentBase {
   type: "ram";
-  capacity: number;
-  speed: number;
-  ddrGeneration: DDRGeneration;
-  casLatency: number;
-  kitSize: number;
-  modules: string;
-  voltage: number;
-  heatspreader: boolean;
-  rgb: boolean;
+  capacity?: number;
+  speed?: number;
+  ddrGeneration?: DDRGeneration;
+  casLatency?: number;
+  kitSize?: number;
+  modules?: string;
+  voltage?: number;
+  heatspreader?: boolean;
+  rgb?: boolean;
 }
 
 export interface Storage extends ComponentBase {
   type: "storage";
-  capacity: number;
-  interface: StorageInterface;
-  readSpeed: number;
-  writeSpeed: number;
-  nandType: NandType;
-  formFactor: string;
-  tbw: number | null;
+  capacity?: number;
+  interface?: StorageInterface;
+  readSpeed?: number;
+  writeSpeed?: number;
+  nandType?: NandType;
+  formFactor?: string;
+  tbw?: number | null;
 }
 
 export interface PSU extends ComponentBase {
   type: "psu";
-  wattage: number;
-  efficiencyRating: EfficiencyRating;
-  modularType: ModularType;
-  fanSize: number;
-  length: number;
-  cpuConnectors: number;
-  gpuConnectors: number;
-  sataConnectors: number;
-  molexConnectors: number;
-  atxVersion: string;
+  wattage?: number;
+  efficiencyRating?: EfficiencyRating;
+  modularType?: ModularType;
+  fanSize?: number;
+  length?: number;
+  cpuConnectors?: number;
+  gpuConnectors?: number;
+  sataConnectors?: number;
+  molexConnectors?: number;
+  atxVersion?: string;
 }
 
 export interface Case extends ComponentBase {
   type: "case";
-  formFactor: FormFactor;
-  motherboardSupport: FormFactor[];
-  gpuClearance: number;
-  cpuCoolerClearance: number;
-  fanSupport: { size: number; count: number }[];
-  radiatorSupport: string[];
-  driveBays: { "25 inch": number; "35 inch": number };
-  dimensions: { width: number; height: number; depth: number };
-  weight: number;
+  formFactor?: FormFactor;
+  motherboardSupport?: FormFactor[];
+  gpuClearance?: number;
+  cpuCoolerClearance?: number;
+  fanSupport?: { size: number; count: number }[];
+  radiatorSupport?: string[];
+  driveBays?: { "25 inch": number; "35 inch": number };
+  dimensions?: { width: number; height: number; depth: number };
+  weight?: number;
 }
 
 export interface Cooler extends ComponentBase {
   type: "cooler";
-  coolerType: CoolerType;
-  socketCompatibility: Socket[];
-  height: number | null;
-  fanSize: number | null;
-  fanCount: number;
-  radiatorSize: number | null;
-  coolingCapacity: number;
-  noiseLevel: number;
-  tdpRating: number;
+  coolerType?: CoolerType;
+  socketCompatibility?: Socket[];
+  height?: number | null;
+  fanSize?: number | null;
+  fanCount?: number;
+  radiatorSize?: number | null;
+  coolingCapacity?: number;
+  noiseLevel?: number;
+  tdpRating?: number;
 }
 
 export type Component =

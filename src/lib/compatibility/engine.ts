@@ -51,7 +51,7 @@ export function checkCompatibility(build: PCBuild): CompatibilityResult[] {
     if (components.gpu) estimatedDraw += components.gpu.powerConsumption ?? 150;
     estimatedDraw += 100; // Base system draw (Fans, SSDs, etc)
 
-    const psuWattage = components.psu.wattage;
+    const psuWattage = components.psu.wattage ?? 0;
     if (psuWattage < estimatedDraw) {
       results.push({
         check: "Power Supply",

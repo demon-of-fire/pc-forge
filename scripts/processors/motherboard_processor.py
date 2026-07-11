@@ -1,206 +1,35 @@
 import logging
 from datetime import datetime, timezone
+from pathlib import Path
 
-from .base_processor import BaseProcessor
+from .base_processor import BaseProcessor, DATA_DIR
+from scrapers.pcpartpicker import scrape_product_list, match_to_existing
 
 logger = logging.getLogger(__name__)
-
-# Sources for motherboard data:
-# - https://pcpartpicker.com/products/motherboard/specs
-# - https://www.techpowerup.com/review/
-# - https://www.motherboardorbit.com/
-
-SAMPLE_MOTHERBOARDS = [
-    {
-        "id": "mb-asus-rog-crosshair-x670e-hero",
-        "slug": "asus-rog-crosshair-x670e-hero",
-        "name": "ASUS ROG Crosshair X670E Hero",
-        "type": "motherboard",
-        "manufacturer": "ASUS",
-        "description": "High-end AM5 motherboard with PCIe 5.0 support and premium VRM.",
-        "image": "https://pcpartpicker.com/static/placeholder/crosshair-x670e.png",
-        "releaseDate": "2022-09-27",
-        "msrp": 699.99,
-        "prices": [],
-        "specs": {
-            "socket": "AM5",
-            "chipset": "X670E",
-            "formFactor": "ATX",
-            "memorySlots": 4,
-            "maxMemory": 128,
-            "memoryType": "DDR5",
-            "pcieSlots": "2x PCIe 5.0 x16, 1x PCIe 4.0 x4",
-            "m2Slots": 3,
-            "sataPorts": 8,
-            "usbPorts": "2x USB4, 12x USB 3.2",
-            "wifi": "Wi-Fi 6E",
-            "ethernet": "2.5 GbE + 1 GbE",
-            "audio": "Realtek ALC4082",
-        },
-    },
-    {
-        "id": "mb-msi-meg-x670e-ace",
-        "slug": "msi-meg-x670e-ace",
-        "name": "MSI MEG X670E ACE",
-        "type": "motherboard",
-        "manufacturer": "MSI",
-        "description": "Premium X670E motherboard with exceptional VRM and connectivity.",
-        "image": "https://pcpartpicker.com/static/placeholder/meg-x670e-ace.png",
-        "releaseDate": "2022-09-27",
-        "msrp": 699.99,
-        "prices": [],
-        "specs": {
-            "socket": "AM5",
-            "chipset": "X670E",
-            "formFactor": "E-ATX",
-            "memorySlots": 4,
-            "maxMemory": 128,
-            "memoryType": "DDR5",
-            "pcieSlots": "2x PCIe 5.0 x16, 1x PCIe 4.0 x4",
-            "m2Slots": 4,
-            "sataPorts": 6,
-            "usbPorts": "2x USB4, 10x USB 3.2",
-            "wifi": "Wi-Fi 6E",
-            "ethernet": "2.5 GbE",
-            "audio": "Realtek ALC4082",
-        },
-    },
-    {
-        "id": "mb-gigabyte-x670e-aorus-master",
-        "slug": "gigabyte-x670e-aorus-master",
-        "name": "Gigabyte X670E AORUS Master",
-        "type": "motherboard",
-        "manufacturer": "Gigabyte",
-        "description": "Feature-rich X670E board with strong VRM and multiple M.2 slots.",
-        "image": "https://pcpartpicker.com/static/placeholder/x670e-aorus-master.png",
-        "releaseDate": "2022-09-27",
-        "msrp": 499.99,
-        "prices": [],
-        "specs": {
-            "socket": "AM5",
-            "chipset": "X670E",
-            "formFactor": "ATX",
-            "memorySlots": 4,
-            "maxMemory": 128,
-            "memoryType": "DDR5",
-            "pcieSlots": "1x PCIe 5.0 x16, 2x PCIe 4.0 x16",
-            "m2Slots": 4,
-            "sataPorts": 4,
-            "usbPorts": "1x USB4, 12x USB 3.2",
-            "wifi": "Wi-Fi 6E",
-            "ethernet": "2.5 GbE",
-            "audio": "Realtek ALC1220-VB",
-        },
-    },
-    {
-        "id": "mb-asus-rog-strix-b650e-f",
-        "slug": "asus-rog-strix-b650e-f-gaming-wifi",
-        "name": "ASUS ROG STRIX B650E-F Gaming WiFi",
-        "type": "motherboard",
-        "manufacturer": "ASUS",
-        "description": "Mid-range B650E board with solid features for gaming builds.",
-        "image": "https://pcpartpicker.com/static/placeholder/strix-b650e-f.png",
-        "releaseDate": "2022-09-27",
-        "msrp": 279.99,
-        "prices": [],
-        "specs": {
-            "socket": "AM5",
-            "chipset": "B650E",
-            "formFactor": "ATX",
-            "memorySlots": 4,
-            "maxMemory": 128,
-            "memoryType": "DDR5",
-            "pcieSlots": "1x PCIe 5.0 x16, 1x PCIe 4.0 x16",
-            "m2Slots": 3,
-            "sataPorts": 4,
-            "usbPorts": "1x USB 3.2 Gen 2x2, 8x USB 3.2",
-            "wifi": "Wi-Fi 6E",
-            "ethernet": "2.5 GbE",
-            "audio": "Realtek ALC4080",
-        },
-    },
-    {
-        "id": "mb-msi-pro-z790-p",
-        "slug": "msi-pro-z790-p-wifi",
-        "name": "MSI PRO Z790-P WiFi",
-        "type": "motherboard",
-        "manufacturer": "MSI",
-        "description": "Affordable Z790 board with solid connectivity for Intel builds.",
-        "image": "https://pcpartpicker.com/static/placeholder/pro-z790-p.png",
-        "releaseDate": "2022-09-27",
-        "msrp": 229.99,
-        "prices": [],
-        "specs": {
-            "socket": "LGA 1700",
-            "chipset": "Z790",
-            "formFactor": "ATX",
-            "memorySlots": 4,
-            "maxMemory": 128,
-            "memoryType": "DDR5",
-            "pcieSlots": "1x PCIe 5.0 x16, 2x PCIe 4.0 x16",
-            "m2Slots": 4,
-            "sataPorts": 6,
-            "usbPorts": "1x USB 3.2 Gen 2x2, 6x USB 3.2",
-            "wifi": "Wi-Fi 6E",
-            "ethernet": "2.5 GbE",
-            "audio": "Realtek ALC897",
-        },
-    },
-    {
-        "id": "mb-asus-tuf-gaming-b760m",
-        "slug": "asus-tuf-gaming-b760m-plus-wifi",
-        "name": "ASUS TUF Gaming B760M-PLUS WiFi",
-        "type": "motherboard",
-        "manufacturer": "ASUS",
-        "description": "Budget-friendly mATX B760 board with TUF durability.",
-        "image": "https://pcpartpicker.com/static/placeholder/tuf-b760m.png",
-        "releaseDate": "2023-01-03",
-        "msrp": 179.99,
-        "prices": [],
-        "specs": {
-            "socket": "LGA 1700",
-            "chipset": "B760",
-            "formFactor": "Micro-ATX",
-            "memorySlots": 4,
-            "maxMemory": 128,
-            "memoryType": "DDR5",
-            "pcieSlots": "1x PCIe 4.0 x16, 1x PCIe 3.0 x1",
-            "m2Slots": 2,
-            "sataPorts": 4,
-            "usbPorts": "1x USB 3.2 Gen 2x2, 6x USB 3.2",
-            "wifi": "Wi-Fi 6",
-            "ethernet": "1 GbE",
-            "audio": "Realtek ALC897",
-        },
-    },
-]
 
 
 class MotherboardProcessor(BaseProcessor):
     CATEGORY = "motherboards"
 
     def fetch_data(self) -> list[dict]:
-        logger.info("Using seed motherboard data (scraping not yet implemented)")
-        return SAMPLE_MOTHERBOARDS
+        scraped = scrape_product_list("motherboards", max_pages=3)
+        existing = self._load_existing(DATA_DIR / "motherboards.json")
+        if scraped and existing:
+            updated, new_prods = match_to_existing(scraped, existing)
+            logger.info("Matched %d existing, found %d new motherboards", len(updated), len(new_prods))
+            return updated
+        return scraped
+
+    def seed_data(self) -> list[dict]:
+        return [
+            {"id": "mb-asus-b650-plus", "slug": "asus-prime-b650-plus", "name": "ASUS Prime B650-Plus", "manufacturer": "ASUS", "image": "/images/motherboards/b650-plus.jpg", "officialUrl": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b650-plus/", "releaseDate": "2022-09-01", "msrp": 199, "description": "A reliable AM5 motherboard for Ryzen 7000 series.", "prices": [{"retailer": "Amazon", "price": 179, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10"}], "type": "motherboard", "socket": "AM5", "chipset": "B650", "ddrGeneration": "DDR5", "ramSlots": 4, "maxRam": 128, "pcieSlots": [{"version": "PCIe 4.0", "x": 16}], "m2Slots": 2, "sataPorts": 4, "usbPorts": {"usb2": 4, "usb3": 6, "usbC": 1}, "formFactor": "ATX", "wifiVersion": "Wi-Fi 6", "bluetoothVersion": "5.2"},
+            {"id": "mb-msi-z790-tomahawk", "slug": "msi-mag-z790-tomahawk", "name": "MSI MAG Z790 Tomahawk WiFi", "manufacturer": "MSI", "image": "/images/motherboards/z790-tomahawk.jpg", "officialUrl": "https://www.msi.com/Motherboard/MAG-Z790-TOMAHAWK-WIFI", "releaseDate": "2022-10-01", "msrp": 289, "description": "High-performance Z790 board for Intel 14th Gen.", "prices": [{"retailer": "Amazon", "price": 259, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10"}], "type": "motherboard", "socket": "LGA1700", "chipset": "Z790", "ddrGeneration": "DDR5", "ramSlots": 4, "maxRam": 192, "pcieSlots": [{"version": "PCIe 5.0", "x": 16}], "m2Slots": 4, "sataPorts": 6, "usbPorts": {"usb2": 4, "usb3": 8, "usbC": 2}, "formFactor": "ATX", "wifiVersion": "Wi-Fi 6E", "bluetoothVersion": "5.3"},
+            {"id": "mb-gigabyte-a620i", "slug": "gigabyte-a620i-ax", "name": "Gigabyte A620I AX", "manufacturer": "Gigabyte", "image": "/images/motherboards/a620i.jpg", "officialUrl": "https://www.gigabyte.com/...", "releaseDate": "2023-01-01", "msrp": 159, "description": "Compact ITX motherboard for budget AM5 builds.", "prices": [{"retailer": "Amazon", "price": 149, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10"}], "type": "motherboard", "socket": "AM5", "chipset": "A620", "ddrGeneration": "DDR5", "ramSlots": 2, "maxRam": 64, "pcieSlots": [{"version": "PCIe 4.0", "x": 16}], "m2Slots": 2, "sataPorts": 2, "usbPorts": {"usb2": 2, "usb3": 4, "usbC": 1}, "formFactor": "Mini-ITX", "wifiVersion": "Wi-Fi 6", "bluetoothVersion": "5.2"},
+        ]
 
     def process_item(self, raw: dict) -> dict | None:
-        required_fields = ["id", "slug", "name", "manufacturer"]
-        for field in required_fields:
-            if not raw.get(field):
-                logger.warning("Motherboard item missing required field '%s': %s", field, raw.get("name", "?"))
-                return None
-
-        component = {
-            "id": raw["id"],
-            "slug": raw["slug"],
-            "name": raw["name"],
-            "type": "motherboard",
-            "manufacturer": raw["manufacturer"],
-            "description": raw.get("description", ""),
-            "image": raw.get("image", ""),
-            "releaseDate": raw.get("releaseDate", datetime.now(timezone.utc).strftime("%Y-%m-%d")),
-            "msrp": float(raw.get("msrp", 0)),
-            "prices": raw.get("prices", []),
-            "specs": raw.get("specs", {}),
-        }
-        return component
+        if not raw.get("name"):
+            return None
+        if raw.get("type") == "motherboard" and raw.get("socket"):
+            return raw
+        return raw

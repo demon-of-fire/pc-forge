@@ -1,208 +1,35 @@
 import logging
 from datetime import datetime, timezone
+from pathlib import Path
 
-from .base_processor import BaseProcessor
+from .base_processor import BaseProcessor, DATA_DIR
+from scrapers.pcpartpicker import scrape_product_list, match_to_existing
 
 logger = logging.getLogger(__name__)
-
-# Sources for GPU data:
-# - https://pcpartpicker.com/products/video-card/specs
-# - https://www.techpowerup.com/gpu-specs/
-# - https://videocardz.net/
-
-SAMPLE_GPUS = [
-    {
-        "id": "gpu-nvidia-rtx-4090",
-        "slug": "nvidia-geforce-rtx-4090",
-        "name": "NVIDIA GeForce RTX 4090",
-        "type": "gpu",
-        "manufacturer": "NVIDIA",
-        "description": "Flagship Ada Lovelace GPU with 24 GB GDDR6X memory.",
-        "image": "https://pcpartpicker.com/static/placeholder/rtx4090.png",
-        "releaseDate": "2022-10-12",
-        "msrp": 1599.99,
-        "prices": [],
-        "specs": {
-            "cudaCores": 16384,
-            "memory": "24 GB GDDR6X",
-            "memoryBus": "384-bit",
-            "baseClock": "2235 MHz",
-            "boostClock": "2520 MHz",
-            "tdp": 450,
-            "interface": "PCIe 4.0 x16",
-            "rayTracing": True,
-            "dlss": "DLSS 3",
-        },
-        "gamingScore": 100,
-        "productivityScore": 100,
-        "aiScore": 100,
-    },
-    {
-        "id": "gpu-nvidia-rtx-4080-super",
-        "slug": "nvidia-geforce-rtx-4080-super",
-        "name": "NVIDIA GeForce RTX 4080 Super",
-        "type": "gpu",
-        "manufacturer": "NVIDIA",
-        "description": "High-end Ada Lovelace GPU with 16 GB GDDR6X memory.",
-        "image": "https://pcpartpicker.com/static/placeholder/rtx4080super.png",
-        "releaseDate": "2024-01-31",
-        "msrp": 999.99,
-        "prices": [],
-        "specs": {
-            "cudaCores": 10240,
-            "memory": "16 GB GDDR6X",
-            "memoryBus": "256-bit",
-            "baseClock": "2295 MHz",
-            "boostClock": "2550 MHz",
-            "tdp": 320,
-            "interface": "PCIe 4.0 x16",
-            "rayTracing": True,
-            "dlss": "DLSS 3",
-        },
-        "gamingScore": 88,
-        "productivityScore": 82,
-        "aiScore": 80,
-    },
-    {
-        "id": "gpu-nvidia-rtx-4070-ti-super",
-        "slug": "nvidia-geforce-rtx-4070-ti-super",
-        "name": "NVIDIA GeForce RTX 4070 Ti Super",
-        "type": "gpu",
-        "manufacturer": "NVIDIA",
-        "description": "Upper mid-range GPU with 16 GB GDDR6X memory.",
-        "image": "https://pcpartpicker.com/static/placeholder/rtx4070tisuper.png",
-        "releaseDate": "2024-01-24",
-        "msrp": 799.99,
-        "prices": [],
-        "specs": {
-            "cudaCores": 8448,
-            "memory": "16 GB GDDR6X",
-            "memoryBus": "256-bit",
-            "baseClock": "2340 MHz",
-            "boostClock": "2610 MHz",
-            "tdp": 285,
-            "interface": "PCIe 4.0 x16",
-            "rayTracing": True,
-            "dlss": "DLSS 3",
-        },
-        "gamingScore": 80,
-        "productivityScore": 72,
-        "aiScore": 70,
-    },
-    {
-        "id": "gpu-nvidia-rtx-4070-super",
-        "slug": "nvidia-geforce-rtx-4070-super",
-        "name": "NVIDIA GeForce RTX 4070 Super",
-        "type": "gpu",
-        "manufacturer": "NVIDIA",
-        "description": "Mid-range GPU with 12 GB GDDR6X memory, great value.",
-        "image": "https://pcpartpicker.com/static/placeholder/rtx4070super.png",
-        "releaseDate": "2024-01-17",
-        "msrp": 599.99,
-        "prices": [],
-        "specs": {
-            "cudaCores": 7168,
-            "memory": "12 GB GDDR6X",
-            "memoryBus": "192-bit",
-            "baseClock": "1920 MHz",
-            "boostClock": "2475 MHz",
-            "tdp": 220,
-            "interface": "PCIe 4.0 x16",
-            "rayTracing": True,
-            "dlss": "DLSS 3",
-        },
-        "gamingScore": 72,
-        "productivityScore": 62,
-        "aiScore": 58,
-    },
-    {
-        "id": "gpu-amd-rx-7900-xtx",
-        "slug": "amd-radeon-rx-7900-xtx",
-        "name": "AMD Radeon RX 7900 XTX",
-        "type": "gpu",
-        "manufacturer": "AMD",
-        "description": "Flagship RDNA 3 GPU with 24 GB GDDR6 memory.",
-        "image": "https://pcpartpicker.com/static/placeholder/rx7900xtx.png",
-        "releaseDate": "2022-12-13",
-        "msrp": 999.99,
-        "prices": [],
-        "specs": {
-            "streamProcessors": 6144,
-            "memory": "24 GB GDDR6",
-            "memoryBus": "384-bit",
-            "baseClock": "1855 MHz",
-            "boostClock": "2499 MHz",
-            "tdp": 355,
-            "interface": "PCIe 4.0 x16",
-            "rayTracing": True,
-            "fsr": "FSR 3",
-        },
-        "gamingScore": 85,
-        "productivityScore": 78,
-        "aiScore": 60,
-    },
-    {
-        "id": "gpu-amd-rx-7800-xt",
-        "slug": "amd-radeon-rx-7800-xt",
-        "name": "AMD Radeon RX 7800 XT",
-        "type": "gpu",
-        "manufacturer": "AMD",
-        "description": "Mid-range RDNA 3 GPU with 16 GB GDDR6 memory.",
-        "image": "https://pcpartpicker.com/static/placeholder/rx7800xt.png",
-        "releaseDate": "2023-09-06",
-        "msrp": 499.99,
-        "prices": [],
-        "specs": {
-            "streamProcessors": 3840,
-            "memory": "16 GB GDDR6",
-            "memoryBus": "256-bit",
-            "baseClock": "1295 MHz",
-            "boostClock": "2430 MHz",
-            "tdp": 263,
-            "interface": "PCIe 4.0 x16",
-            "rayTracing": True,
-            "fsr": "FSR 3",
-        },
-        "gamingScore": 72,
-        "productivityScore": 58,
-        "aiScore": 45,
-    },
-]
 
 
 class GPUProcessor(BaseProcessor):
     CATEGORY = "gpus"
 
     def fetch_data(self) -> list[dict]:
-        logger.info("Using seed GPU data (scraping not yet implemented)")
-        return SAMPLE_GPUS
+        scraped = scrape_product_list("gpus", max_pages=3)
+        existing = self._load_existing(DATA_DIR / "gpus.json")
+        if scraped and existing:
+            updated, new_prods = match_to_existing(scraped, existing)
+            logger.info("Matched %d existing, found %d new GPUs", len(updated), len(new_prods))
+            return updated
+        return scraped
+
+    def seed_data(self) -> list[dict]:
+        return [
+            {"id": "gpu-nvidia-4090", "slug": "nvidia-rtx-4090", "name": "NVIDIA GeForce RTX 4090", "manufacturer": "NVIDIA", "image": "/images/gpus/4090.jpg", "officialUrl": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/", "releaseDate": "2022-10-12", "msrp": 1599, "description": "The pinnacle of GPU performance for 4K gaming and AI workloads.", "prices": [{"retailer": "Amazon", "price": 1699, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10"}, {"retailer": "Overclockers UK", "price": 1749, "currency": "GBP", "url": "https://overclockers.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10"}], "type": "gpu", "architecture": "Ada Lovelace", "vramAmount": 24, "vramType": "GDDR6X", "memoryBus": 384, "cudaCores": 16384, "rtCores": 128, "tensorCores": 512, "baseClock": 2230, "boostClock": 2520, "powerConsumption": 450, "recommendedPsu": 850, "pcieVersion": "PCIe 4.0", "resolutionTargets": {"1080p": 100, "1440p": 100, "4K": 100}, "gamingScore": 100, "rayTracingScore": 100, "aiScore": 100, "advantages": ["Unmatched 4K performance", "Massive VRAM", "Excellent for AI"], "disadvantages": ["Extremely expensive", "Huge power draw", "Massive size"]},
+            {"id": "gpu-nvidia-4070super", "slug": "nvidia-rtx-4070-super", "name": "NVIDIA GeForce RTX 4070 Super", "manufacturer": "NVIDIA", "image": "/images/gpus/4070super.jpg", "officialUrl": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-super/", "releaseDate": "2024-01-17", "msrp": 599, "description": "The sweet spot for 1440p gaming with great efficiency.", "prices": [{"retailer": "Amazon", "price": 549, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10"}, {"retailer": "Scan", "price": 559, "currency": "GBP", "url": "https://scan.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10"}], "type": "gpu", "architecture": "Ada Lovelace", "vramAmount": 12, "vramType": "GDDR6X", "memoryBus": 192, "cudaCores": 7168, "rtCores": 44, "tensorCores": 176, "baseClock": 1980, "boostClock": 2475, "powerConsumption": 220, "recommendedPsu": 650, "pcieVersion": "PCIe 4.0", "resolutionTargets": {"1080p": 100, "1440p": 90, "4K": 60}, "gamingScore": 85, "rayTracingScore": 82, "aiScore": 75, "advantages": ["Excellent 1440p value", "Low power usage", "DLSS 3 support"], "disadvantages": ["VRAM limited for some 4K titles"]},
+            {"id": "gpu-amd-7800xt", "slug": "amd-radeon-rx-7800-xt", "name": "AMD Radeon RX 7800 XT", "manufacturer": "AMD", "image": "/images/gpus/7800xt.jpg", "officialUrl": "https://www.amd.com/en/products/graphics/amd-radeon-rx-7800-xt.html", "releaseDate": "2023-11-15", "msrp": 499, "description": "High value 1440p gaming with ample VRAM.", "prices": [{"retailer": "Amazon", "price": 449, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10"}, {"retailer": "Overclockers UK", "price": 459, "currency": "GBP", "url": "https://overclockers.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10"}], "type": "gpu", "architecture": "RDNA 3", "vramAmount": 16, "vramType": "GDDR6", "memoryBus": 256, "cudaCores": 3840, "rtCores": None, "tensorCores": None, "baseClock": 1860, "boostClock": 2430, "powerConsumption": 263, "recommendedPsu": 700, "pcieVersion": "PCIe 4.0", "resolutionTargets": {"1080p": 100, "1440p": 88, "4K": 50}, "gamingScore": 82, "rayTracingScore": 60, "aiScore": 50, "advantages": ["Great raw rasterization", "Excellent VRAM value", "Competitive pricing"], "disadvantages": ["Weak ray tracing", "Higher power than NVIDIA"]},
+        ]
 
     def process_item(self, raw: dict) -> dict | None:
-        required_fields = ["id", "slug", "name", "manufacturer"]
-        for field in required_fields:
-            if not raw.get(field):
-                logger.warning("GPU item missing required field '%s': %s", field, raw.get("name", "?"))
-                return None
-
-        component = {
-            "id": raw["id"],
-            "slug": raw["slug"],
-            "name": raw["name"],
-            "type": "gpu",
-            "manufacturer": raw["manufacturer"],
-            "description": raw.get("description", ""),
-            "image": raw.get("image", ""),
-            "releaseDate": raw.get("releaseDate", datetime.now(timezone.utc).strftime("%Y-%m-%d")),
-            "msrp": float(raw.get("msrp", 0)),
-            "prices": raw.get("prices", []),
-            "specs": raw.get("specs", {}),
-        }
-
-        if "gamingScore" in raw:
-            component["gamingScore"] = float(raw["gamingScore"])
-        if "productivityScore" in raw:
-            component["productivityScore"] = float(raw["productivityScore"])
-        if "aiScore" in raw:
-            component["aiScore"] = float(raw["aiScore"])
-
-        return component
+        if not raw.get("name"):
+            return None
+        if raw.get("type") == "gpu" and raw.get("vramAmount"):
+            return raw
+        return raw

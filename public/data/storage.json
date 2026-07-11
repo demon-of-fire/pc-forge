@@ -1,0 +1,68 @@
+[
+  {
+    "id": "storage-samsung-990pro-2tb",
+    "slug": "samsung-//990-pro-2tb",
+    "name": "Samsung 990 Pro 2TB NVMe SSD",
+    "manufacturer": "Samsung",
+    "image": "/images/storage/990pro.jpg",
+    "officialUrl": "https://www.samsung.com/...",
+    "releaseDate": "2022-10-01",
+    "msrp": 249,
+    "description": "Blazing fast PCIe 4.0 SSD for gamers and professionals.",
+    "prices": [
+      { "retailer": "Amazon", "price": 189, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+    ],
+    "type": "storage",
+    "capacity": 2000,
+    "interface": "NVMe",
+    "readSpeed": 7450,
+    "writeSpeed": 6900,
+    "nandType": "TLC",
+    "formFactor": "M.2 2280",
+    "tbw": 1200
+  },
+  {
+    "id": "storage-wd-blue-sn580-1tb",
+    "slug": "wd-blue-sn580-1tb",
+    "name": "WD Blue SN580 1TB NVMe SSD",
+    "manufacturer": "Western Digital",
+    "image": "/images/storage/sn580.jpg",
+    "officialUrl": "https://www.wd.com/...",
+    "releaseDate": "2023-01-01",
+    "msrp": 89,
+    "description": "Affordable and reliable NVMe storage for everyday use.",
+    "prices": [
+      { "retailer": "Amazon", "price": 75, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+    ],
+    "type": "storage",
+    "capacity": 1000,
+    "interface": "NVMe",
+    "readSpeed": 4150,
+    "writeSpeed": 4150,
+    "nandType": "TLC",
+    "formFactor": "M.2 2280",
+    "tbw": 600
+  },
+  {
+    "id": "storage-seagate-barracuda-4tb",
+    "slug": "seagate-barracuda-4tb-hdd",
+    "name": "Seagate BarraCuda 4TB HDD",
+    "manufacturer": "Seagate",
+    "image": "/images/storage/barracuda-4tb.jpg",
+    "officialUrl": "https://www.seagate.com/...",
+    "releaseDate": "2019-01-01",
+    "msrp": 109,
+    "description": "High-capacity storage for backups and media libraries.",
+    "prices": [
+      { "retailer": "Amazon", "price": 89, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+    ],
+    "type": "storage",
+    "capacity": 4000,
+    "interface": "SATA",
+    "readSpeed": 180,
+    "writeSpeed": 180,
+    "nandType": "TLC",
+    "formFactor": "3.5 inch",
+    "tbw": null
+  }
+]

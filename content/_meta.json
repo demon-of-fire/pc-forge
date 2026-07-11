@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "what-is-vram",
+    "title": "What is VRAM?",
+    "description": "Understanding Video RAM and why it matters for gaming and AI.",
+    "category": "GPU"
+  },
+  {
+    "slug": "what-is-tdp",
+    "title": "What is TDP?",
+    "description": "Understanding Thermal Design Power and cooling requirements.",
+    "category": "General"
+  },
+  {
+    "slug": "what-is-pcie",
+    "title": "What is PCIe?",
+    "description": "An explanation of Peripheral Component Interconnect Express versions.",
+    "category": "General"
+  },
+  {
+    "slug": "what-is-ddr5",
+    "title": "What is DDR5?",
+    "description": "The differences between DDR4 and DDR5 memory.",
+    "category": "RAM"
+  },
+  {
+    "slug": "cpu-cores-explained",
+    "title": "What does a CPU core do?",
+    "description": "A beginner's guide to cores, threads, and multi-tasking.",
+    "category": "CPU"
+  },
+  {
+    "slug": "gpu-explained",
+    "title": "What does a GPU actually do?",
+    "description": "How graphics cards process images and AI workloads.",
+    "category": "GPU"
+  },
+  {
+    "slug": "how-to-choose-psu",
+    "title": "How to Choose a PSU",
+    "description": "Wattage, efficiency ratings, and modularity explained.",
+    "category": "PSU"
+  },
+  {
+    "slug": "motherboard-chipsets",
+    "title": "Understanding Motherboard Chipsets",
+    "description": "What the difference is between Z, B, and A series boards.",
+    "category": "Motherboard"
+  },
+  {
+    "slug": "ram-speed-vs-latency",
+    "title": "RAM Speed vs Latency",
+    "description": "Understanding the balance between MHz and CL timings.",
+    "category": "RAM"
+  },
+  {
+    "slug": "nvme-vs-sata",
+    "title": "NVMe vs SATA",
+    "description": "Which storage interface is right for your build?",
+    "category": "Storage"
+  }
+]

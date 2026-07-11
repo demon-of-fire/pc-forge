@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Offline | PCForge</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #fafafa;
+      color: #171717;
+    }
+    .container { text-align: center; padding: 2rem; max-width: 400px; }
+    .icon {
+      width: 80px; height: 80px; border-radius: 9999px;
+      background: #f4f4f5; display: flex; align-items: center;
+      justify-content: center; margin: 0 auto 1.5rem;
+    }
+    h1 { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem; }
+    p { color: #71717a; margin-bottom: 1.5rem; line-height: 1.6; }
+    a {
+      display: inline-block; padding: 0.5rem 1.5rem; border-radius: 0.75rem;
+      background: #2563eb; color: white; text-decoration: none;
+      font-weight: 500; font-size: 0.875rem;
+    }
+    a:hover { background: #1d4ed8; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="icon">
+      <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="1" y1="1" x2="23" y2="23"/>
+        <path d="M16.72 11.06A10.94 10.94 0 0 1 19 12.55"/>
+        <path d="M5 12.55a10.94 10.94 0 0 1 5.17-2.39"/>
+        <path d="M10.71 5.05A16 16 0 0 1 22.56 9"/>
+        <path d="M1.42 9a15.91 15.91 0 0 1 4.7-2.88"/>
+        <path d="M8.53 16.11a6 6 0 0 1 6.95 0"/>
+        <line x1="12" y1="20" x2="12.01" y2="20"/>
+      </svg>
+    </div>
+    <h1>You&apos;re Offline</h1>
+    <p>It looks like you&apos;ve lost your internet connection. Please check your network and try again.</p>
+    <a href="/">Retry</a>
+  </div>
+</body>
+</html>

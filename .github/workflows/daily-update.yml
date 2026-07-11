@@ -1,0 +1,87 @@
+name: Daily Hardware Update
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Specific category to update (leave empty for all)'
+        required: false
+        type: choice
+        options:
+          - ''
+          - cpus
+          - gpus
+          - motherboards
+          - ram
+          - storage
+          - psus
+          - cases
+          - coolers
+      dry_run:
+        description: 'Preview changes without saving'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Run daily update
+        run: |
+          ARGS=""
+          if [ "${{ inputs.category }}" != "" ]; then
+            ARGS="$ARGS --category ${{ inputs.category }}"
+          fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          python scripts/daily_update.py $ARGS --verbose
+
+      - name: Read report for PR body
+        if: inputs.dry_run != true
+        id: report
+        run: |
+          if [ -f scripts/state/last_report.md ]; then
+            {
+              echo "REPORT<<EOF"
+              cat scripts/state/last_report.md
+              echo "EOF"
+            } >> "$GITHUB_OUTPUT"
+          else
+            echo "REPORT=No report generated." >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create Pull Request
+        if: inputs.dry_run != true
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ github.token }}
+          commit-message: "chore: hardware data update — ${{ github.event.schedule || 'manual' }}"
+          branch: "hw-update/${{ github.run_id }}"
+          title: "Hardware Data Update — $(date -u +%Y-%m-%d)"
+          body: ${{ steps.report.outputs.REPORT }}
+          labels: |
+            automated
+            hardware-data
+          reviewers: []
+          delete-branch: true

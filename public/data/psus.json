@@ -1,0 +1,77 @@
+[
+  {
+    "id": "psu-corsair-rm850e",
+    "slug": "corsair-rm850e",
+    "name": "Corsair RM850e 850W Gold",
+    "manufacturer": "Corsair",
+    "image": "/images/psus/rm850e.jpg",
+    "officialUrl": "https://www.corsair.com/...",
+    "releaseDate": "2023-01-01",
+    "msrp": 139,
+    "description": "Highly efficient ATX 3.0 power supply for modern GPUs.",
+    "prices": [
+      { "retailer": "Amazon", "price": 119, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+    ],
+    "type": "psu",
+    "wattage": 850,
+    "efficiencyRating": "80+ Gold",
+    "modularType": "Full",
+    "fanSize": 120,
+    "length": 140,
+    "cpuConnectors": 2,
+    "gpuConnectors": 4,
+    "sataConnectors": 8,
+    "molexConnectors": 2,
+    "atxVersion": "3.0"
+  },
+  {
+    "id": "psu-seasonic-focus-750",
+    "slug": "seasonic-focus-gx-750",
+    "name": "Seasonic Focus GX-750 Gold",
+    "manufacturer": "Seasonic",
+    "image": "/images/psus/focus-750.jpg",
+    "officialUrl": "https://seasonic.com/...",
+    "releaseDate": "2021-01-01",
+    "msrp": 129,
+    "description": "Legendary reliability and performance in a compact size.",
+    "prices": [
+      { "retailer": "Amazon", "price": 109, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+    ],
+    "type": "psu",
+    "wattage": 750,
+    "efficiencyRating": "80+ Gold",
+    "modularType": "Full",
+    "fanSize": 120,
+    "length": 140,
+    "cpuConnectors": 2,
+    "gpuConnectors": 3,
+    "sataConnectors": 6,
+    "molexConnectors": 2,
+    "atxVersion": "2.4"
+  },
+  {
+    "id": "psu-evga-600w-bronze",
+    "slug": "evga-600w-bronze",
+    "name": "EVGA 600W 80+ Bronze",
+    "manufacturer": "EVGA",
+    "image": "/images/psus/600w-bronze.jpg",
+    "officialUrl": "https://www.evga.com/...",
+    "releaseDate": "2019-01-01",
+    "msrp": 69,
+    "description": "Budget-friendly power supply for basic gaming PCs.",
+    "prices": [
+      { "retailer": "Amazon", "price": 59, "currency": "GBP", "url": "https://amazon.co.uk/...", "availability": "in-stock", "lastChecked": "2026-07-10" }
+    ],
+    "type": "psu",
+    "wattage": 600,
+    "efficiencyRating": "80+ Bronze",
+    "modularType": "Non-Modular",
+    "fanSize": 120,
+    "length": 140,
+    "cpuConnectors": 1,
+    "gpuConnectors": 2,
+    "sataConnectors": 4,
+    "molexConnectors": 2,
+    "atxVersion": "2.3"
+  }
+]

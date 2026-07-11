@@ -11,13 +11,23 @@ from bs4 import BeautifulSoup
 logger = logging.getLogger(__name__)
 
 _session: requests.Session | None = None
+_cloudscraper_session = None
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
     "Accept-Language": "en-GB,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate",
+    "Accept-Encoding": "gzip, deflate, br",
     "Connection": "keep-alive",
+    "Sec-Ch-Ua": '"Chromium";v="137", "Not/A)Brand";v="24", "Google Chrome";v="137"',
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": '"Windows"',
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+    "Cache-Control": "max-age=0",
 }
 
 LAST_REQUEST_TIME = 0.0
@@ -39,20 +49,76 @@ def get_session() -> requests.Session:
     return _session
 
 
+def get_cloudscraper_session():
+    global _cloudscraper_session
+    if _cloudscraper_session is None:
+        try:
+            import cloudscraper
+            _cloudscraper_session = cloudscraper.create_scraper(
+                browser={"browser": "chrome", "platform": "windows", "desktop": True}
+            )
+            _cloudscraper_session.headers.update(HEADERS)
+        except ImportError:
+            logger.warning("cloudscraper not installed, falling back to requests")
+            return None
+    return _cloudscraper_session
+
+
 def fetch_page(url: str) -> BeautifulSoup | None:
     global LAST_REQUEST_TIME
     elapsed = time.time() - LAST_REQUEST_TIME
     if elapsed < REQUEST_DELAY:
         time.sleep(REQUEST_DELAY - elapsed)
 
+    for attempt in range(3):
+        try:
+            session = get_session()
+            if attempt > 0:
+                session.headers["Referer"] = "https://uk.pcpartpicker.com/"
+            resp = session.get(url, timeout=30)
+            LAST_REQUEST_TIME = time.time()
+
+            if resp.status_code == 403:
+                logger.info("Got 403 from requests, trying cloudscraper for %s", url)
+                result = _try_cloudscraper(url)
+                if result:
+                    return result
+
+            resp.raise_for_status()
+
+            text = resp.text
+            if "challenge-platform" in text or "Just a moment" in text:
+                logger.warning("Cloudflare challenge detected for %s (attempt %d)", url, attempt + 1)
+                result = _try_cloudscraper(url)
+                if result:
+                    return result
+                time.sleep(5 * (attempt + 1))
+                continue
+
+            return BeautifulSoup(text, "lxml")
+        except requests.RequestException as e:
+            logger.warning("Failed to fetch %s (attempt %d): %s", url, attempt + 1, e)
+            if attempt < 2:
+                time.sleep(3 * (attempt + 1))
+    return None
+
+
+def _try_cloudscraper(url: str) -> BeautifulSoup | None:
+    """Attempt to fetch using cloudscraper to bypass Cloudflare."""
+    cs = get_cloudscraper_session()
+    if cs is None:
+        return None
     try:
-        session = get_session()
-        resp = session.get(url, timeout=30)
-        LAST_REQUEST_TIME = time.time()
+        logger.info("Fetching %s via cloudscraper", url)
+        resp = cs.get(url, timeout=30)
         resp.raise_for_status()
-        return BeautifulSoup(resp.text, "lxml")
-    except requests.RequestException as e:
-        logger.warning("Failed to fetch %s: %s", url, e)
+        text = resp.text
+        if "challenge-platform" in text or "Just a moment" in text:
+            logger.warning("Cloudflare challenge still present after cloudscraper for %s", url)
+            return None
+        return BeautifulSoup(text, "lxml")
+    except Exception as e:
+        logger.warning("cloudscraper failed for %s: %s", url, e)
         return None
 
 

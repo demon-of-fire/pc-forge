@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: process.env.GITHUB_ACTIONS ? "/pc-forge" : "",
 };
 
 export default nextConfig;

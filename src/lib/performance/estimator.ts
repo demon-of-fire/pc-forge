@@ -9,8 +9,8 @@ export function estimatePerformance(build: PCBuild) {
 
   // Heuristic: Use a base gaming score and scale it by the GPU's performance
   // and the CPU's gaming score (as a bottleneck factor)
-  const gpuScore = gpu.gamingScore;
-  const cpuGamingFactor = cpu.gamingScore / 100;
+  const gpuScore = gpu.gamingScore ?? 0;
+  const cpuGamingFactor = (cpu.gamingScore ?? 0) / 100;
   const overallGamingScore = gpuScore * cpuGamingFactor;
 
   return {
@@ -20,10 +20,10 @@ export function estimatePerformance(build: PCBuild) {
       "4K": Math.round(overallGamingScore * 0.5),
     },
     productivity: {
-      videoEditing: Math.round((cpu.productivityScore * 0.7 + gpu.aiScore * 0.3)),
-      streaming: Math.round((cpu.productivityScore * 0.6 + gpu.gamingScore * 0.4)),
-      rendering3d: Math.round((cpu.productivityScore * 0.4 + gpu.aiScore * 0.6)),
-      aiWorkloads: Math.round((cpu.aiScore * 0.3 + gpu.aiScore * 0.7)),
+      videoEditing: Math.round((cpu.productivityScore ?? 0) * 0.7 + (gpu.aiScore ?? 0) * 0.3),
+      streaming: Math.round((cpu.productivityScore ?? 0) * 0.6 + (gpu.gamingScore ?? 0) * 0.4),
+      rendering3d: Math.round((cpu.productivityScore ?? 0) * 0.4 + (gpu.aiScore ?? 0) * 0.6),
+      aiWorkloads: Math.round((cpu.aiScore ?? 0) * 0.3 + (gpu.aiScore ?? 0) * 0.7),
     },
   };
 }

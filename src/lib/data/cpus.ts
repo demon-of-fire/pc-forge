@@ -2,11 +2,12 @@ import cpusData from "../../../public/data/cpus.json";
 import { CPU } from "./types";
 
 function normalizeCPU(item: Record<string, unknown>): CPU {
+  const manufacturer = (item.manufacturer as string) || "Unknown";
   return {
     id: (item.id as string) || "",
     slug: (item.slug as string) || "",
     name: (item.name as string) || "Unknown",
-    manufacturer: (item.manufacturer as string) || "Unknown",
+    manufacturer: manufacturer as CPU["manufacturer"],
     image: (item.image as string) || "",
     officialUrl: (item.officialUrl as string) || "",
     releaseDate: (item.releaseDate as string) || "2023-01-01",

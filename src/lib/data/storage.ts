@@ -2,11 +2,12 @@ import storageData from "../../../public/data/storage.json";
 import { Storage } from "./types";
 
 function normalizeStorage(item: Record<string, unknown>): Storage {
+  const manufacturer = (item.manufacturer as string) || "Unknown";
   return {
     id: (item.id as string) || "",
     slug: (item.slug as string) || "",
     name: (item.name as string) || "Unknown",
-    manufacturer: (item.manufacturer as string) || "Unknown",
+    manufacturer: manufacturer as Storage["manufacturer"],
     image: (item.image as string) || "",
     officialUrl: (item.officialUrl as string) || "",
     releaseDate: (item.releaseDate as string) || "2023-01-01",

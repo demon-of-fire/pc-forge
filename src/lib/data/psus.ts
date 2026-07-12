@@ -2,11 +2,12 @@ import psusData from "../../../public/data/psus.json";
 import { PSU } from "./types";
 
 function normalizePSU(item: Record<string, unknown>): PSU {
+  const manufacturer = (item.manufacturer as string) || "Unknown";
   return {
     id: (item.id as string) || "",
     slug: (item.slug as string) || "",
     name: (item.name as string) || "Unknown",
-    manufacturer: (item.manufacturer as string) || "Unknown",
+    manufacturer: manufacturer as PSU["manufacturer"],
     image: (item.image as string) || "",
     officialUrl: (item.officialUrl as string) || "",
     releaseDate: (item.releaseDate as string) || "2023-01-01",

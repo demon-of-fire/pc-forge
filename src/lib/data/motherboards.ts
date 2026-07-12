@@ -2,11 +2,12 @@ import motherboardsData from "../../../public/data/motherboards.json";
 import { Motherboard } from "./types";
 
 function normalizeMotherboard(item: Record<string, unknown>): Motherboard {
+  const manufacturer = (item.manufacturer as string) || "Unknown";
   return {
     id: (item.id as string) || "",
     slug: (item.slug as string) || "",
     name: (item.name as string) || "Unknown",
-    manufacturer: (item.manufacturer as string) || "Unknown",
+    manufacturer: manufacturer as Motherboard["manufacturer"],
     image: (item.image as string) || "",
     officialUrl: (item.officialUrl as string) || "",
     releaseDate: (item.releaseDate as string) || "2023-01-01",

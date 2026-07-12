@@ -2,11 +2,12 @@ import ramData from "../../../public/data/ram.json";
 import { RAM } from "./types";
 
 function normalizeRAM(item: Record<string, unknown>): RAM {
+  const manufacturer = (item.manufacturer as string) || "Unknown";
   return {
     id: (item.id as string) || "",
     slug: (item.slug as string) || "",
     name: (item.name as string) || "Unknown",
-    manufacturer: (item.manufacturer as string) || "Unknown",
+    manufacturer: manufacturer as RAM["manufacturer"],
     image: (item.image as string) || "",
     officialUrl: (item.officialUrl as string) || "",
     releaseDate: (item.releaseDate as string) || "2023-01-01",

@@ -1,5 +1,5 @@
 import { 
-  CompatibilityResult, PCBuild 
+  CompatibilityResult, PCBuild, CPU, GPU, Motherboard, RAM, PSU, Case, Cooler 
 } from "@/lib/data/types";
 
 export function checkCompatibility(build: PCBuild): CompatibilityResult[] {
@@ -80,7 +80,9 @@ export function checkCompatibility(build: PCBuild): CompatibilityResult[] {
   if (components.case && components.gpu) {
     // In our seed data, GPU length isn't explicit, so we'll assume a default or use a proxy
     // For now, let's just check if it's a very small case and a very large GPU
-    if (components.case.formFactor === "Mini-ITX" && components.gpu.vramAmount >= 24) {
+    const caseFormFactor = components.case.formFactor ?? "";
+    const gpuVram = components.gpu.vramAmount ?? 0;
+    if (caseFormFactor === "Mini-ITX" && gpuVram >= 24) {
       results.push({
         check: "GPU Clearance",
         status: "warning",
@@ -92,7 +94,7 @@ export function checkCompatibility(build: PCBuild): CompatibilityResult[] {
         check: "GPU Clearance",
         status: "compatible",
         message: "Clearance Likely OK",
-        details: `GPU should fit in this ${components.case.formFactor} case.`,
+        details: `GPU should fit in this ${caseFormFactor} case.`,
       });
     }
   }

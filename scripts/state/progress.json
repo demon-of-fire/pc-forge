@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-07-11T12:59:05.615024+00:00",
-  "last_success": "2026-07-11T12:59:05.615024+00:00",
+  "last_run": "2026-07-12T05:30:35.876971+00:00",
+  "last_success": "2026-07-12T05:30:35.876971+00:00",
   "runs": [
     {
       "timestamp": "2026-07-11T11:26:21.564833+00:00",
@@ -217,58 +217,128 @@
         }
       },
       "dry_run": false
+    },
+    {
+      "timestamp": "2026-07-12T05:30:35.876971+00:00",
+      "categories": {
+        "cpus": {
+          "existing": 436,
+          "new": 436,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "gpus": {
+          "existing": 552,
+          "new": 552,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "motherboards": {
+          "existing": 588,
+          "new": 588,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "ram": {
+          "existing": 541,
+          "new": 541,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "storage": {
+          "existing": 600,
+          "new": 600,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "psus": {
+          "existing": 602,
+          "new": 602,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "cases": {
+          "existing": 596,
+          "new": 596,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "coolers": {
+          "existing": 577,
+          "new": 577,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        }
+      },
+      "dry_run": false
     }
   ],
   "stats": {
-    "total_components": 27,
+    "total_components": 4492,
     "categories": {
       "cpus": {
-        "total": 6,
-        "unique_slugs": 6,
-        "unique_ids": 6,
-        "errors": 60
+        "total": 436,
+        "unique_slugs": 436,
+        "unique_ids": 436,
+        "errors": 5214
       },
       "gpus": {
-        "total": 3,
-        "unique_slugs": 3,
-        "unique_ids": 3,
-        "errors": 54
+        "total": 552,
+        "unique_slugs": 520,
+        "unique_ids": 520,
+        "errors": 6169
       },
       "motherboards": {
-        "total": 3,
-        "unique_slugs": 3,
-        "unique_ids": 3,
-        "errors": 42
+        "total": 588,
+        "unique_slugs": 588,
+        "unique_ids": 588,
+        "errors": 6480
       },
       "ram": {
-        "total": 3,
-        "unique_slugs": 3,
-        "unique_ids": 3,
-        "errors": 33
+        "total": 541,
+        "unique_slugs": 136,
+        "unique_ids": 136,
+        "errors": 6761
       },
       "storage": {
-        "total": 3,
-        "unique_slugs": 3,
-        "unique_ids": 3,
-        "errors": 29
+        "total": 600,
+        "unique_slugs": 230,
+        "unique_ids": 230,
+        "errors": 6742
       },
       "psus": {
-        "total": 3,
-        "unique_slugs": 3,
-        "unique_ids": 3,
-        "errors": 36
+        "total": 602,
+        "unique_slugs": 597,
+        "unique_ids": 597,
+        "errors": 5443
       },
       "cases": {
-        "total": 3,
-        "unique_slugs": 3,
-        "unique_ids": 3,
-        "errors": 33
+        "total": 596,
+        "unique_slugs": 554,
+        "unique_ids": 554,
+        "errors": 5460
       },
       "coolers": {
-        "total": 3,
-        "unique_slugs": 3,
-        "unique_ids": 3,
-        "errors": 33
+        "total": 577,
+        "unique_slugs": 550,
+        "unique_ids": 550,
+        "errors": 5253
       }
     }
   }

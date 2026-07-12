@@ -101,7 +101,8 @@ export function checkCompatibility(build: PCBuild): CompatibilityResult[] {
 
   // 5. Case ↔ Cooler (Clearance)
   if (components.case && components.cooler) {
-    if (components.cooler.height && components.case.cpuCoolerClearance < components.cooler.height) {
+    const caseClearance = components.case.cpuCoolerClearance ?? 0;
+    if (components.cooler.height && caseClearance < components.cooler.height) {
       results.push({
         check: "Cooler Height",
         status: "incompatible",

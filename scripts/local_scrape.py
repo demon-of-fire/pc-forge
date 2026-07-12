@@ -27,7 +27,7 @@ DATA_DIR = PROJECT_ROOT / "public" / "data"
 
 sys.path.insert(0, str(SCRIPTS_DIR))
 
-from scrapers.pcpartsuk import scrape_product_list
+from scrapers.pcpartsuk import scrape_category as scrape_pcpartsuk
 from scrapers.pcpartpicker import match_to_existing
 from processors.cpu_processor import CPUProcessor
 from processors.gpu_processor import GPUProcessor
@@ -81,13 +81,21 @@ def scrape_category(category: str, dry_run: bool = False) -> dict:
 
     logger.info("Scraping %s from pcparts.uk...", category)
     # Fetch details for first 10 products to get full specs
-    scraped = scrape_product_list(category, max_pages=5, fetch_details=True, max_details=10)
+    scraped = scrape_pcpartsuk(category, max_pages=5, fetch_details=True, max_details=10)
 
     if not scraped:
         logger.warning("No products scraped for %s — keeping existing data", category)
         return {"scraped": 0, "new": 0, "updated": 0, "total": len(existing)}
 
-    updated, new_prods = match_to_existing(scraped, existing)
+    # Normalize all scraped products to ensure required fields
+    normalized_scraped = []
+    for prod in scraped:
+        try:
+            normalized_scraped.append(_normalize_scraped_product(prod))
+        except Exception as e:
+            logger.debug("Failed to normalize product %s: %s", prod.get("name", "unknown"), e)
+
+    updated, new_prods = match_to_existing(normalized_scraped, existing)
     merged = updated + new_prods
 
     logger.info(

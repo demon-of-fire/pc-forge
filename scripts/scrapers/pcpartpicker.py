@@ -319,69 +319,69 @@ def _normalize_scraped_product(prod: dict) -> dict:
     # Add category-specific fields
     if category == "cpus":
         normalized.update({
-            "cores": specs.get("cores"),
-            "threads": specs.get("threads"),
-            "baseFrequency": specs.get("base_clock_ghz") or specs.get("base_clock"),
-            "boostFrequency": specs.get("boost_clock_ghz") or specs.get("boost_clock"),
-            "cache": specs.get("cache"),
-            "socket": specs.get("socket"),
-            "tdp": specs.get("tdp_w") or specs.get("tdp"),
+            "cores": specs.get("cores") or 0,
+            "threads": specs.get("threads") or 0,
+            "baseFrequency": specs.get("base_clock_ghz") or specs.get("base_clock") or 0,
+            "boostFrequency": specs.get("boost_clock_ghz") or specs.get("boost_clock") or 0,
+            "cache": specs.get("cache") or "N/A",
+            "socket": specs.get("socket") or "N/A",
+            "tdp": specs.get("tdp_w") or specs.get("tdp") or 0,
         })
     elif category == "gpus":
         normalized.update({
-            "vram": specs.get("vram_gb") or specs.get("vram"),
-            "memoryType": specs.get("memory_type"),
-            "coreClock": specs.get("core_clock_mhz") or specs.get("core_clock"),
-            "boostClock": specs.get("boost_clock_mhz") or specs.get("boost_clock"),
-            "tdp": specs.get("tdp_w") or specs.get("tdp"),
-            "length": specs.get("length_mm") or specs.get("length"),
+            "vram": specs.get("vram_gb") or specs.get("vram") or 0,
+            "memoryType": specs.get("memory_type") or "N/A",
+            "coreClock": specs.get("core_clock_mhz") or specs.get("core_clock") or 0,
+            "boostClock": specs.get("boost_clock_mhz") or specs.get("boost_clock") or 0,
+            "tdp": specs.get("tdp_w") or specs.get("tdp") or 0,
+            "length": specs.get("length_mm") or specs.get("length") or 0,
         })
     elif category == "motherboards":
         normalized.update({
-            "socket": specs.get("socket"),
-            "chipset": specs.get("chipset"),
-            "formFactor": specs.get("form_factor"),
-            "memoryType": specs.get("memory_type"),
-            "memorySlots": specs.get("memory_slots"),
-            "m2Slots": specs.get("m2_slots"),
+            "socket": specs.get("socket") or "N/A",
+            "chipset": specs.get("chipset") or "N/A",
+            "formFactor": specs.get("form_factor") or "N/A",
+            "memoryType": specs.get("memory_type") or "N/A",
+            "memorySlots": specs.get("memory_slots") or 0,
+            "m2Slots": specs.get("m2_slots") or 0,
         })
     elif category == "ram":
         normalized.update({
-            "capacity": specs.get("capacity_gb") or specs.get("capacity"),
-            "memoryType": specs.get("type"),
-            "speed": specs.get("speed_mhz") or specs.get("speed"),
-            "casLatency": specs.get("cas_latency"),
-            "modules": specs.get("modules"),
-            "voltage": specs.get("voltage"),
+            "capacity": specs.get("capacity_gb") or specs.get("capacity") or 0,
+            "memoryType": specs.get("type") or "N/A",
+            "speed": specs.get("speed_mhz") or specs.get("speed") or 0,
+            "casLatency": specs.get("cas_latency") or 0,
+            "modules": specs.get("modules") or 0,
+            "voltage": specs.get("voltage") or "N/A",
         })
     elif category == "storage":
         normalized.update({
-            "capacity": specs.get("capacity_gb") or specs.get("capacity"),
-            "formFactor": specs.get("form_factor"),
-            "interface": specs.get("interface"),
-            "maxRead": specs.get("max_read_mbps") or specs.get("max_read"),
-            "maxWrite": specs.get("max_write_mbps") or specs.get("max_write"),
+            "capacity": specs.get("capacity_gb") or specs.get("capacity") or 0,
+            "formFactor": specs.get("form_factor") or "N/A",
+            "interface": specs.get("interface") or "N/A",
+            "maxRead": specs.get("max_read_mbps") or specs.get("max_read") or 0,
+            "maxWrite": specs.get("max_write_mbps") or specs.get("max_write") or 0,
         })
     elif category == "psus":
         normalized.update({
-            "wattage": specs.get("wattage"),
-            "efficiency": specs.get("efficiency"),
-            "modularity": specs.get("modular") or specs.get("modularity"),
-            "formFactor": specs.get("form_factor"),
+            "wattage": specs.get("wattage") or 0,
+            "efficiency": specs.get("efficiency") or "N/A",
+            "modularity": specs.get("modular") or specs.get("modularity") or "N/A",
+            "formFactor": specs.get("form_factor") or "N/A",
         })
     elif category == "cases":
         normalized.update({
-            "formFactor": specs.get("form_factor"),
-            "maxGpuLength": specs.get("max_gpu_length_mm") or specs.get("max_gpu_length"),
-            "maxCpuCoolerHeight": specs.get("max_cooler_height_mm") or specs.get("max_cooler_height"),
-            "sidePanel": specs.get("side_panel"),
+            "formFactor": specs.get("form_factor") or "N/A",
+            "maxGpuLength": specs.get("max_gpu_length_mm") or specs.get("max_gpu_length") or 0,
+            "maxCpuCoolerHeight": specs.get("max_cooler_height_mm") or specs.get("max_cooler_height") or 0,
+            "sidePanel": specs.get("side_panel") or "N/A",
         })
     elif category == "coolers":
         normalized.update({
-            "coolerType": specs.get("cooler_type") or specs.get("type"),
-            "radiatorSize": specs.get("radiator_mm") or specs.get("radiator_size"),
-            "fanCount": specs.get("fan_count"),
-            "socket": specs.get("socket"),
+            "coolerType": specs.get("cooler_type") or specs.get("type") or "N/A",
+            "radiatorSize": specs.get("radiator_mm") or specs.get("radiator_size") or 0,
+            "fanCount": specs.get("fan_count") or 0,
+            "socket": specs.get("socket") or "N/A",
         })
     
     return normalized

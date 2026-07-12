@@ -3,6 +3,8 @@ import { Case } from "./types";
 
 function normalizeCase(item: Record<string, unknown>): Case {
   const manufacturer = (item.manufacturer as string) || "Unknown";
+  const formFactor = (item.formFactor as string) || "Mid Tower";
+  const motherboardSupport = (item.motherboardSupport as Case["motherboardSupport"]) || [];
   return {
     id: (item.id as string) || "",
     slug: (item.slug as string) || "",
@@ -14,8 +16,8 @@ function normalizeCase(item: Record<string, unknown>): Case {
     msrp: (item.msrp as number) || 0,
     description: (item.description as string) || "",
     prices: (item.prices as Case["prices"]) || [],
-    formFactor: (item.formFactor as string) || "Mid Tower",
-    motherboardSupport: (item.motherboardSupport as Case["motherboardSupport"]) || [],
+    formFactor: formFactor as Case["formFactor"],
+    motherboardSupport: motherboardSupport,
     gpuClearance: (item.gpuClearance as number) || 0,
     cpuCoolerClearance: (item.cpuCoolerClearance as number) || 0,
     fanSupport: (item.fanSupport as Case["fanSupport"]) || [],

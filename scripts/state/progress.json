@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-07-16T05:12:33.074829+00:00",
-  "last_success": "2026-07-16T05:12:33.074829+00:00",
+  "last_run": "2026-07-17T05:15:31.003207+00:00",
+  "last_success": "2026-07-17T05:15:31.003207+00:00",
   "runs": [
     {
       "timestamp": "2026-07-11T11:26:21.564833+00:00",
@@ -500,6 +500,76 @@
     },
     {
       "timestamp": "2026-07-16T05:12:33.074829+00:00",
+      "categories": {
+        "cpus": {
+          "existing": 436,
+          "new": 436,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "gpus": {
+          "existing": 552,
+          "new": 552,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "motherboards": {
+          "existing": 588,
+          "new": 588,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "ram": {
+          "existing": 541,
+          "new": 541,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "storage": {
+          "existing": 600,
+          "new": 600,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "psus": {
+          "existing": 602,
+          "new": 602,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "cases": {
+          "existing": 596,
+          "new": 596,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        },
+        "coolers": {
+          "existing": 577,
+          "new": 577,
+          "added": 0,
+          "updated": 0,
+          "removed": 0,
+          "status": "success"
+        }
+      },
+      "dry_run": false
+    },
+    {
+      "timestamp": "2026-07-17T05:15:31.003207+00:00",
       "categories": {
         "cpus": {
           "existing": 436,
